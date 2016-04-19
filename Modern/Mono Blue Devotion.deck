@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Telepathy">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Spreading Seas">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Bident of Thassa">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Jace, Architect of Thought">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Cryptic Command">
+            <card set="LRW" lang="EN" count="2"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Master of Waves">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Teferi, Mage of Zhalfir">
+            <card set="TSP" lang="EN" count="2"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Scrying Sheets">
+            <card set="CS" lang="EN" count="3"/>
+        </item>
+        <item id="Snow-Covered Island">
+            <card set="CS" lang="EN" count="21"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Spreading Seas">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Vendilion Clique">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Threads of Disloyalty">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Batterskull">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Dissipation Field">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Displacement Wave">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Azure Mage">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

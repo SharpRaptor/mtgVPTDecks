@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Akrasan Squire">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Aven Squire">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Battlegrace Angel">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Giltspire Avenger">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Knight of Glory">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Knotvine Paladin">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Sovereigns of Lost Alara">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Sublime Archangel">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Angelic Benediction">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Aqueous Form">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Ardent Plea">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Armadillo Cloak">
+            <card set="FNM" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Battle Mastery">
+            <card set="LRW" lang="EN" count="2"/>
+        </item>
+        <item id="Finest Hour">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Rancor">
+            <card set="FNM" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Azorius Guildgate">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Cathedral of War">
+            <card set="FBP" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="4"/>
+        </item>
+        <item id="Rogue's Passage">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Seaside Citadel">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Selesnya Guildgate">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Simic Guildgate">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Transguild Promenade">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

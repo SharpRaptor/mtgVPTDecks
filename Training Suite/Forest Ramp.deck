@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Creatures"/>
+        <item id="Dungrove Elder">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Rampaging Baloths">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Terra Stomper">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Timbermaw Larva">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Silklash Spider">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk's Horde">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Nature's Lore">
+            <card set="5E" lang="EN" count="4"/>
+        </item>
+        <item id="Khalni Heart Expedition">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Explore">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Ranger's Path">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Boundless Realms">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <group name="Tricks"/>
+        <item id="Primal Bellow">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Ulvenwald Tracker">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Blanchwood Armor">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <group name="Other"/>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="24"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

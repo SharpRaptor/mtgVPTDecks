@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Zhur-Taa Druid">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Centaur Healer">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Thundermaw Hellkite">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="3"/>
+        </item>
+        <item id="Sigarda, Host of Herons">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk Relentless">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="2"/>
+        </item>
+        <item id="Entreat the Angels">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Selesnya Charm">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Sunpetal Grove">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

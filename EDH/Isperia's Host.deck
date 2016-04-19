@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Angel of Finality">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Angelic Arbiter">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Keiga, the Tide Star">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn, Angel of Hope">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn, Guardian Angel">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Archon of Redemption">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Archon of the Triumvirate">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Chancery">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Cluestone">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Keyrune">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Baneslayer Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Banishing Light">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Blazing Archon">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Consecrated Sphinx">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Day of Judgment">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Declaration of Naught">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Devastation Tide">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Dissipation Field">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Drogskol Reaver">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="End Hostilities">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Fated Retribution">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Favorable Winds">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Gift of Estates">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Gravitational Shift">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Halimar Depths">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Hinder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KTK" lang="EN" ver="1" count="13"/>
+        </item>
+        <item id="Isperia, Supreme Judge">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Jace Beleren">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Journey to Nowhere">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Master of Predicaments">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Medomai the Ageless">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Mind's Eye">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Nevermore">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Norn's Annex">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Opportunity">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="13"/>
+        </item>
+        <item id="Pride of the Clouds">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Prognostic Sphinx">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rewind">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Roil Elemental">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Sejiri Refuge">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Soul of Ravnica">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx Ambassador">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx of Jwar Isle">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx of Magosi">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx's Revelation">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sunblast Angel">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Telepathy">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Wall of Denial">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Warden of Evos Isle">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Windreader Sphinx">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Worn Powerstone">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="angel of the dire hour">
+            <card lang="EN" count="1"/>
+        </item>
+        <item id="Isperia the Inscrutable">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

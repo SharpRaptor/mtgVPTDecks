@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Win Cons"/>
+        <item id="Felidar Sovereign">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Helix Pinnacle">
+            <card set="EVE" lang="EN" count="4"/>
+        </item>
+        <item id="Maze's End">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Door to Nothingness">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Battle of Wits">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Sphinx's Revelation">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Day of Judgment">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <group name="Gifts Targets"/>
+        <item id="Creeping Renaissance">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Obzedat's Aid">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Assemble the Legion">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Elesh Norn, Grand Cenobite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Banishing Light">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <group name="Fixing and Ramp"/>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Prismatic Omen">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Joiner Adept">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Caryatid">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <group name="Tutor"/>
+        <item id="Green Sun's Zenith">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Wargate">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Enlightened Tutor">
+            <card set="6E" lang="EN" count="4"/>
+        </item>
+        <item id="Idyllic Tutor">
+            <card set="MOR" lang="EN" count="4"/>
+        </item>
+        <item id="Gifts Ungiven">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Birthing Pod">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Eidolon of Blossoms">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Academy Rector">
+            <card set="UD" lang="EN" count="4"/>
+        </item>
+        <item id="Gatecreeper Vine">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Centaur Healer">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <group name="Land"/>
+        <item id="Azorius Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Izzet Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Golgari Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Rakdos Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Selesnya Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Simic Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Boros Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Orzhov Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Dimir Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Gruul Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Transguild Promenade">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Rupture Spire">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="FRF" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="FRF" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="FRF" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="FRF" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="FRF" lang="EN" ver="1" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Kiki-Jiki, Mirror Breaker">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Iona, Shield of Emeria">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Doomwake Giant">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk Relentless">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Kiora, the Crashing Wave">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Diabolic Revelation">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="DDD" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Arbor Elf">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Wolfir Silverheart">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Silverblade Paladin">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Griselbrand">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Grisly Salvage">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Avacyn, Angel of Hope">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Elderscale Wurm">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Angel of Serenity">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Woodland Cemetery">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Sunpetal Grove">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

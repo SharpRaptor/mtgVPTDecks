@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Hall of the Bandit Lord">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Cathedral of War">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rogue's Passage">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="13"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="13"/>
+        </item>
+        <item id="Azorius Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Serra's Sanctum">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="V10" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wayfarer's Bauble">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Sword of Vengeance">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <group name="Walkers"/>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Sphere of Safety">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Sorcery"/>
+        <item id="Winds of Rath">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Plea for Guidance">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Three Dreams">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <group name="Instants"/>
+        <item id="Aura Finesse">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Render Silent">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx's Revelation">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Mesa Enchantress">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Ajani's Chosen">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Sovereigns of Lost Alara">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Mirror-Mad Phantasm">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Kitsune Mystic">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Celestial Ancient">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Rootwater Shaman">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Umbra Mystic">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Devout Witness">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Diplomatic Escort">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Drogskol Reaver">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Augury Adept">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Geist of Saint Traft">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Grand Abolisher">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Grand Arbiter Augustin IV">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Medomai the Ageless">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Wall of Denial">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Auramancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Auratouched Mage">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Hero of Iroas">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Kor Spiritdancer">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx Ambassador">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Meddling Mage">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Deranged Assistant">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <group name="Auras"/>
+        <item id="Protective Bubble">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Ephara's Enlightenment">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Aqueous Form">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Righteous Authority">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Steel of the Godhead">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Sigil of Sleep">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Curiosity">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Eland Umbra">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Flickerform">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Eldrazi Conscription">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Diplomatic Immunity">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Corrupted Conscience">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Eel Umbra">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Hyena Umbra">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Spirit Mantle">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Infiltrator's Magemark">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Guardian's Magemark">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Angelic Destiny">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Auramancer's Guise">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Ethereal Armor">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Celestial Mantle">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Battle Mastery">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Divine Favor">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Bruna, Light of Alabaster">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

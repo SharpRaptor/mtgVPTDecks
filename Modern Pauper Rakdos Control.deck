@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Blightning">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Wrench Mind">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana's Specter">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Chittering Rats">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Wicked Akuba">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Dash Hopes">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Sign in Blood">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana's Shade">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="2" count="10"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Geth's Verdict">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Wicked Akuba">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Gray Merchant of Asphodel">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Nettling Curse">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Wrecking Ball">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Consume Spirit">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

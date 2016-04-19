@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="FRF" lang="EN" ver="1" count="10"/>
+        </item>
+        <item id="Hinterland Harbor">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="FRF" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Arbor Elf">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Elvish Mystic">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Biovisionary">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Elvish Archdruid">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Elvish Visionary">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Gyre Sage">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Master Biomancer">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Zameck Guildmage">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma's Memorial">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Infinite Reflection">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Primal Surge">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

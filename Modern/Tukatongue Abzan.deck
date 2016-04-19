@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Dryad Arbor">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="ORI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Marsh Flats">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="ORI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Razorverge Thicket">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="ORI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Doomed Traveler">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Viscera Seer">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Tukatongue Thallid">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Satyr Wayfinder">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Cartel Aristocrat">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Tidehollow Sculler">
+            <card set="ALA" lang="EN" count="3"/>
+        </item>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Blood Artist">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Teysa, Orzhov Scion">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Abzan Ascendancy">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Return to the Ranks">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Collected Company">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Tidehollow Sculler">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Burrenton Forge-Tender">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Stain the Mind">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Orzhov Pontiff">
+            <card set="GP" lang="EN" count="2"/>
+        </item>
+        <item id="Linvala, Keeper of Silence">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

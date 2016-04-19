@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Amulet of Vigor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Blightsteel Colossus">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Channel">
+            <card set="4E" lang="EN" count="4"/>
+        </item>
+        <item id="Cloudpost">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Glimmerpost">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Mox Emerald">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Mox Sapphire">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Show and Tell">
+            <card set="US" lang="EN" count="3"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="4"/>
+        </item>
+        <item id="Steel Hellkite">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Thespian's Stage">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Time Walk">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="RS" lang="EN" count="4"/>
+        </item>
+        <item id="Ulamog, the Infinite Gyre">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Vesuva">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Worldly Tutor">
+            <card set="6E" lang="EN" count="3"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

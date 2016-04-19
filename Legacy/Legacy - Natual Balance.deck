@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="Natural Balance">
+    <section id="main">
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Counterbalance">
+            <card set="CS" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Force of Will">
+            <card set="AL" lang="EN" count="4"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="4"/>
+        </item>
+        <item id="Noble Hierarch">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Rhox War Monk">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Progenitus">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Natural Order">
+            <card set="VI" lang="EN" count="3"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="ON" lang="EN" count="2"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="RS" lang="EN" count="4"/>
+        </item>
+        <item id="Tundra">
+            <card set="RS" lang="EN" count="3"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="ON" lang="EN" count="4"/>
+        </item>
+        <item id="Dryad Arbor">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Stifle">
+            <card set="CNS" lang="ENG" count="3"/>
+        </item>
+        <item id="Disenchant">
+            <card set="LEA" lang="ENG" count="3"/>
+        </item>
+        <item id="Annul">
+            <card set="THS" lang="ENG" count="3"/>
+        </item>
+        <item id="Root Maze">
+            <card set="TMP" lang="ENG" count="3"/>
+        </item>
+        <item id="Condemn">
+            <card set="M11" lang="ENG" count="3"/>
+        </item>
+    </section>
+</deck>

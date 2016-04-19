@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Commander"/>
+        <item id="Sharuum the Hegemon">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <group name="Sorcery"/>
+        <item id="Demonic Tutor">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Fabricate">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Reshape">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Roar of Reclamation">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Thoughtcast">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <group name="Instant"/>
+        <item id="Esper Charm">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Alloy Myr">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Strix">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Cathedral Membrane">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Enigma Sphinx">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Etherium Sculptor">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Ethersworn Canonist">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Gold Myr">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Kuldotha Forgemaster">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Leaden Myr">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Magister Sphinx">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Master of Etherium">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Master Transmuter">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Memnarch">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Myr Propagator">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Myr Welder">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Palladium Myr">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Platinum Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Platinum Emperion">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Shimmer Myr">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Silver Myr">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx of the Steel Wind">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx Summoner">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Thada Adel, Acquisitor">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Thopter Assembly">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Mage">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Trinket Mage">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <group name="Walker"/>
+        <item id="Tezzeret, Agent of Bolas">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Sorin, Lord of Innistrad">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Tezzeret the Seeker">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Ancient Den">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Citadel">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Academy Ruins">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="10"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Arcane Sanctum">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Vault of the Archangel">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Vault of Whispers">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="7"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="2" count="7"/>
+        </item>
+        <item id="Seat of the Synod">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Courier's Capsule">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Cranial Plating">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Elixir of Immortality">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Energy Chamber">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Everflowing Chalice">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Executioner's Capsule">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Howling Mine">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Ichor Wellspring">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Lux Cannon">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Mindslaver">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Prototype Portal">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Ratchet Bomb">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Skeleton Shard">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Time Sieve">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Trading Post">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Traveler's Amulet">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Wanderer's Twig">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Wayfarer's Bauble">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Blightsteel Colossus">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Contagion Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

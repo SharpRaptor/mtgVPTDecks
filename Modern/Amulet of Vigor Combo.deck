@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Simian Spirit Guide">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Azusa, Lost but Seeking">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="1"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Garrison">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Confluence">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Gemstone Mine">
+            <card set="TSB" lang="EN" count="4"/>
+        </item>
+        <item id="Glimmerpost">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Golgari Rot Farm">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul Turf">
+            <card set="GP" lang="EN" count="3"/>
+        </item>
+        <item id="Selesnya Sanctuary">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Simic Growth Chamber">
+            <card set="DIS" lang="EN" count="4"/>
+        </item>
+        <item id="Slayers' Stronghold">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Sunhome, Fortress of the Legion">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Tendo Ice Bridge">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="3"/>
+        </item>
+        <item id="Vesuva">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Amulet of Vigor">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Hive Mind">
+            <card set="M10" lang="EN" count="2"/>
+        </item>
+        <item id="Pact of Negation">
+            <card set="FUT" lang="EN" count="2"/>
+        </item>
+        <item id="Summoner's Pact">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Summer Bloom">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Slaughter Pact">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of Sanctity">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Seal of Primordium">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Slaughter Pact">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Firespout">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

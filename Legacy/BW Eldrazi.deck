@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Ancient Tomb">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Caves of Koilos">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="City of Traitors">
+            <card set="EX" lang="EN" count="3"/>
+        </item>
+        <item id="Eldrazi Temple">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Karakas">
+            <card set="LG" lang="EN" count="2"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Containment Priest">
+            <card set="C14" lang="EN" count="2"/>
+        </item>
+        <item id="Eldrazi Displacer">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Eldrazi Mimic">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Endbringer">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Endless One">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Reality Smasher">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Thought-Knot Seer">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Warping Wail">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Dismember">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Lotus Petal">
+            <card set="TE" lang="EN" count="2"/>
+        </item>
+        <item id="Trinisphere">
+            <card set="DS" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Containment Priest">
+            <card set="C14" lang="EN" count="2"/>
+        </item>
+        <item id="Dismember">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Revoker">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Thorn of Amethyst">
+            <card set="LRW" lang="EN" count="2"/>
+        </item>
+        <item id="Umezawa's Jitte">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Winter Orb">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

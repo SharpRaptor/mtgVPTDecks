@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Evolving Wilds">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="9"/>
+        </item>
+        <item id="Island">
+            <card set="KTK" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="All Suns' Dawn">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Conflux">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Gifts Ungiven">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Savage Twister">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Godsire">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Meglonoth">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Lavalanche">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="CMD" lang="EN" count="2"/>
+        </item>
+        <item id="Child of Alara">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Progenitus">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Archangel">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Kaervek the Merciless">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Prince of Thralls">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Nexus">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Enigma Sphinx">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx of the Steel Wind">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Empyrial Archangel">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

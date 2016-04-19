@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Sorcery"/>
+        <item id="Molten Psyche">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Browbeat">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Prosperity">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Machinations">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Minds Aglow">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Devastation Tide">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Reforge the Soul">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Revelation">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Cruel Ultimatum">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Increasing Ambition">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Phthisis">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Mystic Retrieval">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Epic Experiment">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Font of Mythos">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Basilisk Collar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Howling Mine">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Spellbook">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wayfarer's Bauble">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Future Sight">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Curiosity">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Archmage Ascension">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Forced Fruition">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Helm of the Ghastlord">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Knowledge">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Kruphix">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Underworld Dreams">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Nin, the Pain Artist">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Kederekt Parasite">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Hypersonic Dragon">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Finality">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Melek, Izzet Paragon">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Charmbreaker Devils">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Niv-Mizzet, Dracogenius">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Jace's Archivist">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Mogis, God of Slaughter">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Electromancer">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Thraximundar">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Niv-Mizzet, the Firemind">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Thassa, God of the Sea">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Fate Unraveler">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Whirlpool Warrior">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Seizan, Perverter of Truth">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Dakra Mystic">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <group name="Walker"/>
+        <item id="Nicol Bolas, Planeswalker">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Jace Beleren">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Ral Zarek">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <group name="Instant"/>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Blue Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Increasing Vengeance">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Reverberate">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Perplex">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Augury">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Polluted Mire">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Boilerworks">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Mikokoro, Center of the Sea">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <item id="Forgotten Cave">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Aqueduct">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="2" count="5"/>
+        </item>
+        <item id="Desolate Lighthouse">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Transguild Promenade">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Carnarium">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="5"/>
+        </item>
+        <item id="Izzet Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Barren Moor">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Lonely Sandbar">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Smoldering Crater">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="7"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Nekusar, the Mindrazer">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

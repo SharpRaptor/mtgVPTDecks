@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Broodmate Dragon">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Deathrite Shaman">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="2"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thrun, the Last Troll">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Veteran Explorer">
+            <card set="WL" lang="EN" count="4"/>
+        </item>
+        <item id="Garruk, Primal Hunter">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Cabal Therapy">
+            <card set="JU" lang="EN" count="4"/>
+        </item>
+        <item id="Green Sun's Zenith">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="AP" lang="EN" count="3"/>
+        </item>
+        <item id="Punishing Fire">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Badlands">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Bayou">
+            <card set="RS" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Grove of the Burnwillows">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Kessig Wolf Run">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="KTK" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Phyrexian Tower">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Taiga">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Carpet of Flowers">
+            <card set="US" lang="EN" count="3"/>
+        </item>
+        <item id="Mindbreak Trap">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Red Elemental Blast">
+            <card set="4E" lang="EN" count="3"/>
+        </item>
+        <item id="Slaughter Games">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Surgical Extraction">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

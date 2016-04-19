@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="RTR" lang="EN" ver="1" opt="Foil" count="9"/>
+            <card set="ZEN" lang="EN" ver="3" opt="Foil" count="1"/>
+            <card set="RAV" lang="EN" ver="1" opt="Foil" count="1"/>
+        </item>
+        <item id="Eidolon of the Great Revel">
+            <card set="JOU" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Goblin Guide">
+            <card set="GPX" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Grim Lavamancer">
+            <card set="JGC" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Chain Lightning">
+            <card set="PD2" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Fireblast">
+            <card set="DD2" lang="EN" count="4"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Price of Progress">
+            <card set="PD2" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Rift Bolt">
+            <card set="FNM" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Sulfuric Vortex">
+            <card set="CNS" lang="EN" opt="Foil" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Exquisite Firecraft">
+            <card set="ORI" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="ARE" lang="EN" ver="3rd" opt="Oversized" count="2"/>
+        </item>
+        <item id="Pyrostatic Pillar">
+            <card set="SC" lang="EN" count="4"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Smash to Smithereens">
+            <card set="ORI" lang="EN" opt="Foil" count="2"/>
+        </item>
+        <item id="Sulfuric Vortex">
+            <card set="CNS" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+</deck>

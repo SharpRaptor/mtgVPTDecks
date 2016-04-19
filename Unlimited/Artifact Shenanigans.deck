@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Mox Opal">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Master Transmuter">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Enlightened Tutor">
+            <card set="6E" lang="EN" count="4"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RF" lang="DE" count="4"/>
+        </item>
+        <item id="Thoughtcast">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Ornithopter">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Seat of the Synod">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Ancient Den">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Mishra's Workshop">
+            <card set="AQ" lang="EN" count="2"/>
+        </item>
+        <item id="Master of Etherium">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="4"/>
+        </item>
+        <item id="Tinker">
+            <card set="UL" lang="EN" count="4"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Platinum Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kuldotha Forgemaster">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Platinum Emperion">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sundering Titan">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Blightsteel Colossus">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Memnarch">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

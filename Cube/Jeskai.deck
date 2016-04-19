@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Jace Beleren">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Sarkhan, the Dragonspeaker">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Ajani Vengeant">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Consecrated Sphinx">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Monastery Mentor">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Omenspeaker">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Citadel Siege">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Mizzium Mortars">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx's Revelation">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Raise the Alarm">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Into the Roil">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Condemn">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Helix">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Cryptic Command">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Jace's Ingenuity">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Banishing Light">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Vedalken Shackles">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Jeskai Ascendancy">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Encrust">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Narcolepsy">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Forbidding Watchtower">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="FRF" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Plains">
+            <card set="FRF" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="FRF" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Broodmate Dragon">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Xathrid Necromancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Sultai Charm">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bident of Thassa">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Smash to Smithereens">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Purphoros, God of the Forge">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Mystical Teachings">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Flame Slash">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Flickerwisp">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Isamaru, Hound of Konda">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Elite Vanguard">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Char">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Faith's Fetters">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Electrolyze">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Mirran Crusader">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Dispel">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Brimstone Volley">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

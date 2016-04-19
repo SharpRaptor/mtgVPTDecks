@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Chasm">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Grove of the Burnwillows">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Maze of Ith">
+            <card set="DK" lang="EN" count="4"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Rishadan Port">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Savannah">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Taiga">
+            <card set="RS" lang="EN" count="2"/>
+        </item>
+        <item id="Thespian's Stage">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Tranquil Thicket">
+            <card set="ON" lang="EN" count="3"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Wasteland">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="The Tabernacle at Pendrell Vale">
+            <card set="LG" lang="EN" count="1"/>
+        </item>
+        <item id="Dark Depths">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+        <item id="Mox Diamond">
+            <card set="SH" lang="EN" count="4"/>
+        </item>
+        <item id="Exploration">
+            <card set="US" lang="EN" count="4"/>
+        </item>
+        <item id="Manabond">
+            <card set="EX" lang="EN" count="2"/>
+        </item>
+        <item id="Crop Rotation">
+            <card set="UL" lang="EN" count="3"/>
+        </item>
+        <item id="Punishing Fire">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Gamble">
+            <card set="US" lang="EN" count="4"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Trinisphere">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Ethersworn Canonist">
+            <card set="ALA" lang="EN" count="3"/>
+        </item>
+        <item id="Dark Depths">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

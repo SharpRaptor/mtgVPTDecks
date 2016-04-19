@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Kabira Vindicator">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Kinsbaile Cavalier">
+            <card set="MOR" lang="EN" count="2"/>
+        </item>
+        <item id="Knight Exemplar">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Knight of Cliffhaven">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Knight of the White Orchid">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Lightwielder Paladin">
+            <card set="M10" lang="EN" count="2"/>
+        </item>
+        <item id="Silverblade Paladin">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Student of Warfare">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Armored Ascension">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Honor of the Pure">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Marshal's Anthem">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Spear of Heliod">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Break of Day">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="22"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

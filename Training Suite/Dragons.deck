@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Dragon Tyrant">
+            <card set="SC" lang="EN" count="2"/>
+        </item>
+        <item id="Mana-Charged Dragon">
+            <card set="CMD" lang="EN" count="2"/>
+        </item>
+        <item id="Moltensteel Dragon">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Moonveil Dragon">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Preyseizer Dragon">
+            <card set="PC2" lang="EN" count="2"/>
+        </item>
+        <item id="Skirk Prospector">
+            <card set="DDG" lang="EN" count="4"/>
+        </item>
+        <item id="Dragon Fodder">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Geosurge">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Infernal Plunge">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Krenko's Command">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Seething Song">
+            <card set="DDG" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="22"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

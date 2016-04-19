@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="Elves">
+    <section id="main">
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="13"/>
+        </item>
+        <item id="Treetop Village">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Llanowar Elves">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Mercy Killing">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Elvish Promenade">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Timberwatch Elf">
+            <card set="LE" lang="EN" count="1"/>
+        </item>
+        <item id="Taunting Elf">
+            <card set="ON" lang="EN" count="3"/>
+        </item>
+        <item id="Imperious Perfect">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Essence Warden">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+        <item id="Elvish Archdruid">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Seeker of Skybreak">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Heedless One">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Elderscale Wurm">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk's Horde">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Soul of the Harvest">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Yavimaya Wurm">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

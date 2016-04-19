@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <group name="Creatures"/>
+        <item id="Liliana's Shade">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Phyrexian Rager">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Gray Merchant of Asphodel">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Crypt Rats">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Chittering Rats">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana's Specter">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <group name="Spells"/>
+        <item id="Sign in Blood">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Absorb Vis">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Duress">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M10" lang="EN" count="3"/>
+        </item>
+        <item id="Geth's Verdict">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Wrench Mind">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Corrupt">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Tendrils of Corruption">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Barren Moor">
+            <card set="ON" lang="EN" count="3"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="2" count="14"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Talara's Bane">
+            <card set="EVE" lang="EN" count="3"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Disfigure">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Tendrils of Corruption">
+            <card set="M10" lang="EN" count="2"/>
+        </item>
+        <item id="Syphon Mind">
+            <card set="ON" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

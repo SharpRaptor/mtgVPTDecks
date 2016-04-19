@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Lands"/>
+        <item id="Great Furnace">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Seat of the Synod">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Vault of Whispers">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Citadel">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Academy Ruins">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Buried Ruin">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Deceit">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Crumbling Necropolis">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Carnarium">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Boilerworks">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Aqueduct">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="7"/>
+        </item>
+        <item id="Mountain">
+            <card set="BFZ" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="1" count="6"/>
+        </item>
+        <group name="Artifact Goodstuff"/>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <group name="Support"/>
+        <item id="Hellkite Tyrant">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Etherium Sculptor">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Fabricate">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Scrap Mastery">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Shimmer Myr">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Master Transmuter">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Nicol Bolas, Planeswalker">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Strix">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Metamorph">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Unwinding Clock">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Thoughtcast">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Thirst for Knowledge">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Tezzeret, Agent of Bolas">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Daretti, Scrap Savant">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Tezzeret the Seeker">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Energy Chamber">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Transmute Artifact">
+            <card set="AQ" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Welder">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Feldon of the Third Path">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Muzzio, Visionary Architect">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Crux of Fate">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <group name="Proliferate"/>
+        <item id="Contagion Clasp">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Contagion Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Fuel for the Cause">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Inexorable Tide">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Tezzeret's Gambit">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Throne of Geth">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact Utility"/>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Voltaic Key">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Hex Parasite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Thopter Assembly">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Time Sieve">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Mindslaver">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Tangle Wire">
+            <card set="V13" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Winter Orb">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Storage Matrix">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Titan Forge">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Blightsteel Colossus">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Forge">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Trading Post">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Spine of Ish Sah">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Reactor">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Lux Cannon">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Nevinyrral's Disk">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Altar of Shadows">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Ichor Wellspring">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Mycosynth Wellspring">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Mishra's Helix">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <group name="Mana Rocks"/>
+        <item id="Everflowing Chalice">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Worn Powerstone">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Archive">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Crosis, the Purger">
+            <card set="PD3" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+</deck>

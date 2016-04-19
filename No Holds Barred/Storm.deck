@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Ancestral Recall">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Cabal Ritual">
+            <card set="TO" lang="EN" count="4"/>
+        </item>
+        <item id="Dark Ritual">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="4"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Yawgmoth's Bargain">
+            <card set="UD" lang="EN" count="3"/>
+        </item>
+        <item id="Manamorphose">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Yawgmoth's Will">
+            <card set="US" lang="EN" count="2"/>
+        </item>
+        <item id="Vampiric Tutor">
+            <card set="6E" lang="EN" count="4"/>
+        </item>
+        <item id="Tendrils of Agony">
+            <card set="SC" lang="EN" count="2"/>
+        </item>
+        <item id="Mox Ruby">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Mox Sapphire">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Mox Jet">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Black Lotus">
+            <card set="U" lang="EN" count="4"/>
+        </item>
+        <item id="Lotus Petal">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Tolarian Academy">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

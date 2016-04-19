@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Custom" name="Ultimate Mana">
+    <section id="main">
+        <item id="Blightsteel Colossus">
+            <card set="NPH" lang="ENG" count="1"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="ENG" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="ENG" count="1"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="ENG" count="3"/>
+        </item>
+        <item id="Ulamog, the Infinite Gyre">
+            <card set="ROE" lang="ENG" count="1"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="ENG" count="1"/>
+        </item>
+        <item id="Amulet of Vigor">
+            <card set="WWK" lang="ENG" count="2"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="ENG" count="2"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MRD" lang="ENG" count="2"/>
+        </item>
+        <item id="Mox Emerald">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Mox Sapphire">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Channel">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Show and Tell">
+            <card set="USG" lang="ENG" count="3"/>
+        </item>
+        <item id="Time Walk">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Cloudpost">
+            <card set="MRD" lang="ENG" count="4"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="ENG" count="2"/>
+        </item>
+        <item id="Glimmerpost">
+            <card set="SOM" lang="ENG" count="4"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="LEA" lang="ENG" count="4"/>
+        </item>
+        <item id="Vesuva">
+            <card set="TSP" lang="ENG" count="4"/>
+        </item>
+        <item id="Thespian's Stage">
+            <card set="GTC" lang="ENG" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+    </section>
+</deck>

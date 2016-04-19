@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Haven of the Spirit Dragon">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mage-Ring Network">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Prairie Stream">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Shambling Vent">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Sunken Hollow">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Anticipate">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Negate">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Ultimate Price">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Scatter to the Winds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Ruinous Path">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Ojutai's Command">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Utter End">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Murderous Cut">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Crux of Fate">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Clash of Wills">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Arashin Cleric">
+            <card set="FRF" lang="EN" count="3"/>
+        </item>
+        <item id="Surge of Righteousness">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Dragonlord Ojutai">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Dragonlord Silumgar">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Duress">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Foul-Tongue Invocation">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Infinite Obliteration">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

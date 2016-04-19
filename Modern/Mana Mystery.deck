@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Jund Charm">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Lavalanche">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Child of Alara">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Empyrial Archangel">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Summoning Trap">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Progenitus">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Conflux">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Surrak Dragonclaw">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Sigarda, Host of Herons">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Chord of Calling">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Summoner's Pact">
+            <card set="FUT" lang="EN" count="2"/>
+        </item>
+        <item id="Broodmate Dragon">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Lavalanche">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Charm">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Banefire">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Mindbreak Trap">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Savage Twister">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Defiler of Souls">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

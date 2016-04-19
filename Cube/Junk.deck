@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Knight-Errant">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodgift Demon">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Pack Rat">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Journey to Nowhere">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Master of the Wild Hunt">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Desecration Demon">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Weathered Wayfarer">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Harmonize">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Wall of Omens">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Skinrender">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Knight of the Reliquary">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Stirring Wildwood">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Chrome Mox">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="FRF" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="FRF" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Sunpetal Grove">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="FRF" lang="EN" ver="1" count="5"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Jeskai Ascendancy">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Sultai Charm">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Xathrid Necromancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Smallpox">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Woodfall Primus">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Champion of the Parish">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Raise the Alarm">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Elesh Norn, Grand Cenobite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Guardian of Thraben">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Siege Rhino">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk Wildspeaker">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Acidic Slime">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Grip">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

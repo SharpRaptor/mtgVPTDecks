@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="Tron">
+    <section id="main">
+        <item id="Urza's Mine">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Power Plant">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Tower">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Grove of the Burnwillows">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Platinum Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Infinite Gyre">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Stirrings">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Scrying">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Pyroclasm">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="All Is Dust">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Karn Liberated">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Chromatic Star">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Relic of Progenitus">
+            <card set="ALA" lang="EN" count="3"/>
+        </item>
+        <item id="Chromatic Sphere">
+            <card set="MR" lang="EN" count="3"/>
+        </item>
+        <item id="Oblivion Stone">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Oblivion Stone">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Combust">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Defense Grid">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Torpor Orb">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Choke">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="Your Fate in My Hands">
+    <section id="main">
+        <group name="Wrath"/>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma's Vengeance">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Planar Cleansing">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Day of Judgment">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Merciless Eviction">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="AEther Snap">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Culling Sun">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Crypt Ghast">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Altar of Shadows">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Barl's Cage">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <group name="Flicker"/>
+        <item id="Tidehollow Sculler">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Abhorrent Overlord">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Aegis Angel">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Custodi Squire">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Entomber Exarch">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <group name="Support"/>
+        <item id="Thousand-Year Elixir">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Magewright's Stone">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Puppet Strings">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Staff of Domination">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Umbral Mantle">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Adarkar Valkyrie">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Justice">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Debt to the Deathless">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Death's Hold">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Exhaustion">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Misfortunes">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Oblivion">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Shallow Graves">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of the Forsaken">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Thirst">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Triad of Fates">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="Temur Retrace">
+    <section id="main">
+        <item id="Burning Vengeance">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Call the Skybreaker">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Flame Jab">
+            <card set="EVE" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" count="5"/>
+        </item>
+        <item id="Guttersnipe">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="KTK" lang="EN" count="5"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="KTK" lang="EN" count="6"/>
+        </item>
+        <item id="Roar of the Wurm">
+            <card set="OD" lang="EN" count="2"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Savage Conception">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Seismic Assault">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Seek the Horizon">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Spitting Image">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Talrand, Sky Summoner">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Spitting Image">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Call the Skybreaker">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Eyes of the Watcher">
+            <card set="FD" lang="EN" count="2"/>
+        </item>
+        <item id="Seek the Horizon">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Talrand, Sky Summoner">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Goblin Electromancer">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Boseiju, Who Shelters All">
+            <card set="FTV" lang="EN" count="4"/>
+        </item>
+        <item id="Vexing Shusher">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="towers" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="bog_tower">
+            <card set="VA" lang="ENG" count="1"/>
+        </item>
+        <item id="ancient_drake">
+            <card set="IN" lang="ENG" count="4"/>
+        </item>
+        <item id="angel_of_hope">
+            <card set="IN" lang="ENG" count="3"/>
+        </item>
+        <item id="angelic_succour">
+            <card set="VA" lang="ENG" count="4"/>
+        </item>
+        <item id="apprentice">
+            <card set="IN" lang="ENG" count="4"/>
+        </item>
+        <item id="armodon">
+            <card set="IN" lang="ENG" count="4"/>
+        </item>
+        <item id="assault_riders">
+            <card set="IN" lang="ENG" count="3"/>
+        </item>
+        <item id="astral_gate_ruins">
+            <card set="IN" lang="ENG" count="2"/>
+        </item>
+        <item id="astral_storm">
+            <card set="VA" lang="ENG" count="1"/>
+        </item>
+        <item id="astral_strike">
+            <card set="VA" lang="ENG" count="2"/>
+        </item>
+        <item id="astral_well">
+            <card set="VA" lang="ENG" count="2"/>
+        </item>
+        <item id="avalanche">
+            <card set="VA" lang="ENG" count="2"/>
+        </item>
+        <item id="ballista_squad">
+            <card set="IN" lang="ENG" count="1"/>
+        </item>
+        <item id="barren_land">
+            <card set="VA" lang="ENG" count="5"/>
+        </item>
+        <item id="battlemage">
+            <card set="IN" lang="ENG" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="curiosity">
+            <card set="IN" lang="ENG" count="1"/>
+        </item>
+        <item id="cursed_hand">
+            <card set="VA" lang="ENG" count="2"/>
+        </item>
+        <item id="dark_attendant">
+            <card set="IN" lang="ENG" count="1"/>
+        </item>
+        <item id="dark_knights">
+            <card set="IN" lang="ENG" count="1"/>
+        </item>
+        <item id="dark_shade">
+            <card set="VA" lang="ENG" count="1"/>
+        </item>
+        <item id="dark_unicorn">
+            <card set="VA" lang="ENG" count="1"/>
+        </item>
+        <item id="dark_warlord">
+            <card set="VA" lang="ENG" count="1"/>
+        </item>
+        <item id="destruction">
+            <card set="VA" lang="ENG" count="2"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Mayor of Avabruck">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Instigator Gang">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Wolfbitten Captive">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Mondronen Shaman">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Wolfir Avenger">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Moonmist">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="13"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="11"/>
+        </item>
+        <item id="Kruin Outlaw">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Daybreak Ranger">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Gatstaf Shepherd">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Lambholt Elder">
+            <card set="DKA" lang="EN" count="3"/>
+        </item>
+        <item id="Scorned Villager">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Immerwolf">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Reckless Waif">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

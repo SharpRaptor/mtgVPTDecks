@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Ramp"/>
+        <item id="Elvish Mystic">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Llanowar Elves">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sylvan Caryatid">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Zhur-Taa Ancient">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Zhur-Taa Druid">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Exploration">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Explore">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Nature's Lore">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Karametra">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <group name="Support"/>
+        <item id="Elvish Piper">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Green Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Ulvenwald Tracker">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Engulfing Slagwurm">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul War Chant">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Clan Defiance">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Comet Storm">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Xenagos, the Reveler">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Domri Rade">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk, Caller of Beasts">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk, Primal Hunter">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Signal the Clans">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonspeaker Shaman">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Bloodletting">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Form of the Dragon">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Rage Reflection">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Fires of Yavimaya">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonmaster Outcast">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Roost">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <group name="Big Things"/>
+        <item id="Hamletback Goliath">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Nylea, God of the Hunt">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Spellbreaker Behemoth">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Hellkite Charger">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Apocalypse Hydra">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Blitz Hellion">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Boartusk Liege">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Borborygmos">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Fanatic of Xenagos">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Feral Animist">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Hellkite Tyrant">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul Ragebeast">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Mage Slayer">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Ruric Thar, the Unbowed">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Savageborn Hydra">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Rapacious One">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Infinite Gyre">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma, Angel of Fury">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Avatar of Fury">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Avatar of Slaughter">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonlair Spider">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Worldspine Wurm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Balefire Dragon">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Broodmother">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Deus of Calamity">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Polis Crusher">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Hydra Broodmaster">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Hydra Omnivore">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Tyrant">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul Turf">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Abandon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Homeward Path">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Maze of Ith">
+            <card set="DK" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Skarrg, the Rage Pits">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="12"/>
+        </item>
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="12"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Xenagos, God of Revels">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

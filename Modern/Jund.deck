@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="JUND">
+    <section id="main">
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Chandra, Pyromaster">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Olivia Voldaren">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Dark Confidant">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Blackcleave Cliffs">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Twilight Mire">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Raging Ravine">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Treetop Village">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Olivia Voldaren">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Fulminator Mage">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Thrun, the Last Troll">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <item id="Sowing Salt">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Shatterstorm">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

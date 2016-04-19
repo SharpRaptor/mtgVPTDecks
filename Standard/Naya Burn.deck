@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Battlefield Forge">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="ORI" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="ORI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="ORI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mana Confluence">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <group name="Spells"/>
+        <item id="Lightning Strike">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Stoke the Flames">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Searing Blood">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Exquisite Firecraft">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Atarka's Command">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Dromoka's Command">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Soulfire Grand Master">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Seeker of the Way">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Kytheon, Hero of Akros">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra, Fire of Kaladesh">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Abbot of Keral Keep">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Dromoka's Command">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="End Hostilities">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Goblin Rabblemaster">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Eidolon of the Great Revel">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Erase">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Abbot of Keral Keep">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Dragon Fodder">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

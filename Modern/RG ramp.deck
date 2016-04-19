@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Harmonize">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Domri Rade">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Caryatid">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Thrun, the Last Troll">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <item id="Spellbreaker Behemoth">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Ruric Thar, the Unbowed">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="BFZ" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Kessig Wolf Run">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Rending Volley">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Nylea's Disciple">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Feed the Clan">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Harmonize">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Domri Rade">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Crumble to Dust">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

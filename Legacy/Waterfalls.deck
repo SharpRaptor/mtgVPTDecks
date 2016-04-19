@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="Waterfalls">
+    <section id="main">
+        <item id="Shardless Agent">
+            <card set="PC2" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodbraid Elf">
+            <card set="PC2" lang="EN" count="4"/>
+        </item>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Deathrite Shaman">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Misdirection">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Force of Will">
+            <card set="JGC" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Punishing Fire">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Ancestral Vision">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Library">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Domri Rade">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Grove of the Burnwillows">
+            <card set="V12" lang="EN" opt="Foil" count="3"/>
+        </item>
+        <item id="Wasteland">
+            <card set="JGC" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="RS" lang="EN" count="2"/>
+        </item>
+        <item id="Volcanic Island">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Taiga">
+            <card set="RF" lang="DE" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="ROE" lang="EN" ver="2" opt="Foil" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="ROE" lang="EN" ver="1" opt="Foil" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Thoughtseize">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Swan Song">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Flusterstorm">
+            <card set="CMD" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Golgari Charm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Null Rod">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Plague">
+            <card set="FNM" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Draft" format="" name="">
+    <section id="main">
+        <item id="Crippling Chill">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Cunning Strike">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Defiant Ogre">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Bell Monk">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Efreet Weaponmaster">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Jeskai Windscout">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Mardu Hordechief">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Mardu Warshrieker">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Outpost Siege">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Pressure Point">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Scaldkin">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Smite the Monstrous">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Suspension Field">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Soul Summons">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Cruise">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Valley Dasher">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Weave Fate">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="War Flare">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Mystic Monastery">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Tranquil Cove">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="FRF" lang="EN" ver="2" count="1"/>
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="FRF" lang="EN" ver="1" count="1"/>
+            <card set="KTK" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+    <cardpool>
+        <card id="Forest" set="KTK" lang="EN" ver="3" count="1*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Swiftwater Cliffs" set="KTK" lang="EN" count="1"/>
+        <card id="Tranquil Cove" set="KTK" lang="EN" count="1"/>
+        <card id="War Flare" set="FRF" lang="EN" count="1"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="3" count="1*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Suspension Field" set="KTK" lang="EN" count="1"/>
+        <card id="Valley Dasher" set="KTK" lang="EN" count="1"/>
+        <card id="Plains" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Smoke Teller" set="KTK" lang="EN" count="1"/>
+        <card id="Treasure Cruise" set="KTK" lang="EN" count="1"/>
+        <card id="Crippling Chill" set="KTK" lang="EN" count="1"/>
+        <card id="Efreet Weaponmaster" set="KTK" lang="EN" count="2"/>
+        <card id="Island" set="FRF" lang="EN" ver="2" count="1"/>
+        <card id="Island" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Outpost Siege" set="FRF" lang="EN" count="1"/>
+        <card id="Mystic Monastery" set="KTK" lang="EN" count="1"/>
+        <card id="Summit Prowler" set="KTK" lang="EN" count="1"/>
+        <card id="Scaldkin" set="KTK" lang="EN" count="1"/>
+        <card id="Mardu Hordechief" set="KTK" lang="EN" count="1"/>
+        <card id="Dragon Bell Monk" set="FRF" lang="EN" count="1"/>
+        <card id="Mountain" set="FRF" lang="EN" ver="1" count="1"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Abzan Skycaptain" set="FRF" lang="EN" count="1"/>
+        <card id="Soul Summons" set="FRF" lang="EN" count="1"/>
+        <card id="Monastery Swiftspear" set="KTK" lang="EN" opt="Foil" count="1"/>
+        <card id="Canyon Lurkers" set="KTK" lang="EN" count="2"/>
+        <card id="Rush of Battle" set="KTK" lang="EN" count="1"/>
+        <card id="Jeskai Windscout" set="KTK" lang="EN" count="1"/>
+        <card id="Mardu Scout" set="FRF" lang="EN" count="1"/>
+        <card id="Kin-Tree Warden" set="KTK" lang="EN" count="1"/>
+        <card id="Bloodfire Expert" set="KTK" lang="EN" count="1"/>
+        <card id="Pressure Point" set="FRF" lang="EN" count="2"/>
+        <card id="Aven Skirmisher" set="FRF" lang="EN" count="1"/>
+        <card id="Trumpet Blast" set="KTK" lang="EN" count="1"/>
+        <card id="Cunning Strike" set="FRF" lang="EN" count="2"/>
+        <card id="Act of Treason" set="KTK" lang="EN" count="1"/>
+        <card id="Mardu Warshrieker" set="KTK" lang="EN" count="1"/>
+        <card id="Collateral Damage" set="FRF" lang="EN" count="1"/>
+        <card id="Defiant Ogre" set="FRF" lang="EN" count="1"/>
+        <card id="Weave Fate" set="KTK" lang="EN" count="3"/>
+        <card id="Woolly Loxodon" set="KTK" lang="EN" count="1"/>
+        <card id="Smite the Monstrous" set="KTK" lang="EN" count="1"/>
+    </cardpool>
+</deck>

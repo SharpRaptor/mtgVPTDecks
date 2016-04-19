@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Faerie Conclave">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Sleight of Hand">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Thought Scour">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Visions of Beyond">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Pyromancer Ascension">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Jeskai Ascendancy">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Fatestitcher">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Monastery Mentor">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Timely Reinforcements">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Wear_Tear">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Young Pyromancer">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Hurkyl's Recall">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

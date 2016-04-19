@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Goblin Guide">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Grim Lavamancer">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Shard Volley">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Vexing Devil">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Eidolon of the Great Revel">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Atarka's Command">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Boros Charm">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Rift Bolt">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Snow-Covered Mountain">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Copperline Gorge">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Kor Firewalker">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Rending Volley">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Destructive Revelry">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Deflecting Palm">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="AEther Vial">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Hushwing Gryff">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Imposing Sovereign">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Thalia, Guardian of Thraben">
+            <card set="DKA" lang="EN" count="3"/>
+        </item>
+        <item id="Linvala, Keeper of Silence">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Spirit of the Labyrinth">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Hunted Horror">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Pack Rat">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Leonin Arbiter">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Oona's Prowler">
+            <card set="LRW" lang="EN" count="3"/>
+        </item>
+        <item id="Grand Abolisher">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="10"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Kataki, War's Wage">
+            <card set="SOK" lang="EN" count="2"/>
+        </item>
+        <item id="Mirran Crusader">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Ethersworn Canonist">
+            <card set="ALA" lang="EN" count="3"/>
+        </item>
+        <item id="Spirit of the Labyrinth">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Pack Rat">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Guardian of Thraben">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Linvala, Keeper of Silence">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Aegis of the Gods"/>
+    </section>
+</deck>

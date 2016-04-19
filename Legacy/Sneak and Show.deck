@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Griselbrand">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="KTK" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="KTK" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Ancient Tomb">
+            <card set="TE" lang="EN" count="3"/>
+        </item>
+        <item id="City of Traitors">
+            <card set="EX" lang="EN" count="2"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Volcanic Island">
+            <card set="RS" lang="EN" count="3"/>
+        </item>
+        <item id="Lotus Petal">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Sneak Attack">
+            <card set="US" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Force of Will">
+            <card set="AL" lang="EN" count="4"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Show and Tell">
+            <card set="US" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Moon">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Echoing Truth">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Swan Song">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Through the Breach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Pyroclasm">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Boseiju, Who Shelters All">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

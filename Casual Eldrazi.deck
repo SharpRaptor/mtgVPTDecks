@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Infinite Gyre">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Pathrazer of Ulamog">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Pelakka Wurm">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Artisan of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Nature's Lore">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Grazing Gladehart">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Wood Elves">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Khalni Heart Expedition">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Explore">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Exploration">
+            <card set="US" lang="EN" count="2"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Eldrazi Conscription">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Eldrazi Temple">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="2" count="21"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

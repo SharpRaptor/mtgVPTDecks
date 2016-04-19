@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Draft" format="" name="">
+    <section id="main">
+        <item id="Ainok Bond-Kin">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Ainok Guide">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Disowned Ancestor">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Feat of Resistance">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Frontier Mastodon">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Hooded Assassin">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Kill Shot">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Reach of Shadows">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Salt Road Patrol">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Sandblast">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Sidisi's Pet">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Warden of the First Tree">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Wardscale Dragon">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Woolly Loxodon">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Throttle">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Abzan Guide">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Abzan Falconer">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Abzan Battle Priest">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KTK" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Swamp">
+            <card set="KTK" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Forest">
+            <card set="KTK" lang="EN" ver="1" count="5"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+    <cardpool>
+        <card id="Dragonscale Boon" set="KTK" lang="EN" count="1"/>
+        <card id="Kill Shot" set="KTK" lang="EN" count="4"/>
+        <card id="Forest" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Forest" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Jeskai Student" set="KTK" lang="EN" count="1"/>
+        <card id="Feat of Resistance" set="KTK" lang="EN" count="2"/>
+        <card id="Disowned Ancestor" set="KTK" lang="EN" count="1"/>
+        <card id="War Flare" set="FRF" lang="EN" count="1"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Swamp" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Throttle" set="KTK" lang="EN" count="1"/>
+        <card id="Abzan Advantage" set="FRF" lang="EN" count="1"/>
+        <card id="Rakshasa Deathdealer" set="KTK" lang="EN" count="1"/>
+        <card id="Archers' Parapet" set="KTK" lang="EN" count="1"/>
+        <card id="Reach of Shadows" set="FRF" lang="EN" count="2"/>
+        <card id="Warden of the First Tree" set="FRF" lang="EN" count="1"/>
+        <card id="Ainok Guide" set="FRF" lang="EN" count="1"/>
+        <card id="Temur Battle Rage" set="FRF" lang="EN" count="1"/>
+        <card id="Plains" set="KTK" lang="EN" ver="1" count="1*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Plains" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Salt Road Patrol" set="KTK" lang="EN" count="1"/>
+        <card id="Island" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Island" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Glacial Stalker" set="KTK" lang="EN" count="1"/>
+        <card id="Sandblast" set="FRF" lang="EN" count="1"/>
+        <card id="Abzan Battle Priest" set="KTK" lang="EN" count="1"/>
+        <card id="Kheru Dreadmaw" set="KTK" lang="EN" count="1"/>
+        <card id="Mardu Hordechief" set="KTK" lang="EN" count="1"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="3" count="*"/>
+        <card id="Mountain" set="KTK" lang="EN" ver="4" count="*"/>
+        <card id="Sage-Eye Harrier" set="KTK" lang="EN" count="1"/>
+        <card id="Frontier Mastodon" set="FRF" lang="EN" count="2"/>
+        <card id="Highland Game" set="KTK" lang="EN" count="1"/>
+        <card id="Sidisi's Pet" set="KTK" lang="EN" count="1"/>
+        <card id="Abzan Falconer" set="KTK" lang="EN" count="1"/>
+        <card id="Molting Snakeskin" set="KTK" lang="EN" count="1"/>
+        <card id="Ancestral Vengeance" set="FRF" lang="EN" count="1"/>
+        <card id="Ainok Bond-Kin" set="KTK" lang="EN" count="1"/>
+        <card id="Unyielding Krumar" set="KTK" lang="EN" count="1"/>
+        <card id="Abzan Guide" set="KTK" lang="EN" count="1"/>
+        <card id="Hooded Assassin" set="FRF" lang="EN" count="1"/>
+        <card id="Rakshasa's Secret" set="KTK" lang="EN" count="1"/>
+        <card id="Wardscale Dragon" set="FRF" lang="EN" count="2"/>
+        <card id="Abzan Banner" set="KTK" lang="EN" count="1"/>
+        <card id="Woolly Loxodon" set="KTK" lang="EN" count="2"/>
+        <card id="Formless Nurturing" set="FRF" lang="EN" count="1"/>
+    </cardpool>
+</deck>

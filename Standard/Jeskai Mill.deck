@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="Jeskai Mill">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Enlightenment">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Shivan Reef">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Mystic Monastery">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="FRF" lang="EN" count="3"/>
+        </item>
+        <item id="Radiant Fountain">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="ORI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="ORI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="ORI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <group name="Non Lands"/>
+        <item id="Soulfire Grand Master">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Dictate of Kruphix">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Magmatic Insight">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Tormenting Voice">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Sphinx's Tutelage">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Treasure Cruise">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Alhammarret's Archive">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Whelming Wave">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Send to Sleep">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Roast">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Searing Blood">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Chandra, Pyromaster">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

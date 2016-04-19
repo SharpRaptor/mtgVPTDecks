@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="Dimir Control Reanimator">
+    <section id="main">
+        <item id="Cancel">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Unsummon">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Typhoid Rats">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Bone Dancer">
+            <card set="WL" lang="EN" count="2"/>
+        </item>
+        <item id="Dimir Cutpurse">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Dimir Doppelganger">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Coffin Queen">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Hypnotic Specter">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Blackmail">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Dream Twist">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="2" count="5"/>
+        </item>
+        <item id="Dimir Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Spawning Pool">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="Boros Agro">
+    <section id="main">
+        <item id="Mountain">
+            <card set="THS" lang="EN" ver="2" count="5"/>
+        </item>
+        <item id="Plains">
+            <card set="THS" lang="EN" ver="2" count="5"/>
+        </item>
+        <item id="Boros Guildgate">
+            <card set="DGM" lang="EN" count="3"/>
+        </item>
+        <item id="Battlefield Forge">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Boros Keyrune">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Recruit">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Doomed Traveler">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Truefire Paladin">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Cavalry Pegasus">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Balefire Liege">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Boros Charm">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Gods Willing">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="2"/>
+        </item>
+        <item id="Pacifism">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>
