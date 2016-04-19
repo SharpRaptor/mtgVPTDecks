@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Blackcleave Cliffs">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="3"/>
+        </item>
+        <item id="Fire-Lit Thicket">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Flame Jab">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Molten Vortex">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Darkblast">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Raging Ravine">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Raven's Crime">
+            <card set="EVE" lang="EN" count="3"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Sin Prodder">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="The Gitrog Monster">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Molten Vortex">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Raven's Crime">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Stormbreath Dragon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

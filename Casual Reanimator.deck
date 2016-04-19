@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Satyr Wayfinder">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Mulch">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Pelakka Wurm">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Karmic Guide">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Dragonlord Atarka">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Karador, Ghost Chieftain">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Reya Dawnbringer">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Omnath, Locus of Rage">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Jarad's Orders">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Fauna Shaman">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Grand Coliseum">
+            <card set="ON" lang="EN" count="2"/>
+        </item>
+        <item id="Savage Lands">
+            <card set="ALA" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Sandsteppe Citadel">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Griselbrand">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma, Angel of Wrath">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Ashen Rider">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

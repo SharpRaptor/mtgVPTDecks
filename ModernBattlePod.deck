@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Celestial Colonnade">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="1" count="7"/>
+        </item>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Marsh Flats">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Razorverge Thicket">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Snow-Covered Forest">
+            <card set="CS" lang="EN" count="5"/>
+        </item>
+        <item id="Snow-Covered Island">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Snow-Covered Plains">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Stirring Wildwood">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Temple of Enlightenment">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Mystery">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Plenty">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Treetop Village">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Arbor Elf">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Archangel of Thune">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Avacyn's Pilgrim">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Baneslayer Angel">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Boreal Druid">
+            <card set="CS" lang="EN" count="4"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Elesh Norn, Grand Cenobite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Elvish Mystic">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Iona, Shield of Emeria">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Knight of the Reliquary">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Kor Firewalker">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Linvala, Keeper of Silence">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Llanowar Elves">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Lone Missionary">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Lotus Cobra">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Loxodon Hierarch">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Noble Hierarch">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Obstinate Baloth">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Orzhov Pontiff">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Panglacial Wurm">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Ranger of Eos">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Rhox Faithmender">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rhox War Monk">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Sovereigns of Lost Alara">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Spike Feeder">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Terastodon">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Wall of Roots">
+            <card set="TSB" lang="EN" count="3"/>
+        </item>
+        <item id="Wilt-Leaf Liege">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Gifts Ungiven">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Noxious Revival">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Sunlance">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Banishing Light">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Batterskull">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Battle of Wits">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Birthing Pod">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Eldrazi Conscription">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sword of Light and Shadow">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Sword of War and Peace">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Aven Mindcensor">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Deglamer">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Negate">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Orzhov Pontiff">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Panglacial Wurm">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Sunlance">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Blightning">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Wrench Mind">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Cry of Contrition">
+            <card set="GP" lang="EN" count="4"/>
+        </item>
+        <item id="Executioner's Capsule">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Consume Spirit">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Dead Weight">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana's Specter">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Gray Merchant of Asphodel">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Chittering Rats">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Bloodfell Caves">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Rakdos Guildgate">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Rakdos Carnarium">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="1" count="14"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Liliana's Shade">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Pestilence">
+            <card set="6E" lang="EN" count="2"/>
+        </item>
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Stone Rain">
+            <card set="9E" lang="EN" count="3"/>
+        </item>
+        <item id="Sinkhole">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Blind Zealot">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Fangren Marauder">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Ulamog's Crusher">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Stirrings">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Chromatic Sphere">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Chromatic Star">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Prismatic Lens">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Prophetic Prism">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Rolling Thunder">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Haunted Fengraf">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Shimmering Grotto">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Urza's Mine">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Power Plant">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Tower">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Circle of Protection Green">
+            <card set="8E" lang="EN" count="2"/>
+        </item>
+        <item id="Circle of Protection Red">
+            <card set="9E" lang="EN" count="3"/>
+        </item>
+        <item id="Rest for the Weary">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Stone Rain">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Tranquility">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog's Crusher">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
