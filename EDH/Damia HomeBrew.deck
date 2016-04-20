@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Other"/>
+        <item id="Rewind">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Villainous Wealth">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Oath of Jace">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Oath of Nissa">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Rhystic Study">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Control Magic">
+            <card set="4EF" lang="PT" count="1"/>
+        </item>
+        <item id="Treachery">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Soul Ransom">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <group name="Walkers"/>
+        <item id="Nissa, Vastwood Seer">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Vraska the Unseen">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="GAM" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Kiora, the Crashing Wave">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Ob Nixilis Reignited">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk, Apex Predator">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Creature Good Stuff"/>
+        <item id="Evil Twin">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Kruphix, God of Horizons">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="The Gitrog Monster">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Ob Nixilis, the Fallen">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Consecrated Sphinx">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Seedborn Muse">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Sire of Stagnation">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Vorinclex, Voice of Hunger">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Sheoldred, Whispering One">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Primeval Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Ceaseless Hunger">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Golgari Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Simic Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Boundless Realms">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Exploration">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Azusa, Lost but Seeking">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Burgeoning">
+            <card set="SH" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Life's Finale">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Crux of Fate">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Gaze of Granite">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <group name="Tutor"/>
+        <item id="Demonic Tutor">
+            <card set="DDC" lang="EN" count="1"/>
+        </item>
+        <item id="Rune-Scarred Demon">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Dark Petition">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Sidisi, Undead Vizier">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Revelation">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Grip">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Beast Within">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Putrefy">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Woodland Cemetery">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Hinterland Harbor">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Command Beacon">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Opulent Palace">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Alchemist's Refuge">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Deceit">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malady">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Mystery">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Damia, Sage of Stone">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
