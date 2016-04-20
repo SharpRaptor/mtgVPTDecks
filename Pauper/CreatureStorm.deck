@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Cloud of Faeries">
+            <card set="UL" lang="EN" count="4"/>
+        </item>
+        <item id="Coiling Oracle">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Archaeomancer">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Kaervek's Torch">
+            <card set="MI" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Utopia Sprawl">
+            <card set="DIS" lang="EN" count="4"/>
+        </item>
+        <item id="Wild Growth">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Fertile Ground">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Snap">
+            <card set="UL" lang="EN" count="4"/>
+        </item>
+        <item id="Compulsive Research">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Ghostly Flicker">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Overgrowth">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Reaping the Graves">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Foresee">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="1" count="9"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Lonely Sandbar">
+            <card set="ON" lang="EN" count="2"/>
+        </item>
+        <item id="Simic Growth Chamber">
+            <card set="DIS" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Aerial Volley">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Moment's Peace">
+            <card set="OD" lang="EN" count="2"/>
+        </item>
+        <item id="Thermokarst">
+            <card set="IA" lang="EN" count="4"/>
+        </item>
+        <item id="Nylea's Disciple">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

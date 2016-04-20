@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Vintage" name="">
+    <section id="main">
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Griselbrand">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Void Winnower">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Black Lotus">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Crypt">
+            <card set="JGC" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Mox Emerald">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Mox Jet">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Mox Pearl">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Mox Ruby">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Mox Sapphire">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Ancestral Recall">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Flusterstorm">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Mental Misstep">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Vampiric Tutor">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Oath of Druids">
+            <card set="EX" lang="EN" count="4"/>
+        </item>
+        <item id="Time Walk">
+            <card set="U" lang="EN" count="1"/>
+        </item>
+        <item id="Dack Fayden">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Yawgmoth's Will">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Force of Will">
+            <card set="AL" lang="EN" count="4"/>
+        </item>
+        <item id="Mindbreak Trap">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Cruise">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Forbidden Orchard">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mana Confluence">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="4EF" lang="PT" count="1"/>
+        </item>
+        <item id="Tolarian Academy">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Underground Sea">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Volcanic Island">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Tormod's Crypt">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Nihil Spellbomb">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Steel Sabotage">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Mindbreak Trap">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Elesh Norn, Grand Cenobite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

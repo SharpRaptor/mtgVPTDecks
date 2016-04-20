@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Walkers"/>
+        <item id="Nissa, Vastwood Seer">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Nissa, Worldwaker">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk, Primal Hunter">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Freyalise, Llanowar's Fury">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk Wildspeaker">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Ajani, Mentor of Heroes">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Polukranos, World Eater">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Genesis Hydra">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Harmonize">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Arbor Elf">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Predator Ooze">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <group name="Land"/>
+        <item id="Temple of Plenty">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="1" count="14"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Freyalise, Llanowar's Fury">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk, Primal Hunter">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Nylea's Disciple">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="The Chain Veil">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Arbor Colossus">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Primalcrux">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
