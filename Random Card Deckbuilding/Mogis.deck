@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Mogis, God of Slaughter">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Defiler of Souls">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Dragonlord Kolaghan">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Thundermaw Hellkite">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Rakdos's Return">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Blightning">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="3"/>
+        </item>
+        <item id="Dreadbore">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="3"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Blighted Fen">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Lavaclaw Reaches">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Blightning">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Duress">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Blazing Specter">
+            <card set="DDH" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
