@@ -17,5 +17,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-Magic/*
+# Virtual playtable stuff
+*.cache
+Magic/Preconstructed Decks/*
+*.cache
 Towers/*
