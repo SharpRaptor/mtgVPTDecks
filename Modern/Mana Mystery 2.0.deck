@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Summoning Trap">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Sigarda, Host of Herons">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Gifts Ungiven">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Iona, Shield of Emeria">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Empyrial Archangel">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <group name="Land"/>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Marsh Flats">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Raven's Crime">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of the Void">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Mindbreak Trap">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

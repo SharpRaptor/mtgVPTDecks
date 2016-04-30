@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Brago's Representative">
+            <card set="CNS" lang="EN" count="4"/>
+        </item>
+        <item id="Grudge Keeper">
+            <card set="CNS" lang="EN" count="4"/>
+        </item>
+        <item id="Split Decision">
+            <card set="CNS" lang="EN" count="4"/>
+        </item>
+        <item id="Plea for Power">
+            <card set="CNS" lang="EN" count="3"/>
+        </item>
+        <item id="Coercive Portal">
+            <card set="CNS" lang="EN" count="4"/>
+        </item>
+        <item id="Council's Judgment">
+            <card set="CNS" lang="EN" count="3"/>
+        </item>
+        <item id="Magister of Worth">
+            <card set="CNS" lang="EN" count="2"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Reap Intellect">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Sorin, Grim Nemesis">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Evil Twin">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Obzedat, Ghost Council">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Marsh Flats">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Shambling Vent">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Fetid Heath">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Reap Intellect">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Evil Twin">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Countersquall">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Notion Thief">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Cutpurse">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Azure Mage">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
