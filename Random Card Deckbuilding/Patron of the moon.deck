@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Patron of the Moon">
+            <card set="BOK" lang="EN" count="3"/>
+        </item>
+        <item id="Erayo, Soratami Ascendant">
+            <card set="SOK" lang="EN" count="3"/>
+        </item>
+        <item id="Meloku the Clouded Mirror">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Uyo, Silent Prophet">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Soratami Mirror-Mage">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Soratami Cloudskater">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Soratami Savant">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Soratami Seer">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Kruphix">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Exploration">
+            <card set="US" lang="EN" count="4"/>
+        </item>
+        <item id="Explore">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Azusa, Lost but Seeking">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Kiora, the Crashing Wave">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="13"/>
+        </item>
+        <item id="Hinterland Harbor">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Kira, Great Glass-Spinner">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Kiora, the Crashing Wave">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Roil Elemental">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Discard"/>
+        <item id="Greel, Mind Raker">
+            <card set="PY" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Wrench Mind">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <group name="Racks"/>
+        <item id="The Rack">
+            <card set="DPA" lang="EN" count="4"/>
+        </item>
+        <item id="Shrieking Affliction">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Waste Not">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Liliana's Caress">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Dismember">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="3"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Mutavault">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="18"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <item id="Disfigure">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Waste Not">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Curse of Death's Hold">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
