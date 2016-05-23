@@ -20,7 +20,10 @@
             <card set="SOI" lang="EN" ver="1" count="2"/>
         </item>
         <item id="Ghost Quarter">
-            <card set="ISD" lang="EN" count="4"/>
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Bastion">
+            <card set="SHM" lang="EN" count="1"/>
         </item>
         <item id="Kitchen Finks">
             <card set="SHM" lang="EN" count="4"/>
@@ -72,14 +75,14 @@
         <item id="Stony Silence">
             <card set="ISD" lang="EN" count="2"/>
         </item>
-        <item id="Suppression Field">
-            <card set="RAV" lang="EN" count="2"/>
-        </item>
         <item id="Warping Wail">
             <card set="OGW" lang="EN" count="3"/>
         </item>
         <item id="World Breaker">
-            <card set="OGW" lang="EN" count="2"/>
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Sea Gate Wreckage">
+            <card set="OGW" lang="EN" count="1"/>
         </item>
     </section>
 </deck>
