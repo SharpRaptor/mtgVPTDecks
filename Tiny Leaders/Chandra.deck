@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Extraplanar Lens">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Fire Diamond">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Hammer of Purphoros">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Ruby Medallion">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Thousand-Year Elixir">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="15"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Valakut, the Molten Pinnacle">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Eidolon of the Great Revel">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Guide">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Grim Lavamancer">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Abbot of Keral Keep">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra's Phoenix">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra's Spitfire">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Ire Shaman">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Kargan Dragonlord">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Vexing Devil">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Burn"/>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Sulfuric Vortex">
+            <card set="DDK" lang="EN" count="1"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Rift Bolt">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Searing Blood">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Searing Spear">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Progress">
+            <card set="PD2" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Exquisite Firecraft">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Flames of the Firebrand">
+            <card set="M14" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Roast">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Flame Slash">
+            <card set="DDK" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Mizzium Mortars">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Act on Impulse">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Chandra, Fire of Kaladesh">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Glory">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Starstorm">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Red Elemental Blast">
+            <card set="4E" lang="EN" count="1"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="ARE" lang="EN" ver="3rd" opt="Oversized" count="1"/>
+        </item>
+        <item id="Magma Spray">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Pillar of Flame">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Shattering Spree">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Vandalblast">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Moon">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

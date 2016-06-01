@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="15"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Riptide Laboratory">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <group name="Protection"/>
+        <item id="Propaganda">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Threads of Disloyalty">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Elixir of Immortality">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Isochron Scepter">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Chimeric Mass">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Codex Shredder">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <group name="Counter"/>
+        <item id="Thoughtbind">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Trickbind">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Stifle">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Memory Lapse">
+            <card set="DDM" lang="EN" count="1"/>
+        </item>
+        <item id="Spell Burst">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Declaration of Naught">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Disrupting Shoal">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Thought Scour">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Think Twice">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Visions of Beyond">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Thing in the Ice">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Fog Bank">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Trinket Mage">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Azure Mage">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Chasm Skulker">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Laboratory Maniac">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Stare">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Chill">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Meekstone">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Twisted Image">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Displacement Wave">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Mizzium Skin">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wall of Frost">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Crawlspace">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Confound">
+            <card set="PS" lang="EN" count="1"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

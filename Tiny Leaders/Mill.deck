@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Mind Sculpt">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Glimpse the Unthinkable">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Funeral">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Grind">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Tome Scour">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Increasing Confusion">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Memory Sluice">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Pilfered Plans">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Psychic Drain">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Dream Twist">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Psychic Strike">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sands of Delirium">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of the Bloody Tome">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Ashiok, Nightmare Weaver">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Jace Beleren">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Crab">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Cutpurse">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Doppelganger">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Duskmantle Guildmage">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Visions of Beyond">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Demise">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Smother">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Toxic Deluge">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Drown in Sorrow">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Horribly Awry">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Dark Impostor">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Deceit">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Creeping Tar Pit">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Sunken Hollow">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Darkslick Shores">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Nephalia Drownyard">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Sygg, River Cutthroat">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Crypt Incursion">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Sadistic Sacrament">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Elixir of Immortality">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Far_Away">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Ensnaring Bridge">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Crawlspace">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <group name="CHAOS"/>
+        <item id="Omniscience">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Possibility Storm">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Back to Basics">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Moon">
+            <card set="DK" lang="EN" count="1"/>
+        </item>
+        <item id="Burning Earth">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Burning Sands">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Copy Enchantment">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Echoes">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Eye of the Storm">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of Anticipation">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of Singularity">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Maze">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <item id="Manabarbs">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Meishin, the Mind Cage">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Unbound">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Overburden">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Rumbling Crescendo">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Smoke">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Training Grounds">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Fevered Visions">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Future Sight">
+            <card set="DDM" lang="EN" count="1"/>
+        </item>
+        <group name="Support"/>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Aeon Chronicler">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Detritivore">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Clout of the Dominus">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Jhoira's Timebug">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Fury Charm">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Rift Elemental">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Paradox Haze">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Clockspinning">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Timecrafting">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Timebender">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Shivan Sand-Mage">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Island">
+            <card set="RTR" lang="EN" ver="1" opt="Foil" count="35"/>
+        </item>
+        <group name="Draw / Manipulation"/>
+        <item id="Brainstorm">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Opt">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Cruise">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Ancestral Vision">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Plea for Power">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Fact or Fiction">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Rhystic Study">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Shivan Meteor">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Chaos Warp">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Reality Shift">
+            <card set="UGF" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Counterflux">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Delay">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Dismiss">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Repulse">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="GTW" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sky Diamond">
+            <card set="MI" lang="EN" count="1"/>
+        </item>
+        <item id="Fire Diamond">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Devastation Tide">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Starstorm">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Obliterate">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Annihilation">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Jhoira of the Ghitu">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Bulwark">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Ice Cave">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Matrix">
+            <card set="LG" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
