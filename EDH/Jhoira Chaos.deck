@@ -107,7 +107,19 @@
         </item>
         <group name="Land"/>
         <item id="Island">
-            <card set="RTR" lang="EN" ver="1" opt="Foil" count="35"/>
+            <card set="RTR" lang="EN" ver="1" opt="Foil" count="17"/>
+        </item>
+        <item id="Mountain">
+            <card set="BFZ" lang="EN" ver="1" opt="Foil" count="14"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
         </item>
         <group name="Draw / Manipulation"/>
         <item id="Brainstorm">
@@ -165,6 +177,9 @@
         </item>
         <item id="Mind Stone">
             <card set="GTW" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
         </item>
         <item id="Sol Ring">
             <card set="C15" lang="EN" count="1"/>

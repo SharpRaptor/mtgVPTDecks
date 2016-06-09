@@ -25,9 +25,6 @@
         <item id="Courser of Kruphix">
             <card set="BNG" lang="EN" count="3"/>
         </item>
-        <item id="Sin Prodder">
-            <card set="SOI" lang="EN" count="3"/>
-        </item>
         <item id="Scavenging Ooze">
             <card set="M14" lang="EN" count="2"/>
         </item>
@@ -40,11 +37,11 @@
         <item id="Molten Vortex">
             <card set="ORI" lang="EN" count="1"/>
         </item>
-        <item id="Nissa, Voice of Zendikar">
-            <card set="OGW" lang="EN" count="1"/>
-        </item>
         <item id="Nissa, Vastwood Seer">
-            <card set="ORI" lang="EN" count="1"/>
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="3"/>
         </item>
         <item id="Ghost Quarter">
             <card set="ISD" lang="EN" count="2"/>
