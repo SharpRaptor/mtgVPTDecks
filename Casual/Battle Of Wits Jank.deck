@@ -45,7 +45,10 @@
             <card set="ISD" lang="EN" count="1"/>
         </item>
         <item id="Obzedat's Aid">
-            <card set="DGM" lang="EN" count="2"/>
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="1"/>
         </item>
         <item id="Assemble the Legion">
             <card set="GTC" lang="EN" count="1"/>

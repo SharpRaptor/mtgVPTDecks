@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Azorius Keyrune">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Celestial Colonnade">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Chimeric Mass">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Creeping Tar Pit">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Dimir Keyrune">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Drown in Sorrow">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Faerie Conclave">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Forbidding Watchtower">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Haunted Plate Mail">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Orzhov Keyrune">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Spawning Pool">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Tainted AEther">
+            <card set="7E" lang="EN" count="3"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Narset Transcendent">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="In Garruk's Wake">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
