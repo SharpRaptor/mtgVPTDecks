@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Insolent Neonate">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodghast">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Narcomoeba">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Prized Amalgam">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Stinkweed Imp">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Golgari Grave-Troll">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Street Wraith">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Burning Inquiry">
+            <card set="M10" lang="EN" count="4"/>
+        </item>
+        <item id="Conflagrate">
+            <card set="TSP" lang="EN" count="3"/>
+        </item>
+        <item id="Darkblast">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Tormenting Voice">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Rally the Peasants">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Blackcleave Cliffs">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Copperline Gorge">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Dakmor Salvage">
+            <card set="FUT" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Darkblast">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Natural State">
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Nihil Spellbomb">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Memory's Journey">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Gnaw to the Bone">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

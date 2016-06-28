@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="17"/>
+        </item>
+        <item id="Mutavault">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="The Rack">
+            <card set="TSB" lang="EN" count="4"/>
+        </item>
+        <item id="Shrieking Affliction">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Dismember">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Funeral Charm">
+            <card set="TSB" lang="EN" count="2"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Raven's Crime">
+            <card set="EVE" lang="EN" count="3"/>
+        </item>
+        <item id="Smallpox">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Wrench Mind">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Relic of Progenitus">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Nyxathid">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Leyline of the Void">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Waste Not">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Disfigure">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Night of Souls' Betrayal">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Deathmark">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Drown in Sorrow">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

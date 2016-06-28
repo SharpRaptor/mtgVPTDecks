@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <group name="Creature"/>
+        <item id="Vexing Devil">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Goblin Guide">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Grim Lavamancer">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Eidolon of the Great Revel">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Scab-Clan Berserker">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra's Phoenix">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <group name="Other"/>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Flame Slash">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Thunderbreak Regent">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

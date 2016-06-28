@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Death's Shadow">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Monastery Swiftspear">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Steppe Lynx">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Wild Nacatl">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Street Wraith">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Mishra's Bauble">
+            <card set="CS" lang="EN" count="4"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Mutagenic Growth">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Temur Battle Rage">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Become Immense">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Natural State">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Helix">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Pyroclasm">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Dismember">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Unlife">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Hooting Mandrills">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Tasigur, the Golden Fang">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

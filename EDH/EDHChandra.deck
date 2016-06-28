@@ -202,11 +202,14 @@
         <item id="War's Toll">
             <card set="DIS" lang="EN" count="1"/>
         </item>
-        <item id="Young Pyromancer">
-            <card set="M14" lang="EN" count="1"/>
-        </item>
         <item id="Ire Shaman">
             <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Glory">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Progress">
+            <card set="EX" lang="EN" count="1"/>
         </item>
     </section>
     <section id="sideboard">

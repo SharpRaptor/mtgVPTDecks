@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Vendilion Clique">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Lightning Helix">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Cryptic Command">
+            <card set="LRW" lang="EN" count="2"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Nahiri, the Harbinger">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Cascade Bluffs">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Celestial Colonnade">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Desolate Lighthouse">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Ancestral Vision">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Wear_Tear">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Celestial Flare">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Timely Reinforcements">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Vendilion Clique">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Crumble to Dust">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Memnite">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Ornithopter">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Signal Pest">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Arcbound Ravager">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Steel Overseer">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Vault Skirge">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Etched Champion">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Master of Etherium">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Mox Opal">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Galvanic Blast">
+            <card set="SOM" lang="EN" count="4"/>
+        </item>
+        <item id="Springleaf Drum">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Cranial Plating">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Thoughtcast">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Blinkmoth Nexus">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Darksteel Citadel">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Glimmervoid">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Inkmoth Nexus">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Wear_Tear">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Relic of Progenitus">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Ethersworn Canonist">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Whipflare">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Blood Moon">
+            <card set="9E" lang="EN" count="3"/>
+        </item>
+        <item id="Etched Champion">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Ghirapur AEther Grid">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

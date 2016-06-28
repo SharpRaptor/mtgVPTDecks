@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="AEther Adept">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Aphetto Grifter">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Azure Mage">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Cosi's Trickster">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Cursecatcher">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Daring Apprentice">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Disruptive Pitmage">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Enclave Cryptologist">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Fatespinner">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Laboratory Maniac">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Lighthouse Chronologist">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Martyr of Frost">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Patron Wizard">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Stonybrook Banneret">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Trinket Mage">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Voidmage Apprentice">
+            <card set="LE" lang="EN" count="1"/>
+        </item>
+        <item id="Voidmage Prodigy">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Declaration of Naught">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Codex Shredder">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Isochron Scepter">
+            <card set="V10" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Visions of Beyond">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Scour">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Memory Lapse">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Rapid Hybridization">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Spell Burst">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="16"/>
+        </item>
+        <item id="Riptide Laboratory">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

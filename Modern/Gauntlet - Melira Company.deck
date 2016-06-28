@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Noble Hierarch">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Viscera Seer">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Anafenza, Kin-Tree Spirit">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Melira, Sylvok Outcast">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Wall of Roots">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="3"/>
+        </item>
+        <item id="Fiend Hunter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Orzhov Pontiff">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Linvala, Keeper of Silence">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Murderous Redcap">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Chord of Calling">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Collected Company">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Razorverge Thicket">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Burrenton Forge-Tender">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Pharika, God of Affliction">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Sin Collector">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

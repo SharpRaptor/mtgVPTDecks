@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Dryad Arbor">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Glistener Elf">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Noble Hierarch">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Blighted Agent">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Viridian Corrupter">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Distortion Strike">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Groundswell">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Might of Old Krosa">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Mutagenic Growth">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Rancor">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Vines of Vastwood">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Apostle's Blessing">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Become Immense">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Inkmoth Nexus">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Pendelhaven">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Twisted Image">
+            <card set="SOM" lang="EN" count="2"/>
+        </item>
+        <item id="Spellskite">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Thing in the Ice">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Wild Defiance">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
