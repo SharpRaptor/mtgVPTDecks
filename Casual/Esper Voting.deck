@@ -7,11 +7,14 @@
         <item id="Grudge Keeper">
             <card set="CNS" lang="EN" count="4"/>
         </item>
-        <item id="Split Decision">
-            <card set="CNS" lang="EN" count="4"/>
-        </item>
         <item id="Plea for Power">
             <card set="CNS" lang="EN" count="3"/>
+        </item>
+        <item id="Council of the Absolute">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Tyrant's Choice">
+            <card set="CNS" lang="EN" count="2"/>
         </item>
         <item id="Coercive Portal">
             <card set="CNS" lang="EN" count="4"/>
@@ -28,14 +31,14 @@
         <item id="Anguished Unmaking">
             <card set="SOI" lang="EN" count="1"/>
         </item>
-        <item id="Reap Intellect">
-            <card set="DGM" lang="EN" count="2"/>
-        </item>
         <item id="Sorin, Grim Nemesis">
             <card set="SOI" lang="EN" count="2"/>
         </item>
         <item id="Evil Twin">
             <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Royal Assassin">
+            <card set="M12" lang="EN" count="2"/>
         </item>
         <item id="Obzedat, Ghost Council">
             <card set="GTC" lang="EN" count="2"/>
@@ -86,10 +89,10 @@
             <card set="RTR" lang="EN" count="1"/>
         </item>
         <item id="Reap Intellect">
-            <card set="DGM" lang="EN" count="1"/>
+            <card set="DGM" lang="EN" count="3"/>
         </item>
         <item id="Rest in Peace">
-            <card set="RTR" lang="EN" count="3"/>
+            <card set="RTR" lang="EN" count="1"/>
         </item>
         <item id="Evil Twin">
             <card set="ISD" lang="EN" count="1"/>

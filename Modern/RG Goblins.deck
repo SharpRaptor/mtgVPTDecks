@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Goblin Guide">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Goblin Bushwhacker">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Reckless Bushwhacker">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Mogg War Marshal">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Foundry Street Denizen">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Legion Loyalist">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Goblin Chieftain">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Hordeling Outburst">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Goblin Grenade">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Atarka's Command">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Copperline Gorge">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="MI" lang="EN" ver="3" count="8"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Blood Moon">
+            <card set="DK" lang="EN" count="4"/>
+        </item>
+        <item id="Destructive Revelry">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Goblin King">
+            <card set="6E" lang="EN" count="2"/>
+        </item>
+        <item id="Molten Rain">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Everlasting Torment">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Combust">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Five-Alarm Fire">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

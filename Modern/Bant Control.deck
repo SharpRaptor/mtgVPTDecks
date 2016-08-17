@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Kiora, the Crashing Wave">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Baneslayer Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Ojutai's Command">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Coiling Oracle">
+            <card set="DIS" lang="EN" count="3"/>
+        </item>
+        <item id="Sylvan Advocate">
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Rune Snag">
+            <card set="CS" lang="EN" count="4"/>
+        </item>
+        <item id="Wall of Omens">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Condemn">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Lumbering Falls">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Celestial Colonnade">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Alchemist's Refuge">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="4" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="BFZ" lang="EN" ver="4" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="2" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Dragonlord Dromoka">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Condemn">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Nature's Claim">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Celestial Purge">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Celestial Flare">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Negate">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
