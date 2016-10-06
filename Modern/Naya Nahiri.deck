@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Oath of Nissa">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Roast">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Sylvan Advocate">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="3"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Gisela, the Broken Blade">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Nahiri, the Harbinger">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Baneslayer Angel">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Stirring Wildwood">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Raging Ravine">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Celestial Purge">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Crumble to Dust">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

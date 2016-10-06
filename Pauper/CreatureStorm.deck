@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deck game="mtg" mode="Constructed" format="" name="">
     <section id="main">
-        <item id="Cloud of Faeries">
-            <card set="UL" lang="EN" count="4"/>
+        <item id="Peregrine Drake">
+            <card set="EMA" lang="EN" count="4"/>
         </item>
         <item id="Coiling Oracle">
             <card set="DIS" lang="EN" count="2"/>

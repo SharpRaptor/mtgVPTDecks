@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Higure, the Still Wind">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Silent-Blade Oni">
+            <card set="PC2" lang="EN" count="1"/>
+        </item>
+        <item id="Mistblade Shinobi">
+            <card set="BOK" lang="EN" count="3"/>
+        </item>
+        <item id="Ninja of the Deep Hours">
+            <card set="BOK" lang="EN" count="4"/>
+        </item>
+        <item id="Throat Slitter">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Walker of Secret Ways">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Thassa, God of the Sea">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Tandem Lookout">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Artful Dodge">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Whispersilk Cloak">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Augury Owl">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Tormented Soul">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Baleful Strix">
+            <card set="C13" lang="EN" count="4"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <item id="Murder">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Pilfered Plans">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Rogue's Passage">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Creeping Tar Pit">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="RTR" lang="EN" ver="2" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="RTR" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Blighted Cataract">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Blighted Fen">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Godo, Bandit Warlord">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Okiba-Gang Shinobi">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="2"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Hidden Strings">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Undercity Plague">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

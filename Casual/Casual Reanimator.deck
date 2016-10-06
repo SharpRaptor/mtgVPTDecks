@@ -28,20 +28,23 @@
         <item id="Dragonlord Atarka">
             <card set="DTK" lang="EN" count="1"/>
         </item>
-        <item id="Karador, Ghost Chieftain">
-            <card set="CMD" lang="EN" count="1"/>
-        </item>
         <item id="Reya Dawnbringer">
             <card set="10E" lang="EN" count="1"/>
         </item>
         <item id="Omnath, Locus of Rage">
             <card set="BFZ" lang="EN" count="1"/>
         </item>
+        <item id="Novablast Wurm">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
         <item id="Jarad's Orders">
             <card set="RTR" lang="EN" count="3"/>
         </item>
         <item id="Fauna Shaman">
-            <card set="M11" lang="EN" count="3"/>
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Anger">
+            <card set="DDI" lang="EN" count="1"/>
         </item>
         <item id="Evolving Wilds">
             <card set="BFZ" lang="EN" count="4"/>
@@ -75,8 +78,20 @@
         <item id="Griselbrand">
             <card set="AVR" lang="EN" count="1"/>
         </item>
+        <item id="Angelic Arbiter">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of Glory's Rise">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
         <item id="Akroma, Angel of Wrath">
             <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Iona, Shield of Emeria">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonlair Spider">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
         </item>
         <item id="Thragtusk">
             <card set="M13" lang="EN" count="1"/>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Avenger of Zendikar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Force">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Bane of Progress">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Brighthearth Banneret">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Dread">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Doomgape">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Deadbridge Chant">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Jarad's Orders">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Fertilid">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Flamekin Harbinger">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Greenwarden of Murasa">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Magmatic Force">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Incandescent Soulstoke">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Sheoldred, Whispering One">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Ingot Chewer">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Wanderer">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Malignus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Omnath, Locus of Rage">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Reveillark">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Roil Elemental">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Rubblehulk">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Slithermuse">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Smokebraider">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Soul of the Harvest">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Spitebellows">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Exemplar">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Tornado Elemental">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Torrent Elemental">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Tyrant of Discord">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Wispmare">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Crib Swap">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Putrefy">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Utter End">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bring to Light">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Conflux">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Explosive Vegetation">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Coalition Relic">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Door of Destinies">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Cryptolith Rite">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Elemental Bond">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Nexus">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Mirari's Wake">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Prismatic Omen">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Zendikar Resurgent">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, Field Researcher">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk, Caller of Beasts">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Crumbling Necropolis">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Frontier Bivouac">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Jungle Shrine">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Mystic Monastery">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Nomad Outpost">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Opulent Palace">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Primal Beyond">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sandsteppe Citadel">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Savage Lands">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="6"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Horde of Notions">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

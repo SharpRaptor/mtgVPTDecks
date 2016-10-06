@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="19"/>
+        </item>
+        <item id="Emeria, the Sky Ruin">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Mistveil Plains">
+            <card set="SHM" lang="EN" count="2"/>
+        </item>
+        <item id="Endless Horizons">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Ajani's Mantra">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Well of Lost Dreams">
+            <card set="DS" lang="EN" count="2"/>
+        </item>
+        <item id="Purity">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Gerrard Capashen">
+            <card set="DDE" lang="EN" count="2"/>
+        </item>
+        <item id="Ajani Goldmane">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Ajani's Pridemate">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Soul Warden">
+            <card set="M10" lang="EN" count="4"/>
+        </item>
+        <item id="Soul's Attendant">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Devout Invocation">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Serra Ascendant">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Serra Avatar">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Felidar Sovereign">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Surrak, the Hunt Caller">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama of the Center Tree">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Warmth">
+            <card set="6E" lang="EN" count="3"/>
+        </item>
+        <item id="Disenchant">
+            <card set="TSB" lang="EN" count="3"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Planar Cleansing">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Celestial Purge">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+    </section>
+</deck>

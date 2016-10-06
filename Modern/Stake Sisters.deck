@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Champion of the Parish">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Norin the Wary">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Outnumber">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Soul Warden">
+            <card set="M10" lang="EN" count="4"/>
+        </item>
+        <item id="Soul's Attendant">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Ajani's Pridemate">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Genesis Chamber">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Squadron Hawk">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Burn at the Stake">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Kher Keep">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Westvale Abbey">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Mistveil Plains">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Rugged Prairie">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Wear_Tear">
+            <card set="DGM" lang="EN" count="3"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Outnumber">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Charm">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Sudden Shock">
+            <card set="TSP" lang="EN" count="3"/>
+        </item>
+        <item id="Outpost Siege">
+            <card set="FRF" lang="EN" count="3"/>
+        </item>
+        <item id="Witchbane Orb">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
