@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Draft" format="" name="">
+    <section id="main">
+        <item id="Forlorn Pseudamma">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Claim of Erebos">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Springleaf Drum">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Pheres-Band Tromper">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Servant of Tymaret">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Warchanter of Mogis">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Nylea's Presence">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Karametra's Favor">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="THS" lang="EN" count="1"/>
+            <card set="THS" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Satyr Wayfinder">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Shipwreck Singer">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx's Disciple">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Siren of the Fanged Coast">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="1" count="6"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Warchanter of Mogis">
+            <card set="BNG" lang="EN" count="6"/>
+        </item>
+        <item id="Sudden Storm">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Stymied Hopes">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Marshmist Titan">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Necrobite">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Nemesis of Mortals">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Nessian Asp">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Nimbus Naiad">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Scourgemark">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Divination">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Deepwater Hypnotist">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Nylea's Presence">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+    </section>
+    <cardpool>
+        <card id="Nylea's Presence" set="THS" lang="EN" count="5"/>
+        <card id="Karametra's Favor" set="BNG" lang="EN" count="1"/>
+        <card id="Siren of the Fanged Coast" set="BNG" lang="EN" count="2"/>
+        <card id="Nimbus Naiad" set="THS" lang="EN" count="1"/>
+        <card id="Warchanter of Mogis" set="BNG" lang="EN" count="8"/>
+        <card id="Necrobite" set="BNG" lang="EN" count="1"/>
+        <card id="Springleaf Drum" set="BNG" lang="EN" count="1"/>
+        <card id="Satyr Wayfinder" set="BNG" lang="EN" count="1"/>
+        <card id="Sphinx's Disciple" set="BNG" lang="EN" count="1"/>
+        <card id="Stymied Hopes" set="THS" lang="EN" count="1"/>
+        <card id="Nessian Asp" set="THS" lang="EN" count="1"/>
+        <card id="Swamp" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Epiphany Storm" set="BNG" lang="EN" count="1"/>
+        <card id="Forlorn Pseudamma" set="BNG" lang="EN" count="3"/>
+        <card id="Claim of Erebos" set="BNG" lang="EN" count="3"/>
+        <card id="Servant of Tymaret" set="BNG" lang="EN" count="1"/>
+        <card id="Mountain" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Deepwater Hypnotist" set="BNG" lang="EN" count="1"/>
+        <card id="Read the Bones" set="THS" lang="EN" opt="Foil" count="1"/>
+        <card id="Read the Bones" set="THS" lang="EN" count="1"/>
+        <card id="Sudden Storm" set="BNG" lang="EN" count="1"/>
+        <card id="Divination" set="BNG" lang="EN" count="1"/>
+        <card id="Marshmist Titan" set="BNG" lang="EN" count="1"/>
+        <card id="Shipwreck Singer" set="THS" lang="EN" count="1"/>
+        <card id="Revoke Existence" set="BNG" lang="EN" count="1"/>
+        <card id="Pheres-Band Tromper" set="BNG" lang="EN" count="1"/>
+        <card id="Island" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="3" count="1*"/>
+        <card id="Plains" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Nyxborn Rollicker" set="BNG" lang="EN" count="1"/>
+        <card id="Nemesis of Mortals" set="THS" lang="EN" count="1"/>
+        <card id="Forest" set="THS" lang="EN" ver="1" count="1*"/>
+        <card id="Forest" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Forest" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Forest" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Scourgemark" set="THS" lang="EN" count="1"/>
+    </cardpool>
+</deck>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Adarkar Wastes">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Tundra">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <group name="Walker"/>
+        <item id="Ajani Vengeant">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Venser, the Sojourner">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Pyromaster">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Winter Orb">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Entreat the Angels">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Control Magic">
+            <card set="4E" lang="EN" count="1"/>
+        </item>
+        <item id="Stroke of Genius">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Archangel of Thune">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Augur of Bolas">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thundermaw Hellkite">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Dragon">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Arc Trail">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Journey to Nowhere">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Helix">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Tithe">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Martial Coup">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Unexpectedly Absent">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Consuming Vapors">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Graveborn Muse">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Olivia Voldaren">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Ravages of War">
+            <card set="P3" lang="EN" count="1"/>
+        </item>
+        <item id="Regrowth">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Through the Breach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Tracker's Instincts">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Windbrisk Heights">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Zealous Conscripts">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Seal of Fire">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Bident of Thassa">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Shrine of Burning Rage">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Cursed Scroll">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Avalanche Riders">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

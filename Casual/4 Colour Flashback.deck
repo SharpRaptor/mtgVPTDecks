@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Burning Vengeance">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Secrets of the Dead">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Roar of the Wurm">
+            <card set="EMA" lang="EN" count="2"/>
+        </item>
+        <item id="Flame Jab">
+            <card set="EVE" lang="EN" count="4"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Oona's Grace">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="The Gitrog Monster">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Forbidden Alchemy">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Firebolt">
+            <card set="DD2" lang="EN" count="3"/>
+        </item>
+        <item id="Call the Skybreaker">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Worm Harvest">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Seismic Assault">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="SOI" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Island">
+            <card set="SOI" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Call the Skybreaker">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Worm Harvest">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Seismic Assault">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Firebolt">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Axe">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Talrand, Sky Summoner">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

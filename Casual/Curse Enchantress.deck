@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Eidolon of Blossoms">
+            <card set="JOU" lang="EN" count="4"/>
+        </item>
+        <item id="Herald of the Pantheon">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Doomwake Giant">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Curse of Death's Hold">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Curse of Exhaustion">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Curse of Misfortunes">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Curse of Thirst">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Thoughtrender Lamia">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Bitterheart Witch">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Starfield of Nyx">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="4"/>
+        </item>
+        <item id="Open the Vaults">
+            <card set="M10" lang="EN" count="2"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malady">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Silence">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Plenty">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Sandsteppe Citadel">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="SOI" lang="EN" ver="1" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Curse of Echoes">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

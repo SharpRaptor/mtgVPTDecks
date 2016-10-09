@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Draft" format="" name="">
+    <section id="main">
+        <item id="Grim Guardian">
+            <card set="JOU" lang="EN" count="10"/>
+        </item>
+        <item id="Font of Fortunes">
+            <card set="JOU" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Font of Return">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Pin to the Earth">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Riptide Chimera">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Sigiled Starfish">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Cavern Lampad">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Eidolon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Aspect of Gorgon">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Nyx Infusion">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Pharika's Chosen">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Sip of Hemlock">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Unknown Shores">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="1" count="9"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="6"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Omenspeaker">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Cruel Feeding">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Rise of Eagles">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Shipwreck Singer">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Stymied Hopes">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Mnemonic Wall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Dreadbringer Lampads">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Countermand">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Returned Reveler">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Wavecrash Triton">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="March of the Returned">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Market Festival">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Font of Fertility">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Pheres-Band Thunderhoof">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Mantle">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="THS" lang="EN" ver="1" count="10"/>
+        </item>
+        <item id="Island">
+            <card set="THS" lang="EN" ver="1" count="10"/>
+        </item>
+        <item id="Swamp">
+            <card set="THS" lang="EN" ver="1" count="10"/>
+        </item>
+    </section>
+    <cardpool>
+        <card id="Mnemonic Wall" set="THS" lang="EN" count="1"/>
+        <card id="Aspect of Gorgon" set="JOU" lang="EN" count="1"/>
+        <card id="Pharika's Chosen" set="JOU" lang="EN" count="1"/>
+        <card id="Sip of Hemlock" set="THS" lang="EN" count="2"/>
+        <card id="Stymied Hopes" set="THS" lang="EN" count="2"/>
+        <card id="Font of Fertility" set="JOU" lang="EN" count="1"/>
+        <card id="Cavern Lampad" set="THS" lang="EN" count="1"/>
+        <card id="Pin to the Earth" set="JOU" lang="EN" count="2"/>
+        <card id="Countermand" set="JOU" lang="EN" count="3"/>
+        <card id="Swamp" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Swamp" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Nyx Infusion" set="JOU" lang="EN" count="1"/>
+        <card id="Mountain" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Mountain" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Unknown Shores" set="THS" lang="EN" count="1"/>
+        <card id="Riptide Chimera" set="JOU" lang="EN" count="1"/>
+        <card id="Cruel Feeding" set="JOU" lang="EN" count="1"/>
+        <card id="Dreadbringer Lampads" set="JOU" lang="EN" count="1"/>
+        <card id="Font of Return" set="JOU" lang="EN" count="1"/>
+        <card id="Returned Reveler" set="JOU" lang="EN" count="1"/>
+        <card id="Dragon Mantle" set="THS" lang="EN" count="1"/>
+        <card id="Grim Guardian" set="JOU" lang="EN" count="10"/>
+        <card id="Shipwreck Singer" set="THS" lang="EN" count="2"/>
+        <card id="Omenspeaker" set="THS" lang="EN" count="1"/>
+        <card id="Island" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Island" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="1" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Plains" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="March of the Returned" set="THS" lang="EN" count="1"/>
+        <card id="Wavecrash Triton" set="THS" lang="EN" count="1"/>
+        <card id="Baleful Eidolon" set="THS" lang="EN" count="1"/>
+        <card id="Font of Fortunes" set="JOU" lang="EN" opt="Foil" count="1"/>
+        <card id="Market Festival" set="JOU" lang="EN" count="2"/>
+        <card id="Pheres-Band Thunderhoof" set="JOU" lang="EN" count="1"/>
+        <card id="Sigiled Starfish" set="JOU" lang="EN" count="1"/>
+        <card id="Forest" set="THS" lang="EN" ver="1" count="1*"/>
+        <card id="Forest" set="THS" lang="EN" ver="2" count="*"/>
+        <card id="Forest" set="THS" lang="EN" ver="3" count="*"/>
+        <card id="Forest" set="THS" lang="EN" ver="4" count="*"/>
+        <card id="Rise of Eagles" set="JOU" lang="EN" count="1"/>
+    </cardpool>
+</deck>
