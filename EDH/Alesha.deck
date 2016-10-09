@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Anafenza, Kin-Tree Spirit">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of Invention">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Anger">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Ankle Shanker">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Finality">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Ayli, Eternal Pilgrim">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Disciple of Bolas">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Drana, Liberator of Malakir">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Duergar Hedge-Mage">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Duplicant">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Fiend Hunter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Gonti, Lord of Luxury">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Grenzo, Dungeon Warden">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Hanweir Garrison">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Iroas, God of Victory">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Karmic Guide">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Master of Cruelties">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Mentor of the Meek">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Mindclaw Shaman">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Mirror Entity">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Murderous Redcap">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Nekrataal">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Ponyback Brigade">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Recruiter of the Guard">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Reveillark">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Selfless Spirit">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Siege-Gang Commander">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Viscera Seer">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Zulaport Cutthroat">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Crackling Doom">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Return to Dust">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Utter End">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Buried Alive">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Cathartic Reunion">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Tormenting Voice">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Ashnod's Altar">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Skullclamp">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Whispersilk Cloak">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Cathars' Crusade">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Erebos">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Bombardment">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Mardu Ascendancy">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Nahiri's Machinations">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Reconnaissance">
+            <card set="EX" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodfell Caves">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Hanweir Battlements">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Nomad Outpost">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Basilica">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Scoured Barrens">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Silence">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Wind-Scarred Crag">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="8"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="7"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Alesha, Who Smiles at Death">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
