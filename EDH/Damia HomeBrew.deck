@@ -5,13 +5,13 @@
         <item id="Rewind">
             <card set="M13" lang="EN" count="1"/>
         </item>
-        <item id="Villainous Wealth">
-            <card set="KTK" lang="EN" count="1"/>
+        <item id="Bribery">
+            <card set="JGC" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Praetor's Counsel">
+            <card set="MBS" lang="EN" count="1"/>
         </item>
         <group name="Enchantment"/>
-        <item id="Oath of Jace">
-            <card set="OGW" lang="EN" count="1"/>
-        </item>
         <item id="Oath of Nissa">
             <card set="OGW" lang="EN" count="1"/>
         </item>
@@ -23,12 +23,6 @@
         </item>
         <item id="Control Magic">
             <card set="4EF" lang="PT" count="1"/>
-        </item>
-        <item id="Treachery">
-            <card set="UD" lang="EN" count="1"/>
-        </item>
-        <item id="Soul Ransom">
-            <card set="GTC" lang="EN" count="1"/>
         </item>
         <group name="Walkers"/>
         <item id="Nissa, Vastwood Seer">
@@ -44,7 +38,7 @@
             <card set="BNG" lang="EN" count="1"/>
         </item>
         <item id="Ob Nixilis Reignited">
-            <card set="BFZ" lang="EN" count="1"/>
+            <card set="DDR" lang="EN" opt="Foil" count="1"/>
         </item>
         <item id="Ugin, the Spirit Dragon">
             <card set="FRF" lang="EN" count="1"/>
@@ -55,18 +49,24 @@
         <item id="Tamiyo, the Moon Sage">
             <card set="AVR" lang="EN" count="1"/>
         </item>
+        <item id="Nissa, Vital Force">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Sorin Markov">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
         <group name="Creature Good Stuff"/>
+        <item id="Phyrexian Metamorph">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Progenitor Mimic">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
         <item id="Evil Twin">
             <card set="ISD" lang="EN" count="1"/>
         </item>
-        <item id="Kruphix, God of Horizons">
-            <card set="JOU" lang="EN" count="1"/>
-        </item>
         <item id="The Gitrog Monster">
             <card set="SOI" lang="EN" count="1"/>
-        </item>
-        <item id="Ob Nixilis, the Fallen">
-            <card set="ZEN" lang="EN" count="1"/>
         </item>
         <item id="Kozilek, Butcher of Truth">
             <card set="ROE" lang="EN" count="1"/>
@@ -74,11 +74,11 @@
         <item id="Consecrated Sphinx">
             <card set="MBS" lang="EN" count="1"/>
         </item>
-        <item id="Seedborn Muse">
-            <card set="10E" lang="EN" count="1"/>
-        </item>
         <item id="Sire of Stagnation">
             <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Altered Ego">
+            <card set="SOI" lang="EN" count="1"/>
         </item>
         <item id="Vorinclex, Voice of Hunger">
             <card set="NPH" lang="EN" count="1"/>
@@ -86,11 +86,11 @@
         <item id="Sheoldred, Whispering One">
             <card set="NPH" lang="EN" count="1"/>
         </item>
-        <item id="Primeval Titan">
-            <card set="M12" lang="EN" count="1"/>
-        </item>
         <item id="Ulamog, the Ceaseless Hunger">
             <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
         </item>
         <group name="Ramp"/>
         <item id="Farseek">
@@ -154,17 +154,17 @@
         <item id="Black Sun's Zenith">
             <card set="MBS" lang="EN" count="1"/>
         </item>
-        <item id="Life's Finale">
-            <card set="NPH" lang="EN" count="1"/>
+        <item id="Gaze of Granite">
+            <card set="DGM" lang="EN" count="1"/>
         </item>
         <item id="Crux of Fate">
             <card set="FRF" lang="EN" count="1"/>
         </item>
-        <item id="Gaze of Granite">
-            <card set="DGM" lang="EN" count="1"/>
-        </item>
         <item id="Decree of Pain">
-            <card set="SC" lang="EN" count="1"/>
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="CNS" lang="EN" count="1"/>
         </item>
         <group name="Tutor"/>
         <item id="Demonic Tutor">
@@ -260,13 +260,22 @@
             <card set="M11" lang="EN" count="1"/>
         </item>
         <item id="Forest">
-            <card set="SOI" lang="EN" ver="1" count="6"/>
+            <card set="SOI" lang="EN" ver="1" count="5"/>
         </item>
         <item id="Swamp">
-            <card set="SOI" lang="EN" ver="1" count="5"/>
+            <card set="SOI" lang="EN" ver="1" count="4"/>
         </item>
         <item id="Island">
-            <card set="SOI" lang="EN" ver="1" count="5"/>
+            <card set="SOI" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Botanical Sanctum">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Blooming Marsh">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Darkslick Shores">
+            <card set="SOM" lang="EN" count="1"/>
         </item>
     </section>
     <section id="sideboard">
