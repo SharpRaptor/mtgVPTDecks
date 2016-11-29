@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Tribal Flames">
+            <card set="MMA" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Wild Nacatl">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Kird Ape">
+            <card set="EMA" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Kor Skyfisher">
+            <card set="CVP" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="FNM" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Matca Rioters">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Renegade Freighter">
+            <card set="KLD" lang="EN" opt="Foil" count="3"/>
+        </item>
+        <item id="Abundant Growth">
+            <card set="EMA" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Nylea's Presence">
+            <card set="THS" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="FNM" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="C13" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="3" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="2" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Vines of Vastwood">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="FNM" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Ray of Revelation">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

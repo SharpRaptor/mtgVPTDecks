@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Draft" format="" name="">
+    <section id="main">
+        <item id="Blood Artist">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Brood Birthing">
+            <card set="ROE" lang="EN" count="5"/>
+        </item>
+        <item id="Growth Spasm">
+            <card set="ROE" lang="EN" count="5"/>
+        </item>
+        <item id="Bone Splinters">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Angel's Tomb">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Goldnight Commander">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Mortician Beetle">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Staggershock">
+            <card set="ROE" lang="EN" count="1"/>
+            <card set="ROE" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Seraph of Dawn">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Soul's Attendant">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Soulsurge Elemental">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Stirrings">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Repel the Darkness">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="ROE" lang="EN" ver="3" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="AVR" lang="EN" ver="3" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="AVR" lang="EN" ver="2" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="ROE" lang="EN" ver="1" count="1"/>
+            <card set="ROE" lang="EN" ver="2" count="1"/>
+            <card set="AVR" lang="EN" ver="2" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+    <cardpool>
+        <card id="Soulsurge Elemental" set="ROE" lang="EN" count="1"/>
+        <card id="Voice of the Provinces" set="AVR" lang="EN" count="1"/>
+        <card id="Demystify" set="ROE" lang="EN" count="1"/>
+        <card id="Seraph of Dawn" set="AVR" lang="EN" count="2"/>
+        <card id="Blood Artist" set="AVR" lang="EN" count="1"/>
+        <card id="Forest" set="ROE" lang="EN" ver="1" count="*"/>
+        <card id="Forest" set="ROE" lang="EN" ver="2" count="*"/>
+        <card id="Forest" set="ROE" lang="EN" ver="3" count="*"/>
+        <card id="Forest" set="ROE" lang="EN" ver="4" count="*"/>
+        <card id="Forest" set="AVR" lang="EN" ver="3" count="*"/>
+        <card id="Forest" set="AVR" lang="EN" ver="1" count="*"/>
+        <card id="Forest" set="AVR" lang="EN" ver="2" count="*"/>
+        <card id="Mortician Beetle" set="ROE" lang="EN" count="1"/>
+        <card id="Swamp" set="ROE" lang="EN" ver="2" count="1*"/>
+        <card id="Swamp" set="ROE" lang="EN" ver="1" count="1*"/>
+        <card id="Swamp" set="ROE" lang="EN" ver="3" count="*"/>
+        <card id="Swamp" set="ROE" lang="EN" ver="4" count="*"/>
+        <card id="Swamp" set="AVR" lang="EN" ver="2" count="*"/>
+        <card id="Swamp" set="AVR" lang="EN" ver="3" count="*"/>
+        <card id="Swamp" set="AVR" lang="EN" ver="1" count="*"/>
+        <card id="Narstad Scrapper" set="AVR" lang="EN" count="1"/>
+        <card id="Geist Trappers" set="AVR" lang="EN" count="1"/>
+        <card id="Plains" set="ROE" lang="EN" ver="3" count="1*"/>
+        <card id="Plains" set="ROE" lang="EN" ver="1" count="*"/>
+        <card id="Plains" set="ROE" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="ROE" lang="EN" ver="4" count="*"/>
+        <card id="Plains" set="AVR" lang="EN" ver="1" count="*"/>
+        <card id="Plains" set="AVR" lang="EN" ver="2" count="*"/>
+        <card id="Plains" set="AVR" lang="EN" ver="3" count="*"/>
+        <card id="Ancient Stirrings" set="ROE" lang="EN" count="1"/>
+        <card id="Gryff Vanguard" set="AVR" lang="EN" count="1"/>
+        <card id="Soul's Attendant" set="ROE" lang="EN" count="1"/>
+        <card id="Merfolk Observer" set="ROE" lang="EN" count="1"/>
+        <card id="Island" set="ROE" lang="EN" ver="3" count="1*"/>
+        <card id="Island" set="ROE" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="ROE" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="ROE" lang="EN" ver="4" count="*"/>
+        <card id="Island" set="AVR" lang="EN" ver="2" count="*"/>
+        <card id="Island" set="AVR" lang="EN" ver="1" count="*"/>
+        <card id="Island" set="AVR" lang="EN" ver="3" count="*"/>
+        <card id="Frostwind Invoker" set="ROE" lang="EN" count="1"/>
+        <card id="Lay Bare" set="ROE" lang="EN" count="1"/>
+        <card id="Repel the Darkness" set="ROE" lang="EN" count="1"/>
+        <card id="Staggershock" set="ROE" lang="EN" count="1"/>
+        <card id="Staggershock" set="ROE" lang="EN" opt="Foil" count="1"/>
+        <card id="See Beyond" set="ROE" lang="EN" count="1"/>
+        <card id="Mountain" set="ROE" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="ROE" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="ROE" lang="EN" ver="3" count="*"/>
+        <card id="Mountain" set="ROE" lang="EN" ver="4" count="*"/>
+        <card id="Mountain" set="AVR" lang="EN" ver="2" count="*"/>
+        <card id="Mountain" set="AVR" lang="EN" ver="1" count="*"/>
+        <card id="Mountain" set="AVR" lang="EN" ver="3" count="*"/>
+        <card id="Angel's Tomb" set="AVR" lang="EN" count="1"/>
+        <card id="Lightmine Field" set="ROE" lang="EN" count="1"/>
+        <card id="Fleeting Distraction" set="AVR" lang="EN" count="1"/>
+        <card id="Nightshade Peddler" set="AVR" lang="EN" count="1"/>
+        <card id="Brood Birthing" set="ROE" lang="EN" count="5"/>
+        <card id="Terminus" set="AVR" lang="EN" count="1"/>
+        <card id="Somberwald Vigilante" set="AVR" lang="EN" count="1"/>
+        <card id="Goldnight Commander" set="AVR" lang="EN" count="1"/>
+        <card id="Sea Gate Oracle" set="ROE" lang="EN" count="1"/>
+        <card id="Ogre Sentry" set="ROE" lang="EN" count="1"/>
+        <card id="Vanishment" set="AVR" lang="EN" count="1"/>
+        <card id="Bone Splinters" set="AVR" lang="EN" count="1"/>
+        <card id="Aura Gnarlid" set="ROE" lang="EN" count="1"/>
+        <card id="Growth Spasm" set="ROE" lang="EN" count="5"/>
+    </cardpool>
+</deck>

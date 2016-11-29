@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Warleader's Helix">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Yosei, the Morning Star">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Dragon">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Mizzium Mortars">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Porcelain Legionnaire">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Emeria Angel">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Electrolyze">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Dungeon Geists">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Council's Judgment">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Pyromaster">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Archangel of Thune">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Ashcloud Phoenix">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Crater's Claws">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Seeker of the Way">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Rabblemaster">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Enlightenment">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Arid Mesa">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Gatekeeper of Malakir">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Geralf's Messenger">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Meloku the Clouded Mirror">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Mirari's Wake">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Momentary Blink">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Mystic Snake">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Silverblade Paladin">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Skullcrack">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Soldier of the Pantheon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Stromkirk Noble">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Mystery">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Flickerwisp">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Call of the Herd">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

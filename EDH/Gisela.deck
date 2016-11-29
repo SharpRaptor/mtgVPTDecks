@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Akroma, Angel of Fury">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma, Angel of Wrath">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of Jubilation">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of Serenity">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Angelic Skirmisher">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Anya, Merciless Angel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Archangel Avacyn">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Aurelia, the Warleader">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn, Angel of Hope">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Balefire Liege">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Basandra, Battle Seraph">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Reckoner">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Bruna, the Fading Light">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Emeria Shepherd">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Firemane Avenger">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Gisela, the Broken Blade">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Grand Abolisher">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Wear_Tear">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Heartless Hidetsugu">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Herald of War">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Iroas, God of Victory">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sunblast Angel">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Tajic, Blade of the Legion">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Aurelia's Fury">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Charm">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Deflecting Palm">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Enlightened Tutor">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Return to Dust">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Wild Ricochet">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Liberating Combustion">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Austere Command">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Day of Judgment">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Earthquake">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Fiery Confluence">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Vandalblast">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Cluestone">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Archive">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sunforger">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Worn Powerstone">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Assemble the Legion">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Furnace of Rath">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Gratuitous Violence">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Land Tax">
+            <card set="4E" lang="EN" count="1"/>
+        </item>
+        <item id="Legion's Initiative">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="True Conviction">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Pyrogenius">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Battlefield Forge">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Garrison">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Inspiring Vantage">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Slayers' Stronghold">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Sunhome, Fortress of the Legion">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Wind-Scarred Crag">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="14"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="9"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Gisela, Blade of Goldnight">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

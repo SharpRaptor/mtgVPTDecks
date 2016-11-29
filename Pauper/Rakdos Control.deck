@@ -4,9 +4,6 @@
         <item id="Chittering Rats">
             <card set="DS" lang="EN" count="4"/>
         </item>
-        <item id="Blind Zealot">
-            <card set="NPH" lang="EN" count="4"/>
-        </item>
         <item id="Liliana's Specter">
             <card set="M11" lang="EN" count="4"/>
         </item>
@@ -34,6 +31,7 @@
         <item id="Wrench Mind">
             <card set="MR" lang="EN" count="4"/>
         </item>
+        <group name="Lnd"/>
         <item id="Bloodfell Caves">
             <card set="FRF" lang="EN" count="4"/>
         </item>
@@ -41,10 +39,13 @@
             <card set="DGM" lang="EN" count="4"/>
         </item>
         <item id="Swamp">
-            <card set="BFZ" lang="EN" ver="1" count="12"/>
+            <card set="BFZ" lang="EN" ver="1" count="8"/>
         </item>
         <item id="Barren Moor">
             <card set="ON" lang="EN" count="4"/>
+        </item>
+        <item id="Polluted Mire">
+            <card set="US" lang="EN" count="4"/>
         </item>
     </section>
     <section id="sideboard">
@@ -71,6 +72,9 @@
         </item>
         <item id="Relic of Progenitus">
             <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Blind Zealot">
+            <card set="NPH" lang="EN" count="4"/>
         </item>
     </section>
 </deck>

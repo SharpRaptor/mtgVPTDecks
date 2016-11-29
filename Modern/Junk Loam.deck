@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Satyr Wayfinder">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Lingering Souls">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Siege Rhino">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="The Gitrog Monster">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Realms Uncharted">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <group name="Land"/>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Vault of the Archangel">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Snow-Covered Forest">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Snow-Covered Swamp">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Siege Rhino">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Gaze of Granite">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Realms Uncharted">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="3"/>
+        </item>
+        <item id="Glissa, the Traitor">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Flaying Tendrils">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

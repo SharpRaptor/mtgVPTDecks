@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Ensnaring Bridge">
+            <card set="8E" lang="EN" count="2"/>
+        </item>
+        <item id="Trinisphere">
+            <card set="DS" lang="EN" count="3"/>
+        </item>
+        <item id="Tangle Wire">
+            <card set="V13" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Smokestack">
+            <card set="US" lang="EN" count="3"/>
+        </item>
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Tezzeret, Agent of Bolas">
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Sword of the Meek">
+            <card set="FUT" lang="EN" count="2"/>
+        </item>
+        <item id="Thopter Foundry">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Mox Diamond">
+            <card set="SH" lang="EN" count="4"/>
+        </item>
+        <item id="Fabricate">
+            <card set="M10" lang="EN" count="2"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Cutpurse">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Ancient Tomb">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Underground Sea">
+            <card set="RF" lang="DE" count="4"/>
+        </item>
+        <item id="Seat of the Synod">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+        <item id="Vault of Whispers">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="City of Traitors">
+            <card set="EX" lang="EN" count="2"/>
+        </item>
+        <item id="Wasteland">
+            <card set="TE" lang="EN" count="4"/>
+        </item>
+        <item id="Rishadan Port">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Lodestone Golem">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Bottled Cloister">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Tezzeret the Seeker">
+            <card set="ALA" lang="EN" count="2"/>
+        </item>
+        <item id="Chalice of the Void">
+            <card set="MR" lang="EN" count="2"/>
+        </item>
+        <item id="Ensnaring Bridge">
+            <card set="8E" lang="EN" count="2"/>
+        </item>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="3"/>
+        </item>
+        <item id="Dimir Cutpurse">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
