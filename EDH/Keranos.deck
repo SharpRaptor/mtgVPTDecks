@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Shivan Reef">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Wandering Fumarole">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Desolate Lighthouse">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Spirebluff Canal">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Cascade Bluffs">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Arcane Lighthouse">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Maze of Ith">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="11"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" opt="Foil" count="11"/>
+        </item>
+        <group name="Walker"/>
+        <item id="Ral Zarek">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Dack Fayden">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, Architect of Thought">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Dack's Duplicate">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Thassa, God of the Sea">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Niv-Mizzet, Dracogenius">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Combustible Gearhulk">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Torrential Gearhulk">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Archaeomancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Trinket Mage">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Dominus of Fealty">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Hypersonic Dragon">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Jori En, Ruin Diver">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Curious Homunculus">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Sol Ring">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Isochron Scepter">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Nevinyrral's Disk">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Sorcery"/>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Bribery">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Spelltwine">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Chain Reaction">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Rite of Replication">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="DDI" lang="EN" count="1"/>
+        </item>
+        <group name="Instant"/>
+        <item id="Mystic Confluence">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Charm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Dissolve">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Cryptic Command">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Turn_Burn">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="DDJ" lang="EN" count="1"/>
+        </item>
+        <item id="Wild Ricochet">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Rewind">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD3" lang="EN" ver="JVC" count="1"/>
+        </item>
+        <item id="Mindswipe">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Disdainful Stroke">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Fire_Ice">
+            <card set="DDJ" lang="EN" count="1"/>
+        </item>
+        <item id="Telling Time">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="FNM" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Counterflux">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Fact or Fiction">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Mystical Tutor">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Summary Dismissal">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Fevered Visions">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Metallurgic Summonings">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of Anticipation">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Rhystic Study">
+            <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

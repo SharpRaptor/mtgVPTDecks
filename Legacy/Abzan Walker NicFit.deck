@@ -18,29 +18,26 @@
             <card set="C15" lang="EN" count="1"/>
         </item>
         <item id="Siege Rhino">
-            <card set="KTK" lang="EN" count="3"/>
+            <card set="KTK" lang="EN" count="2"/>
         </item>
         <item id="Sigarda, Host of Herons">
             <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Thragtusk">
+            <card set="M13" lang="EN" count="1"/>
         </item>
         <group name="Walker"/>
         <item id="Nissa, Vital Force">
             <card set="KLD" lang="EN" count="1"/>
         </item>
-        <item id="Garruk, Primal Hunter">
-            <card set="M13" lang="EN" count="1"/>
-        </item>
-        <item id="Vraska the Unseen">
-            <card set="RTR" lang="EN" count="1"/>
-        </item>
         <item id="Gideon, Ally of Zendikar">
-            <card set="BFZ" lang="EN" count="2"/>
+            <card set="BFZ" lang="EN" count="1"/>
         </item>
-        <item id="Sorin, Grim Nemesis">
-            <card set="SOI" lang="EN" count="2"/>
+        <item id="Garruk Relentless">
+            <card set="ISD" lang="EN" count="1"/>
         </item>
-        <item id="Ugin, the Spirit Dragon">
-            <card set="FRF" lang="EN" count="1"/>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="2"/>
         </item>
         <group name="Other"/>
         <item id="Cabal Therapy">
@@ -50,19 +47,22 @@
             <card set="CNS" lang="EN" count="3"/>
         </item>
         <item id="Abrupt Decay">
-            <card set="RTR" lang="EN" count="3"/>
-        </item>
-        <item id="Swords to Plowshares">
-            <card set="CNS" lang="EN" count="2"/>
+            <card set="RTR" lang="EN" count="2"/>
         </item>
         <item id="Vindicate">
             <card set="EMA" lang="EN" count="1"/>
         </item>
-        <item id="Maelstrom Pulse">
-            <card set="ARB" lang="EN" count="1"/>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="2"/>
         </item>
         <item id="Green Sun's Zenith">
-            <card set="MBS" lang="EN" count="2"/>
+            <card set="MBS" lang="EN" count="4"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Sylvan Library">
+            <card set="EMA" lang="EN" count="1"/>
         </item>
         <group name="Land"/>
         <item id="Forest">
@@ -75,10 +75,13 @@
             <card set="KLD" lang="EN" ver="1" count="2"/>
         </item>
         <item id="Bayou">
-            <card set="RF" lang="DE" count="2"/>
+            <card set="RF" lang="DE" count="3"/>
         </item>
         <item id="Savannah">
-            <card set="RF" lang="DE" count="2"/>
+            <card set="RF" lang="DE" count="3"/>
+        </item>
+        <item id="Scrubland">
+            <card set="RF" lang="DE" count="1"/>
         </item>
         <item id="Verdant Catacombs">
             <card set="ZEN" lang="EN" count="4"/>
@@ -86,23 +89,13 @@
         <item id="Windswept Heath">
             <card set="KTK" lang="EN" count="4"/>
         </item>
-        <item id="Phyrexian Tower">
-            <card set="US" lang="EN" count="1"/>
-        </item>
-        <item id="Scrubland">
-            <card set="RF" lang="DE" count="1"/>
-        </item>
-        <item id="Karakas">
-            <card set="EMA" lang="EN" count="1"/>
-        </item>
+        <item id="Phyrexian Tower"/>
+        <item id="Karakas"/>
         <item id="Volrath's Stronghold">
             <card set="SH" lang="EN" count="1"/>
         </item>
     </section>
     <section id="sideboard">
-        <item id="Carpet of Flowers">
-            <card set="US" lang="EN" count="2"/>
-        </item>
         <item id="Qasali Pridemage">
             <card set="ARB" lang="EN" count="1"/>
         </item>
@@ -113,7 +106,10 @@
             <card set="MBS" lang="EN" count="1"/>
         </item>
         <item id="Thoughtseize">
-            <card set="THS" lang="EN" count="3"/>
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Duress">
+            <card set="DTK" lang="EN" count="1"/>
         </item>
         <item id="Toxic Deluge">
             <card set="C13" lang="EN" count="1"/>
@@ -124,11 +120,17 @@
         <item id="Gaze of Granite">
             <card set="DGM" lang="EN" count="1"/>
         </item>
-        <item id="Sphere of Law">
-            <card set="OD" lang="EN" count="1"/>
-        </item>
         <item id="Pithing Needle">
             <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Anafenza, the Foremost">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Glissa, the Traitor">
+            <card set="MBS" lang="EN" count="1"/>
         </item>
     </section>
 </deck>
