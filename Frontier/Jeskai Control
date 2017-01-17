@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Nahiri, the Harbinger">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Fumigate">
+            <card set="KLD" lang="EN" count="3"/>
+        </item>
+        <item id="Radiant Flames">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Quarantine Field">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Jace's Ingenuity">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Summary Dismissal">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Horribly Awry">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Dissipate">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Declaration in Stone">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Torrential Gearhulk">
+            <card set="KLD" lang="EN" count="2"/>
+        </item>
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Prairie Stream">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Shivan Reef">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Spirebluff Canal">
+            <card set="KLD" lang="EN" count="4"/>
+        </item>
+        <item id="Wandering Fumarole">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Needle Spires">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Port Town">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Hallowed Moonlight">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Mantis Rider">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Mindswipe">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Needle Spires">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Port Town">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Soulfire Grand Master">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Stratus Dancer">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Gideon, Ally of Zendikar">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Descend upon the Sinful">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Dragonlord Ojutai">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Hidden Dragonslayer">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Blessed Alliance">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Monastery Siege">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Ojutai's Command">
+            <card set="DTK" lang="EN" count="3"/>
+        </item>
+        <item id="Immolating Glare">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

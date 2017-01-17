@@ -12,7 +12,7 @@
             <card set="JOU" lang="EN" count="1"/>
         </item>
         <item id="Steam Vents">
-            <card set="RTR" lang="EN" count="1"/>
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
         </item>
         <item id="Sulfur Falls">
             <card set="ISD" lang="EN" count="1"/>
@@ -30,10 +30,7 @@
             <card set="KLD" lang="EN" count="1"/>
         </item>
         <item id="Cascade Bluffs">
-            <card set="EVE" lang="EN" count="1"/>
-        </item>
-        <item id="Arcane Lighthouse">
-            <card set="C14" lang="EN" count="1"/>
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
         </item>
         <item id="Maze of Ith">
             <card set="EMA" lang="EN" count="1"/>
@@ -42,10 +39,19 @@
             <card set="EXP" lang="EN" opt="Foil" count="1"/>
         </item>
         <item id="Island">
-            <card set="KLD" lang="EN" ver="1" count="11"/>
+            <card set="ZEN" lang="EN" ver="3" count="10"/>
         </item>
         <item id="Mountain">
-            <card set="KLD" lang="EN" ver="1" opt="Foil" count="11"/>
+            <card set="ZEN" lang="EN" ver="2" count="10"/>
+        </item>
+        <item id="Wasteland">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
         </item>
         <group name="Walker"/>
         <item id="Ral Zarek">

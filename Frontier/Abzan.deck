@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Den Protector">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Advocate">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Anafenza, the Foremost">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Nissa, Vastwood Seer">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Siege Rhino">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Gilt-Leaf Winnower">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Whisperwood Elemental">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+        <item id="Noxious Gearhulk">
+            <card set="KLD" lang="EN" count="2"/>
+        </item>
+        <item id="Kothophed, Soul Hoarder">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Ob Nixilis Reignited">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Sorin, Grim Nemesis">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Languish">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Ruinous Path">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Declaration in Stone">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Dromoka's Command">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Blooming Marsh">
+            <card set="KLD" lang="EN" count="3"/>
+        </item>
+        <item id="Canopy Vista">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Llanowar Wastes">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Sandsteppe Citadel">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Concealed Courtyard">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Shambling Vent">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Hissing Quagmire">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Tasigur, the Golden Fang">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Fumigate">
+            <card set="KLD" lang="EN" count="2"/>
+        </item>
+        <item id="Anafenza, the Foremost">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Declaration in Stone">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Murder">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Duress">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Archangel Avacyn">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk, Apex Predator">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Gaea's Revenge">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+        <item id="Languish">
+            <card set="ORI" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
