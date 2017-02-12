@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Spark Elemental">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Thermo-Alchemist">
+            <card set="EMN" lang="EN" count="4"/>
+        </item>
+        <item id="Chain Lightning">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Needle Drop">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Shard Volley">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Incinerate">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Searing Blaze">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Rift Bolt">
+            <card set="TSP" lang="EN" count="4"/>
+        </item>
+        <item id="Fireblast">
+            <card set="DD3" lang="EN" ver="JVC" count="4"/>
+        </item>
+        <item id="Curse of the Pierced Heart">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Forgotten Cave">
+            <card set="C14" lang="EN" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="16"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="EMA" lang="EN" count="3"/>
+        </item>
+        <item id="Smash to Smithereens">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Molten Rain">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

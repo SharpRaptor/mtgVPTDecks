@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <group name="Counter"/>
+        <item id="Force of Will">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="3"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <group name="Combo"/>
+        <item id="Deceiver Exarch">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Pestermite">
+            <card set="LRW" lang="EN" count="3"/>
+        </item>
+        <item id="Splinter Twin">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <group name="Other"/>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Back to Basics">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Notion Thief">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="CMD" lang="EN" count="4"/>
+        </item>
+        <group name="Land"/>
+        <item id="Volcanic Island">
+            <card set="R" lang="EN" count="3"/>
+        </item>
+        <item id="Underground Sea">
+            <card set="RF" lang="DE" count="2"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Pyroblast">
+            <card set="EMA" lang="EN" count="3"/>
+        </item>
+        <item id="Hydroblast">
+            <card set="EMA" lang="EN" count="2"/>
+        </item>
+        <item id="Toxic Deluge">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Back to Basics">
+            <card set="US" lang="EN" count="2"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Vendilion Clique">
+            <card set="MOR" lang="EN" count="2"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
