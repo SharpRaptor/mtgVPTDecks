@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Fatties"/>
+        <item id="Soul of New Phyrexia">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Platinum Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sandstone Oracle">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="It That Betrays">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Reality Smasher">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Thought-Knot Seer">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Steel Hellkite">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Desolation Twin">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Walker of the Wastes">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, the Great Distortion">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Ceaseless Hunger">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Sower">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Endbringer">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Conduit of Ruin">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Void Winnower">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Artisan of Kozilek">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Planar Bridge">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Planar Portal">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Matrix">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ugin's Nexus">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Strionic Resonator">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo's Journal">
+            <card set="SOI" lang="EN" ver="434" count="1"/>
+        </item>
+        <item id="Mind's Eye">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Ring of Three Wishes">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Erratic Portal">
+            <card set="EX" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma's Memorial">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Titan's Presence">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Scour from Existence">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Spatial Contortion">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Not of This World">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Warping Wail">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Gruesome Slaughter">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Spine of Ish Sah">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Nevinyrral's Disk">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Perilous Vault">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="All Is Dust">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Stone">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Sisay's Ring">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Wayfarer's Bauble">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Unstable Obelisk">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Voltaic Key">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Vault">
+            <card set="KLI" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Basalt Monolith">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Plague Myr">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="UD" lang="EN" count="1"/>
+        </item>
+        <item id="Worn Powerstone">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Everflowing Chalice">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Dreamstone Hedron">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Archive">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek's Channeler">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Wastes">
+            <card set="OGW" lang="EN" ver="2F" count="11"/>
+        </item>
+        <item id="Eldrazi Temple">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Eye of Ugin">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Shrine of the Forsaken Gods">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Sanctum of Ugin">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Tomb of the Spirit Dragon">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Inventors' Fair">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Sea Gate Wreckage">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Rogue's Passage">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Spawning Bed">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Buried Ruin">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Ruins of Oran-Rief">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Mage-Ring Network">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Homeward Path">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Thespian's Stage">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Arcane Lighthouse">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Command Beacon">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Blasted Landscape">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Nephalia Academy">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Myriad Landscape">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Winding Canyons">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Scorched Ruins">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Hall of the Bandit Lord">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

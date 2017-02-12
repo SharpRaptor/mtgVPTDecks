@@ -1,107 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<deck game="mtg" mode="Constructed" format="" name="Your Fate in My Hands">
+<deck game="mtg" mode="Constructed" format="Standard" name="">
     <section id="main">
-        <group name="Wrath"/>
-        <item id="Wrath of God">
-            <card set="10E" lang="EN" count="1"/>
+        <item id="Abhorrent Overlord">
+            <card set="THS" lang="EN" count="1"/>
         </item>
-        <item id="Akroma's Vengeance">
-            <card set="ON" lang="EN" count="1"/>
+        <item id="Angel of Despair">
+            <card set="GP" lang="EN" count="1"/>
         </item>
-        <item id="Planar Cleansing">
-            <card set="M14" lang="EN" count="1"/>
+        <item id="Angel of Serenity">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Ashen Rider">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Crypt Ghast">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Fiend Hunter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Flickerwisp">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Galepowder Mage">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Geist-Honored Monk">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Gonti, Lord of Luxury">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Gray Merchant of Asphodel">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Kambal, Consul of Allocation">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Karmic Guide">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Luminate Primordial">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Magister of Worth">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Noxious Gearhulk">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Rune-Scarred Demon">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Selfless Squire">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Sepulchral Primordial">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Sidisi, Undead Vizier">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Sin Collector">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sunblast Angel">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Teysa, Envoy of Ghosts">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Archangel Avacyn">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Eerie Interlude">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Mortify">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Return to Dust">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Unmake">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Utter End">
+            <card set="KTK" lang="EN" count="1"/>
         </item>
         <item id="Day of Judgment">
             <card set="M12" lang="EN" count="1"/>
         </item>
+        <item id="Debt to the Deathless">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
         <item id="Merciless Eviction">
             <card set="GTC" lang="EN" count="1"/>
         </item>
-        <item id="Decree of Pain">
-            <card set="SC" lang="EN" count="1"/>
+        <item id="Obzedat's Aid">
+            <card set="DGM" lang="EN" count="1"/>
         </item>
-        <item id="AEther Snap">
-            <card set="DS" lang="EN" count="1"/>
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="1"/>
         </item>
-        <item id="Culling Sun">
-            <card set="GP" lang="EN" count="1"/>
+        <item id="Unburial Rites">
+            <card set="ISD" lang="EN" count="1"/>
         </item>
-        <group name="Ramp"/>
-        <item id="Crypt Ghast">
+        <item id="Conjurer's Closet">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Illusionist's Bracers">
             <card set="GTC" lang="EN" count="1"/>
-        </item>
-        <group name="Removal"/>
-        <item id="Altar of Shadows">
-            <card set="MR" lang="EN" count="1"/>
-        </item>
-        <item id="Barl's Cage">
-            <card set="5E" lang="EN" count="1"/>
-        </item>
-        <group name="Flicker"/>
-        <item id="Tidehollow Sculler">
-            <card set="ALA" lang="EN" count="1"/>
-        </item>
-        <item id="Abhorrent Overlord">
-            <card set="THS" lang="EN" count="1"/>
-        </item>
-        <item id="Aegis Angel">
-            <card set="M15" lang="EN" count="1"/>
-        </item>
-        <item id="Custodi Squire">
-            <card set="CNS" lang="EN" count="1"/>
-        </item>
-        <item id="Entomber Exarch">
-            <card set="NPH" lang="EN" count="1"/>
-        </item>
-        <group name="Support"/>
-        <item id="Thousand-Year Elixir">
-            <card set="LRW" lang="EN" count="1"/>
         </item>
         <item id="Magewright's Stone">
             <card set="DIS" lang="EN" count="1"/>
         </item>
+        <item id="Oblivion Stone">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Cluestone">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Keyrune">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Panharmonicon">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
         <item id="Puppet Strings">
             <card set="TE" lang="EN" count="1"/>
         </item>
-        <item id="Staff of Domination">
-            <card set="FD" lang="EN" count="1"/>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
         </item>
-        <group name="Other"/>
-        <item id="Staff of Nin">
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Thousand-Year Elixir">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Authority of the Consuls">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Blind Obedience">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Ghostly Prison">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Ring">
             <card set="M13" lang="EN" count="1"/>
         </item>
-        <item id="Umbral Mantle">
-            <card set="SHM" lang="EN" count="1"/>
+        <item id="Palace Siege">
+            <card set="FRF" lang="EN" count="1"/>
         </item>
-        <item id="Adarkar Valkyrie">
-            <card set="CS" lang="EN" count="1"/>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
         </item>
-        <item id="Decree of Justice">
-            <card set="SC" lang="EN" count="1"/>
+        <item id="Sorin, Grim Nemesis">
+            <card set="SOI" lang="EN" count="1"/>
         </item>
-        <item id="Debt to the Deathless">
+        <item id="Caves of Koilos">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Basilica">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Guildgate">
             <card set="DGM" lang="EN" count="1"/>
         </item>
-        <item id="Curse of Death's Hold">
-            <card set="ISD" lang="EN" count="1"/>
+        <item id="Scoured Barrens">
+            <card set="FRF" lang="EN" count="1"/>
         </item>
-        <item id="Curse of Exhaustion">
-            <card set="DKA" lang="EN" count="1"/>
+        <item id="Tainted Field">
+            <card set="TO" lang="EN" count="1"/>
         </item>
-        <item id="Curse of Misfortunes">
-            <card set="DKA" lang="EN" count="1"/>
+        <item id="Temple of Silence">
+            <card set="THS" lang="EN" count="1"/>
         </item>
-        <item id="Curse of Oblivion">
-            <card set="ISD" lang="EN" count="1"/>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
         </item>
-        <item id="Curse of Shallow Graves">
-            <card set="C13" lang="EN" count="1"/>
+        <item id="Plains">
+            <card set="RTR" lang="EN" ver="5" count="13"/>
         </item>
-        <item id="Curse of the Forsaken">
-            <card set="C13" lang="EN" count="1"/>
-        </item>
-        <item id="Curse of Thirst">
-            <card set="DKA" lang="EN" count="1"/>
+        <item id="Swamp">
+            <card set="RTR" lang="EN" ver="3" count="13"/>
         </item>
     </section>
     <section id="sideboard">

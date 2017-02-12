@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Kalitas, Bloodchief of Ghet">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Blood Tribute">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Drana, Kalastria Bloodchief">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Vampire Nocturnus">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Olivia Voldaren">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodline Keeper">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Stromkirk Captain">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Captivating Vampire">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Vampire Nighthawk">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Asylum Visitor">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Dark Impostor">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Basilisk Collar">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Urge to Feed">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Feast of Blood">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="8"/>
+        </item>
+        <item id="Lavaclaw Reaches">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Anowon, the Ruin Sage">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Malakir Bloodwitch">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Stensia Banquet">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Kalastria Highborn">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Stromkirk Occultist">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Vampire Hexmage">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Feast of Blood">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Urge to Feed">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
