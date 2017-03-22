@@ -1,59 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deck game="mtg" mode="Constructed" format="Commander" name="">
     <section id="main">
-        <item id="Lightning Bolt">
+        <group name="Ramp"/>
+        <item id="Izzet Cluestone">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="DDP" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Boilerworks">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="FNM" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
             <card set="M11" lang="EN" count="1"/>
         </item>
-        <item id="Lightning Axe">
-            <card set="TSP" lang="EN" count="1"/>
+        <item id="Grixis Panorama">
+            <card set="ALA" lang="EN" count="1"/>
         </item>
-        <item id="Lightning Strike">
-            <card set="M15" lang="EN" count="1"/>
+        <item id="Ash Barrens">
+            <card set="C16" lang="EN" count="1"/>
         </item>
-        <item id="Logic Knot">
-            <card set="FUT" lang="EN" count="1"/>
+        <item id="Lonely Sandbar">
+            <card set="C14" lang="EN" count="1"/>
         </item>
-        <item id="Mad Prophet">
-            <card set="AVR" lang="EN" count="1"/>
+        <item id="Forgotten Cave">
+            <card set="C14" lang="EN" count="1"/>
         </item>
-        <item id="Magma Spray">
-            <card set="JOU" lang="EN" count="1"/>
+        <item id="Remote Isle">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Smoldering Crater">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="RTR" lang="EN" ver="1" count="12"/>
+        </item>
+        <item id="Mountain">
+            <card set="RTR" lang="EN" ver="1" count="12"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ninja of the Deep Hours">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Martyr of Frost">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Archaeomancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Drelnoch">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Impaler Shrike">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Merfolk Looter">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Zephyr Scribe">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Electromancer">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Frostburn Weird">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Beetleback Chief">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Anarchist">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Chainflinger">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Prodigal Pyromancer">
+            <card set="DPA" lang="EN" count="1"/>
+        </item>
+        <item id="Viashino Fangtail">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Vulshok Sorcerer">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Chronarch">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Mnemonic Wall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Martyr of Ashes">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Swirling Sandstorm">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Scouring Sands">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <group name="Counter"/>
+        <item id="Exclude">
+            <card set="C14" lang="EN" count="1"/>
         </item>
         <item id="Mana Leak">
             <card set="M12" lang="EN" count="1"/>
         </item>
-        <item id="Lava Spike">
-            <card set="CHK" lang="EN" count="1"/>
+        <item id="Logic Knot">
+            <card set="FUT" lang="EN" count="1"/>
         </item>
-        <item id="Desperate Ravings">
-            <card set="EMA" lang="EN" count="1"/>
+        <item id="Disdainful Stroke">
+            <card set="KTK" lang="EN" count="1"/>
         </item>
-        <item id="Desperate Ritual">
-            <card set="CHK" lang="EN" count="1"/>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
         </item>
+        <item id="Dispel">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Disrupt">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Arcane Denial">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Essence Scatter">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Searing Blaze">
+            <card set="DDI" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Strike">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Axe">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Magma Spray">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <group name="Blue Copyable"/>
         <item id="Ponder">
             <card set="M12" lang="EN" count="1"/>
         </item>
         <item id="Preordain">
             <card set="M11" lang="EN" count="1"/>
         </item>
-        <item id="Serum Visions">
-            <card set="FD" lang="EN" count="1"/>
+        <item id="Impulse">
+            <card set="DDN" lang="EN" count="1"/>
         </item>
         <item id="Opt">
             <card set="IN" lang="EN" count="1"/>
         </item>
-        <item id="Thought Scour">
-            <card set="DKA" lang="EN" count="1"/>
-        </item>
         <item id="Think Twice">
             <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Anticipate">
+            <card set="DTK" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Telling Time">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Words of Wisdom">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Shared Discovery">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <group name="Red Copyable"/>
+        <item id="Desperate Ritual">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" count="1"/>
         </item>
         <item id="Cathartic Reunion">
             <card set="KLD" lang="EN" count="1"/>
         </item>
-        <item id="Faithless Looting">
-            <card set="DKA" lang="EN" count="1"/>
+        <item id="Harvest Pyre">
+            <card set="ISD" lang="EN" count="1"/>
         </item>
         <item id="Raze">
             <card set="US" lang="EN" count="1"/>
@@ -61,16 +225,28 @@
         <item id="Tormenting Voice">
             <card set="SOI" lang="EN" count="1"/>
         </item>
-        <item id="Volcanic Hammer">
-            <card set="9E" lang="EN" count="1"/>
-        </item>
         <item id="Wild Guess">
             <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Firebolt">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Flame Slash">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Pillar of Flame">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Spitting Earth">
+            <card set="10E" lang="EN" count="1"/>
         </item>
     </section>
     <section id="sideboard">
         <item id="Izzet Guildmage">
             <card set="DDJ" lang="EN" count="1"/>
+        </item>
+        <item id="Nivix Guildmage">
+            <card set="RTR" lang="EN" count="1"/>
         </item>
     </section>
 </deck>
