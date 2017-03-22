@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Blossoming Sands">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Bant Panorama">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Selesnya Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Selesnya Sanctuary">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="FNM" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Ash Barrens">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Desert">
+            <card set="AN" lang="EN" count="1"/>
+        </item>
+        <item id="Drifting Meadow">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Haunted Fengraf">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Khalni Garden">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Naya Panorama">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Secluded Steppe">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Tranquil Expanse">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="8"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="13"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="ARC" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Llanowar Elves">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Elvish Mystic">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Wood Elves">
+            <card set="DDR" lang="EN" count="1"/>
+        </item>
+        <item id="Arbor Elf">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn's Pilgrim">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Dawntreader Elk">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Edge of Autumn">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Far Wanderings">
+            <card set="TO" lang="EN" count="1"/>
+        </item>
+        <item id="Farhaven Elf">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Growth Spasm">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Tusker">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Mwonvuli Acid-Moss">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Primal Growth">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Search for Tomorrow">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Yavimaya Elder">
+            <card set="DDE" lang="EN" count="1"/>
+        </item>
+        <item id="Explore">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <group name="Support"/>
+        <item id="Sigil of the Nayan Gods">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Abundant Growth">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Armadillo Cloak">
+            <card set="DDE" lang="EN" count="1"/>
+        </item>
+        <item id="Aura Fracture">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Brindle Boar">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Captured Sunlight">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Caustic Caterpillar">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Centaur Healer">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Centaur Safeguard">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Asha's Favor">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Ancestral Statue">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Aegis Automaton">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <group name="Value"/>
+        <item id="Auramancer">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Battlefield Scrounger">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Beast Hunt">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Citanul Woodreaders">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Arrest">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Blinding Mage">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Avenging Arrow">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Ballynock Trapper">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Cage of Hands">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Choking Restraints">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Angelic Purge">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Sigardian Priest">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <group name="Payout"/>
+        <item id="Emperor Crocodile">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Grizzled Outcasts">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Mosstodon">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Solitary Hunter">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Stampeding Elk Herd">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Charging Rhino">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Blastoderm">
+            <card set="NE" lang="EN" count="1"/>
+        </item>
+        <item id="Beacon Behemoth">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Guardian of Vitu-Ghazi">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Aradara Express">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Pale Recluse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Renegade Freighter">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <group name="Early"/>
+        <item id="Elvish Visionary">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Atarka Beastbreaker">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Attended Knight">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Byway Courier">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Ambassador Oak">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Enlisted Wurm">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
