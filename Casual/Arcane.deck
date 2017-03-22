@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="The Unspeakable">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Pyromancer Ascension">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Baral, Chief of Compliance">
+            <card set="AER" lang="EN" count="2"/>
+        </item>
+        <item id="Izzet Guildmage">
+            <card set="GP" lang="EN" count="2"/>
+        </item>
+        <item id="Lava Spike">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Desperate Ritual">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Eerie Procession">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Ire of Kaminari">
+            <card set="BOK" lang="EN" count="2"/>
+        </item>
+        <item id="Evermind">
+            <card set="SOK" lang="EN" count="2"/>
+        </item>
+        <item id="Sift Through Sands">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Peer Through Depths">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Reach Through Mists">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Horobi's Whisper">
+            <card set="BOK" lang="EN" count="3"/>
+        </item>
+        <item id="Hideous Laughter">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Steam Vents">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="3"/>
+        </item>
+        <item id="Cascade Bluffs">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Pyroblast">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Axe">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Fiery Temper">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Circular Logic">
+            <card set="FNM" lang="EN" opt="Foil" count="4"/>
+        </item>
+        <item id="Martyr of Ashes">
+            <card set="CS" lang="EN" count="3"/>
+        </item>
+        <item id="Cathartic Reunion">
+            <card set="KLD" lang="EN" count="4"/>
+        </item>
+        <item id="Beetleback Chief">
+            <card set="C14" lang="EN" count="4"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodmad Vampire">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="12"/>
+        </item>
+        <item id="Forgotten Cave">
+            <card set="ON" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Martyr of Ashes">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Relic of Progenitus">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Swirling Sandstorm">
+            <card set="JU" lang="EN" count="2"/>
+        </item>
+        <item id="Hydroblast">
+            <card set="EMA" lang="EN" count="3"/>
+        </item>
+        <item id="Curse of the Pierced Heart">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Molten Rain">
+            <card set="MR" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>

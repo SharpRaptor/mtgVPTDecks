@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="ETB"/>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Siege Rhino">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Fleshbag Marauder">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Renegade Rallier">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Satyr Wayfinder">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Gonti, Lord of Luxury">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <group name="Creature toolbox"/>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Meren of Clan Nel Toth">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Deathrite Shaman">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Spore Frog">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana, Heretical Healer">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Knight of the Reliquary">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <group name="combo pieces"/>
+        <item id="Viscera Seer">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Anafenza, Kin-Tree Spirit">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Saffi Eriksdotter">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Artist">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Melira, Sylvok Outcast">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <group name="tutor"/>
+        <item id="Birthing Pod">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Green Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Chord of Calling">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Evolutionary Leap">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <group name="ramp"/>
+        <item id="Yavimaya Elder">
+            <card set="DDE" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <group name="removal"/>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="DDF" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Value"/>
+        <item id="Skullclamp">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Panharmonicon">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <group name="wrath"/>
+        <item id="Pernicious Deed">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Pact">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Bayou">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Savannah">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Scrubland">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Marsh Flats">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Wasteland">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Sandsteppe Citadel">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Murmuring Bosk">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Tower">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Verge">
+            <card set="ARC" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="BFZ" lang="EN" ver="3" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="BFZ" lang="EN" ver="3" opt="Foil" count="2"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="3" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Karador, Ghost Chieftain">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <item id="Yahenni, Undying Partisan">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Veilstone Amulet">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Touch of Darkness">
+            <card set="LG" lang="EN" count="1"/>
+        </item>
+        <item id="Hex Parasite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Retribution of the Ancients">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Glaring Spotlight">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Scuttlemutt">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Tooth of Chiss-Goria">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Crypt Ghast">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana of the Dark Realms">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana, the Last Hope">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Erebos, God of the Dead">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Artist">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Shadow Alley Denizen">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Erebos's Titan">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Fleshbag Marauder">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Orc Sureshot">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Rathi Trapper">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Guul Draz Assassin">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Walking Ballista">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Sudden Spoiling">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Tragic Slip">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Fatal Push">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Aphotic Wisps">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Jet Medallion">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Icy Manipulator">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Desert">
+            <card set="V12" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="BFZ" lang="EN" ver="3" count="14"/>
+        </item>
+        <item id="Maze of Ith">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Tower of the Magistrate">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Arcane Lighthouse">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg">
+            <card set="LG" lang="EN" count="1"/>
+        </item>
+        <item id="Shizo, Death's Storehouse">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Mystifying Maze">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Horobi, Death's Wail">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
