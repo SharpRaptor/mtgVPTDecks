@@ -73,9 +73,6 @@
         <item id="Dack's Duplicate">
             <card set="CNS" lang="EN" count="1"/>
         </item>
-        <item id="Thassa, God of the Sea">
-            <card set="THS" lang="EN" count="1"/>
-        </item>
         <item id="Solemn Simulacrum">
             <card set="M12" lang="EN" count="1"/>
         </item>
@@ -88,12 +85,6 @@
         <item id="Torrential Gearhulk">
             <card set="KLD" lang="EN" count="1"/>
         </item>
-        <item id="Archaeomancer">
-            <card set="M14" lang="EN" count="1"/>
-        </item>
-        <item id="Trinket Mage">
-            <card set="SOM" lang="EN" count="1"/>
-        </item>
         <item id="Dominus of Fealty">
             <card set="EVE" lang="EN" count="1"/>
         </item>
@@ -102,9 +93,6 @@
         </item>
         <item id="Burnished Hart">
             <card set="THS" lang="EN" count="1"/>
-        </item>
-        <item id="Hypersonic Dragon">
-            <card set="RTR" lang="EN" count="1"/>
         </item>
         <item id="Jori En, Ruin Diver">
             <card set="OGW" lang="EN" count="1"/>
@@ -130,9 +118,6 @@
         </item>
         <item id="Izzet Signet">
             <card set="GP" lang="EN" count="1"/>
-        </item>
-        <item id="Thran Dynamo">
-            <card set="C14" lang="EN" count="1"/>
         </item>
         <item id="Mind Stone">
             <card set="10E" lang="EN" count="1"/>
@@ -217,9 +202,6 @@
         <item id="Disdainful Stroke">
             <card set="KTK" lang="EN" count="1"/>
         </item>
-        <item id="Fire_Ice">
-            <card set="DDJ" lang="EN" count="1"/>
-        </item>
         <item id="Telling Time">
             <card set="10E" lang="EN" count="1"/>
         </item>
@@ -238,18 +220,36 @@
         <item id="Summary Dismissal">
             <card set="EMN" lang="EN" count="1"/>
         </item>
+        <item id="Commandeer">
+            <card set="CS" lang="EN" count="1"/>
+        </item>
+        <item id="Desertion">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
         <group name="Enchantment"/>
+        <item id="Smoke">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
         <item id="Fevered Visions">
             <card set="SOI" lang="EN" count="1"/>
         </item>
         <item id="Metallurgic Summonings">
             <card set="KLD" lang="EN" count="1"/>
         </item>
-        <item id="Leyline of Anticipation">
-            <card set="M11" lang="EN" count="1"/>
-        </item>
         <item id="Rhystic Study">
             <card set="CM1" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Declaration of Naught">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <item id="Standstill">
+            <card set="CIN" lang="EN" count="1"/>
+        </item>
+        <item id="Overburden">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Imprisoned in the Moon">
+            <card set="EMN" lang="EN" count="1"/>
         </item>
     </section>
     <section id="sideboard">

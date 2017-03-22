@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Mogis, God of Slaughter">
+            <card set="BNG" lang="EN" count="2"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="CMD" lang="EN" count="2"/>
+        </item>
+        <item id="Chain Reaction">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Languish">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Dark Impostor">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Hex Parasite">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Evil Twin">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Phantasmal Image">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sower of Temptation">
+            <card set="LRW" lang="EN" count="2"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Ultimate Price">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD3" lang="EN" ver="JVC" count="2"/>
+        </item>
+        <item id="Liliana, the Last Hope">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Complicate">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Thundermaw Hellkite">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Stormbreath Dragon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Flametongue Kavu">
+            <card set="C14" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Temple of Deceit">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

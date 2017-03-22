@@ -34,11 +34,15 @@
         <item id="Call the Skybreaker">
             <card set="EVE" lang="EN" count="2"/>
         </item>
-        <item id="Worm Harvest">
-            <card set="EVE" lang="EN" count="2"/>
-        </item>
         <item id="Seismic Assault">
-            <card set="10E" lang="EN" count="1"/>
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Drownyard Temple">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Dakmor Salvage">
+            <card set="FUT" lang="EN" count="2"/>
         </item>
         <item id="Terramorphic Expanse">
             <card set="M11" lang="EN" count="4"/>
@@ -53,10 +57,10 @@
             <card set="SOI" lang="EN" ver="1" count="5"/>
         </item>
         <item id="Forest">
-            <card set="SOI" lang="EN" ver="1" count="3"/>
+            <card set="SOI" lang="EN" ver="1" count="2"/>
         </item>
         <item id="Swamp">
-            <card set="SOI" lang="EN" ver="1" count="3"/>
+            <card set="SOI" lang="EN" ver="1" count="2"/>
         </item>
     </section>
     <section id="sideboard">

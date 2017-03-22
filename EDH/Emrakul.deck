@@ -29,11 +29,11 @@
         <item id="Desolation Twin">
             <card set="BFZ" lang="EN" count="1"/>
         </item>
-        <item id="Walker of the Wastes">
-            <card set="OGW" lang="EN" count="1"/>
-        </item>
         <item id="Kozilek, the Great Distortion">
             <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
         </item>
         <item id="Ulamog, the Ceaseless Hunger">
             <card set="BFZ" lang="EN" count="1"/>
