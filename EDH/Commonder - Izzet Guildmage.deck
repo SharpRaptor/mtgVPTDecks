@@ -118,6 +118,9 @@
         <item id="Mnemonic Wall">
             <card set="THS" lang="EN" count="1"/>
         </item>
+        <item id="Ghostly Flicker">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
         <group name="Wrath"/>
         <item id="Martyr of Ashes">
             <card set="CS" lang="EN" count="1"/>
@@ -127,9 +130,6 @@
         </item>
         <item id="Electrickery">
             <card set="RTR" lang="EN" count="1"/>
-        </item>
-        <item id="Scouring Sands">
-            <card set="BNG" lang="EN" count="1"/>
         </item>
         <group name="Counter"/>
         <item id="Exclude">
