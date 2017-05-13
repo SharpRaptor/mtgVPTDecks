@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Dromoka's Command">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+        <item id="Dungrove Elder">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Renegade Rallier">
+            <card set="AER" lang="EN" count="4"/>
+        </item>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Sylvan Advocate">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Qasali Pridemage">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Knight of the Reliquary">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Collected Company">
+            <card set="DTK" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Stirring Wildwood">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Canopy Vista">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Westvale Abbey">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Archangel Avacyn">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Spirit of the Labyrinth">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon, Ally of Zendikar">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Guardian of Thraben">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Kataki, War's Wage">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Aegis of the Gods">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Chord of Calling">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Gaddock Teeg">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
