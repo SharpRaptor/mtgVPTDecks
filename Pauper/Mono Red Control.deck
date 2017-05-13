@@ -28,8 +28,8 @@
         <item id="Mulldrifter">
             <card set="LRW" lang="EN" count="4"/>
         </item>
-        <item id="Bloodmad Vampire">
-            <card set="SOI" lang="EN" count="2"/>
+        <item id="Benthic Giant">
+            <card set="THS" lang="EN" count="2"/>
         </item>
         <item id="Swiftwater Cliffs">
             <card set="FRF" lang="EN" count="4"/>
@@ -52,16 +52,13 @@
             <card set="ALA" lang="EN" count="4"/>
         </item>
         <item id="Swirling Sandstorm">
-            <card set="JU" lang="EN" count="2"/>
+            <card set="JU" lang="EN" count="3"/>
         </item>
         <item id="Hydroblast">
             <card set="EMA" lang="EN" count="3"/>
         </item>
         <item id="Curse of the Pierced Heart">
             <card set="ISD" lang="EN" count="4"/>
-        </item>
-        <item id="Molten Rain">
-            <card set="MR" lang="EN" count="4"/>
         </item>
     </section>
 </deck>

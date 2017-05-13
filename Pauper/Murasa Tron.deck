@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Mnemonic Wall">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Condescend">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Flame Slash">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Moment's Peace">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Rolling Thunder">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Capsize">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Compulsive Research">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Ghostly Flicker">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Pulse of Murasa">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Mystical Teachings">
+            <card set="TSP" lang="EN" count="2"/>
+        </item>
+        <item id="Expedition Map">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Prophetic Prism">
+            <card set="KLD" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Radiant Fountain">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Shimmering Grotto">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Urza's Mine">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Power Plant">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Urza's Tower">
+            <card set="9E" lang="EN" count="4"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Hydroblast">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="5E" lang="EN" count="3"/>
+        </item>
+        <item id="Ancient Grudge">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Moment's Peace">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Serene Heart">
+            <card set="MI" lang="EN" count="2"/>
+        </item>
+        <item id="Earth Rift">
+            <card set="OD" lang="EN" count="2"/>
+        </item>
+        <item id="Ulamog's Crusher">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

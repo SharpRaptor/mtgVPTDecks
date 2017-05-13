@@ -28,8 +28,8 @@
             <card set="THS" lang="EN" count="2"/>
         </item>
         <group name="Creatures"/>
-        <item id="Sylvan Advocate">
-            <card set="OGW" lang="EN" count="4"/>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
         </item>
         <item id="Scavenging Ooze">
             <card set="M14" lang="EN" count="2"/>
@@ -50,8 +50,8 @@
         <item id="Chandra, Flamecaller">
             <card set="OGW" lang="EN" count="1"/>
         </item>
-        <item id="Chandra, Pyromaster">
-            <card set="M15" lang="EN" count="1"/>
+        <item id="Chandra, Torch of Defiance">
+            <card set="KLD" lang="EN" count="1"/>
         </item>
         <item id="Nissa, Vastwood Seer">
             <card set="ORI" lang="EN" count="2"/>

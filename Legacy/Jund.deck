@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Badlands">
+            <card set="RS" lang="EN" count="3"/>
+        </item>
+        <item id="Bayou">
+            <card set="RS" lang="EN" count="2"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Grove of the Burnwillows">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Wasteland">
+            <card set="TE" lang="EN" count="3"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodbraid Elf">
+            <card set="ARB" lang="EN" count="4"/>
+        </item>
+        <item id="Dark Confidant">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="2"/>
+        </item>
+        <item id="Deathrite Shaman">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Tarmogoyf">
+            <card set="FUT" lang="EN" count="4"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Hymn to Tourach">
+            <card set="FE" lang="EN" ver="2" count="2"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Punishing Fire">
+            <card set="ZEN" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Sylvan Library">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Choke">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Engineered Explosives">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Extirpate">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Golgari Charm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of the Void">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Surgical Extraction">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Toxic Deluge">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Veteran Explorer">
+            <card set="CMD" lang="EN" count="3"/>
+        </item>
+        <item id="Deathrite Shaman">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Baleful Strix">
+            <card set="C16" lang="EN" count="4"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Nissa, Vastwood Seer">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Leovold, Emissary of Trest">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Garruk Relentless">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Nissa, Vital Force">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Ob Nixilis Reignited">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="CNS" lang="EN" count="3"/>
+        </item>
+        <item id="Traverse the Ulvenwald">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Collective Brutality">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Cabal Therapy">
+            <card set="JU" lang="EN" count="4"/>
+        </item>
+        <item id="Bayou">
+            <card set="A" lang="EN" count="2"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Tropical Island">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Underground Sea">
+            <card set="RS" lang="EN" count="2"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Volrath's Stronghold">
+            <card set="SH" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Lost Legacy">
+            <card set="KLD" lang="EN" count="3"/>
+        </item>
+        <item id="Fatal Push">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Negate">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Pulse of Murasa">
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Surgical Extraction">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="To the Slaughter">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

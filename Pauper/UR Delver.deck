@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Delver of Secrets">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Faerie Miscreant">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Augur of Bolas">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Spellstutter Sprite">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Ninja of the Deep Hours">
+            <card set="BOK" lang="EN" count="4"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="2"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="3"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Skred">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+        <item id="Vapor Snag">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD3" lang="EN" ver="JVC" count="3"/>
+        </item>
+        <item id="Daze">
+            <card set="NE" lang="EN" count="1"/>
+        </item>
+        <item id="Gush">
+            <card set="MM" lang="EN" count="3"/>
+        </item>
+        <item id="Ash Barrens">
+            <card set="C16" lang="EN" count="3"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Snow-Covered Island">
+            <card set="CS" lang="EN" count="9"/>
+        </item>
+        <item id="Snow-Covered Mountain">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Electrickery">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Gorilla Shaman">
+            <card set="AL" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Hydroblast">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Pyroblast">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Skred">
+            <card set="CS" lang="EN" count="2"/>
+        </item>
+        <item id="Augur of Bolas">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD3" lang="EN" ver="JVC" count="1"/>
+        </item>
+        <item id="Stormbound Geist">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Swirling Sandstorm">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

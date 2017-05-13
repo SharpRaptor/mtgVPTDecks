@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Oath of Nissa">
+            <card set="OGW" lang="EN" count="4"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Voice of Resurgence">
+            <card set="DGM" lang="EN" count="4"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Kitchen Finks">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Restoration Angel">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Nissa, Voice of Zendikar">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Pia and Kiran Nalaar">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon, Ally of Zendikar">
+            <card set="BFZ" lang="EN" count="2"/>
+        </item>
+        <item id="Huntmaster of the Fells">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Raging Ravine">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Stirring Wildwood">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Temple Garden">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Reclamation Sage">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Grafdigger's Cage">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Pia and Kiran Nalaar">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Crumble to Dust">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Nissa, Vastwood Seer">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Timely Reinforcements">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
