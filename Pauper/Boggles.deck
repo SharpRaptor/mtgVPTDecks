@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Gladecover Scout">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Slippery Bogle">
+            <card set="EVE" lang="EN" count="4"/>
+        </item>
+        <item id="Silhana Ledgewalker">
+            <card set="GP" lang="EN" count="4"/>
+        </item>
+        <item id="Aura Gnarlid">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Manamorphose">
+            <card set="SHM" lang="EN" count="3"/>
+        </item>
+        <item id="Kruphix's Insight">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Abundant Growth">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Ethereal Armor">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Rancor">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Utopia Sprawl">
+            <card set="DIS" lang="EN" count="4"/>
+        </item>
+        <item id="Ancestral Mask">
+            <card set="MM" lang="EN" count="3"/>
+        </item>
+        <item id="Armadillo Cloak">
+            <card set="IN" lang="EN" count="4"/>
+        </item>
+        <item id="Blossoming Sands">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="15"/>
+        </item>
+        <item id="Khalni Garden">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Mana Tithe">
+            <card set="PLC" lang="EN" count="4"/>
+        </item>
+        <item id="Young Wolf">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Flaring Pain">
+            <card set="JU" lang="EN" count="2"/>
+        </item>
+        <item id="Gleeful Sabotage">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Ray of Revelation">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Oblivion Ring">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+    </section>
+</deck>

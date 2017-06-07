@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Freebies"/>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Disciple of Bolas">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Primal Growth">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Birthing Pod">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Far Wanderings">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <group name="Synergy"/>
+        <item id="Deathreap Ritual">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Eldritch Evolution">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Xenagos, the Reveler">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Mage Slayer">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Erebos">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Attrition">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Protean Hulk">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sidisi, Undead Vizier">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Winding Constrictor">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Dragon Broodmother">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Stalking Vengeance">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Sprouting Thrinax">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Mycoloth">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Archfiend of Depravity">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Yavimaya Dryad">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Yavimaya Elder">
+            <card set="DDE" lang="EN" count="1"/>
+        </item>
+        <item id="Xenagos, God of Revels">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Corpsejack Menace">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Jarad, Golgari Lich Lord">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Greenwarden of Murasa">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Meren of Clan Nel Toth">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Avenger of Zendikar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Harvester of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Doomgape">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Creakwood Liege">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Mazirek, Kraul Death Priest">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Deathbringer Thoctar">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Finality">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Endurance">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Feldon of the Third Path">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Kalonian Hydra">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Smothering Abomination">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Rune-Scarred Demon">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Avatar of Woe">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Butcher of Malakir">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Sheoldred, Whispering One">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Acidic Slime">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Noxious Gearhulk">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Hull Breach">
+            <card set="PS" lang="EN" count="1"/>
+        </item>
+        <item id="Murder">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Putrefy">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Dreadbore">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Lavalanche">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra's Ignition">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Languish">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Savage Lands">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Tower">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Woodland Cemetery">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Kessig Wolf Run">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Cinder Glade">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Smoldering Marsh">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Abandon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malady">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Bojuka Bog">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Skarrg, the Rage Pits">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Llanowar Dead">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Zhur-Taa Druid">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Kresh the Bloodbraided">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

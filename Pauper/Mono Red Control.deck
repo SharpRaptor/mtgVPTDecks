@@ -19,8 +19,8 @@
         <item id="Martyr of Ashes">
             <card set="CS" lang="EN" count="3"/>
         </item>
-        <item id="Cathartic Reunion">
-            <card set="KLD" lang="EN" count="4"/>
+        <item id="Tormenting Voice">
+            <card set="DTK" lang="EN" count="4"/>
         </item>
         <item id="Beetleback Chief">
             <card set="C14" lang="EN" count="4"/>
@@ -34,11 +34,17 @@
         <item id="Swiftwater Cliffs">
             <card set="FRF" lang="EN" count="4"/>
         </item>
+        <item id="Izzet Boilerworks">
+            <card set="GP" lang="EN" count="2"/>
+        </item>
         <item id="Island">
-            <card set="KLD" lang="EN" ver="1" count="4"/>
+            <card set="KLD" lang="EN" ver="1" count="2"/>
         </item>
         <item id="Mountain">
-            <card set="KLD" lang="EN" ver="1" count="12"/>
+            <card set="KLD" lang="EN" ver="1" count="9"/>
+        </item>
+        <item id="Izzet Guildgate">
+            <card set="DGM" lang="EN" count="3"/>
         </item>
         <item id="Forgotten Cave">
             <card set="ON" lang="EN" count="3"/>

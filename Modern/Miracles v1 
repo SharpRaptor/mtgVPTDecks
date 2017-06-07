@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <group name="Non Land"/>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Entreat the Angels">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Devastation Tide">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Temporal Mastery">
+            <card set="AVR" lang="EN" count="4"/>
+        </item>
+        <item id="Think Twice">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Telling Time">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="4"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="4"/>
+        </item>
+        <item id="Gideon Jura">
+            <card set="M12" lang="EN" count="2"/>
+        </item>
+        <item id="Remand">
+            <card set="RAV" lang="EN" count="3"/>
+        </item>
+        <group name="Land"/>
+        <item id="Celestial Colonnade">
+            <card set="WWK" lang="EN" count="3"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Enlightenment">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Wall of Essence">
+            <card set="M15" lang="EN" count="4"/>
+        </item>
+        <item id="Negate">
+            <card set="AER" lang="EN" count="4"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Stony Silence">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+    </section>
+</deck>
