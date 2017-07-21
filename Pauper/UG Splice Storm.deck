@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Ash Barrens">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="3"/>
+        </item>
+        <item id="Compulsive Research">
+            <card set="RAV" lang="EN" count="4"/>
+        </item>
+        <item id="Dawn's Reflection">
+            <card set="FD" lang="EN" count="2"/>
+        </item>
+        <item id="Train of Thought">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Fertile Ground">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="7"/>
+        </item>
+        <item id="Ideas Unbound">
+            <card set="SOK" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Kaervek's Torch">
+            <card set="MI" lang="EN" count="2"/>
+        </item>
+        <item id="Peer Through Depths">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Petals of Insight">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="4"/>
+        </item>
+        <item id="Psychic Puppetry">
+            <card set="CHK" lang="EN" count="4"/>
+        </item>
+        <item id="Reach Through Mists">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Sift Through Sands">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Utopia Sprawl">
+            <card set="DIS" lang="EN" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Deep Analysis">
+            <card set="TO" lang="EN" count="1"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Gigadrowse">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Glacial Ray">
+            <card set="CHK" lang="EN" count="2"/>
+        </item>
+        <item id="Tangle">
+            <card set="IN" lang="EN" count="3"/>
+        </item>
+        <item id="Turn Aside">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Vital Surge">
+            <card set="BOK" lang="EN" count="3"/>
+        </item>
+    </section>
+</deck>

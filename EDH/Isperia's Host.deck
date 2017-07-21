@@ -151,11 +151,11 @@
         <item id="Plains">
             <card set="KTK" lang="EN" ver="1" count="13"/>
         </item>
-        <item id="Pride of the Clouds">
-            <card set="DIS" lang="EN" count="1"/>
-        </item>
         <item id="Prognostic Sphinx">
             <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of the Dire Hour">
+            <card set="C14" lang="EN" count="1"/>
         </item>
         <item id="Reliquary Tower">
             <card set="M13" lang="EN" count="1"/>

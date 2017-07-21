@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Geist of Saint Traft">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Invocation of Saint Traft">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Drogskol Captain">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Bygone Bishop">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Celestial Crusader">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Drogskol Cavalry">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Dungeon Geists">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Geist Snatch">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Hopeful Eidolon">
+            <card set="THS" lang="EN" count="4"/>
+        </item>
+        <item id="Moonlit Strider">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Nebelgast Herald">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Rattlechains">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Selfless Spirit">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Sturmgeist">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Midnight Haunting">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Triplicate Spirits">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+        <item id="Moorland Haunt">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Prairie Stream">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Spirit Bonds">
+            <card set="M15" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

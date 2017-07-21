@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Arlinn Kord">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Immerwolf">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Mayor of Avabruck">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Geier Reach Bandit">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Hermit of the Natterknolls">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Instigator Gang">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Kruin Outlaw">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Duskwatch Recruiter">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Mondronen Shaman">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Daybreak Ranger">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Moonmist">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Full Moon's Rise">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Howlpack Resurgence">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Moonlight Hunt">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Overwhelming Stampede">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kessig Wolf Run">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Fire-Lit Thicket">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Cinder Glade">
+            <card set="BFZ" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

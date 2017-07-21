@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Thraben Doomsayer">
+            <card set="DKA" lang="EN" count="3"/>
+        </item>
+        <item id="Gather the Townsfolk">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Fiend Hunter">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Champion of the Parish">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Thalia's Lieutenant">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Honor of the Pure">
+            <card set="M12" lang="EN" count="3"/>
+        </item>
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Sigarda, Heron's Grace">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Odric, Master Tactician">
+            <card set="M13" lang="EN" count="2"/>
+        </item>
+        <item id="Thalia's Lancers">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Fiendslayer Paladin">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+        <item id="Riders of Gavony">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Heron's Grace Champion">
+            <card set="EMN" lang="EN" count="3"/>
+        </item>
+        <item id="Silverblade Paladin">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Gavony Township">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Sunpetal Grove">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Canopy Vista">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="13"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

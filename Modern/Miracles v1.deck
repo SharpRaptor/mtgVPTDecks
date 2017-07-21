@@ -6,7 +6,7 @@
             <card set="AVR" lang="EN" count="4"/>
         </item>
         <item id="Entreat the Angels">
-            <card set="AVR" lang="EN" count="4"/>
+            <card set="AVR" lang="EN" count="3"/>
         </item>
         <item id="Devastation Tide">
             <card set="AVR" lang="EN" count="4"/>
@@ -18,7 +18,7 @@
             <card set="ISD" lang="EN" count="4"/>
         </item>
         <item id="Telling Time">
-            <card set="10E" lang="EN" count="3"/>
+            <card set="10E" lang="EN" count="4"/>
         </item>
         <item id="Serum Visions">
             <card set="FD" lang="EN" count="4"/>
@@ -27,7 +27,10 @@
             <card set="CFX" lang="EN" count="4"/>
         </item>
         <item id="Gideon Jura">
-            <card set="M12" lang="EN" count="2"/>
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
         </item>
         <item id="Remand">
             <card set="RAV" lang="EN" count="3"/>
@@ -53,9 +56,6 @@
         </item>
     </section>
     <section id="sideboard">
-        <item id="Wall of Essence">
-            <card set="M15" lang="EN" count="4"/>
-        </item>
         <item id="Negate">
             <card set="AER" lang="EN" count="4"/>
         </item>
@@ -67,6 +67,9 @@
         </item>
         <item id="Rest in Peace">
             <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Lone Missionary">
+            <card set="ROE" lang="EN" count="4"/>
         </item>
     </section>
 </deck>

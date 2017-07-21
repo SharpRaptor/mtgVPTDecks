@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Firebrand Ranger">
+            <card set="IN" lang="EN" count="4"/>
+        </item>
+        <item id="Thermo-Alchemist">
+            <card set="EMN" lang="EN" count="3"/>
+        </item>
+        <item id="Tandem Lookout">
+            <card set="AVR" lang="EN" count="3"/>
+        </item>
+        <item id="Ophidian Eye">
+            <card set="TSP" lang="EN" count="3"/>
+        </item>
+        <item id="Swiftwater Cliffs">
+            <card set="FRF" lang="EN" count="4"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="4"/>
+        </item>
+        <item id="Rite of Flame">
+            <card set="CS" lang="EN" count="4"/>
+        </item>
+        <item id="Gitaxian Probe">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Manamorphose">
+            <card set="SHM" lang="EN" count="4"/>
+        </item>
+        <item id="Flame Jab">
+            <card set="EVE" lang="EN" count="2"/>
+        </item>
+        <item id="Faithless Looting">
+            <card set="DKA" lang="EN" count="2"/>
+        </item>
+        <item id="Desperate Ritual">
+            <card set="CHK" lang="EN" count="3"/>
+        </item>
+        <item id="Seething Song">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Expedite">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Mizzium Skin">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>
