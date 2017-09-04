@@ -11,25 +11,26 @@
         <item id="Spell Pierce">
             <card set="ZEN" lang="EN" count="2"/>
         </item>
+        <item id="Izzet Charm">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
         <group name="Combo"/>
         <item id="Deceiver Exarch">
-            <card set="NPH" lang="EN" count="3"/>
+            <card set="NPH" lang="EN" count="2"/>
         </item>
         <item id="Pestermite">
             <card set="LRW" lang="EN" count="3"/>
         </item>
         <item id="Splinter Twin">
-            <card set="ROE" lang="EN" count="4"/>
+            <card set="ROE" lang="EN" count="3"/>
         </item>
         <group name="Other"/>
         <item id="Lightning Bolt">
             <card set="M11" lang="EN" count="4"/>
         </item>
-        <item id="Back to Basics">
-            <card set="US" lang="EN" count="1"/>
-        </item>
-        <item id="Notion Thief">
-            <card set="DGM" lang="EN" count="1"/>
+        <item id="Back to Basics"/>
+        <item id="Blood Moon">
+            <card set="DK" lang="EN" count="2"/>
         </item>
         <item id="Snapcaster Mage">
             <card set="ISD" lang="EN" count="3"/>
@@ -48,9 +49,7 @@
         <item id="Volcanic Island">
             <card set="R" lang="EN" count="3"/>
         </item>
-        <item id="Underground Sea">
-            <card set="RF" lang="DE" count="2"/>
-        </item>
+        <item id="Underground Sea"/>
         <item id="Scalding Tarn">
             <card set="ZEN" lang="EN" count="4"/>
         </item>
@@ -59,6 +58,9 @@
         </item>
         <item id="Bloodstained Mire">
             <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Wandering Fumarole">
+            <card set="OGW" lang="EN" count="2"/>
         </item>
         <item id="Island">
             <card set="KLD" lang="EN" ver="1" count="5"/>
@@ -74,26 +76,26 @@
         <item id="Hydroblast">
             <card set="EMA" lang="EN" count="2"/>
         </item>
-        <item id="Toxic Deluge">
-            <card set="C13" lang="EN" count="1"/>
-        </item>
-        <item id="Back to Basics">
-            <card set="US" lang="EN" count="2"/>
-        </item>
         <item id="Grafdigger's Cage">
             <card set="DKA" lang="EN" count="2"/>
         </item>
         <item id="Jace, the Mind Sculptor">
             <card set="WWK" lang="EN" count="1"/>
         </item>
+        <item id="Anger of the Gods">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
         <item id="Keranos, God of Storms">
             <card set="JOU" lang="EN" count="1"/>
         </item>
-        <item id="Vendilion Clique">
-            <card set="MOR" lang="EN" count="2"/>
-        </item>
         <item id="Counterspell">
             <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Disrupt">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Surgical Extraction">
+            <card set="NPH" lang="EN" count="2"/>
         </item>
     </section>
 </deck>

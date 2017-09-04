@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Force of Will">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="ZEN" lang="EN" count="2"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="2"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="3"/>
+        </item>
+        <item id="Izzet Charm">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="EMA" lang="EN" count="3"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

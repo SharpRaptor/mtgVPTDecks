@@ -4,9 +4,6 @@
         <item id="Ancestral Recall">
             <card set="U" lang="EN" count="4"/>
         </item>
-        <item id="Brainstorm">
-            <card set="MM" lang="EN" count="4"/>
-        </item>
         <item id="Cabal Ritual">
             <card set="TO" lang="EN" count="4"/>
         </item>
@@ -20,20 +17,30 @@
             <card set="NPH" lang="EN" count="4"/>
         </item>
         <item id="Yawgmoth's Bargain">
-            <card set="UD" lang="EN" count="3"/>
+            <card set="UD" lang="EN" count="2"/>
         </item>
         <item id="Manamorphose">
             <card set="SHM" lang="EN" count="4"/>
         </item>
-        <item id="Yawgmoth's Will">
-            <card set="US" lang="EN" count="2"/>
+        <item id="Children of Korlis">
+            <card set="TSP" lang="EN" count="2"/>
         </item>
         <item id="Vampiric Tutor">
             <card set="6E" lang="EN" count="4"/>
         </item>
         <item id="Tendrils of Agony">
-            <card set="SC" lang="EN" count="2"/>
+            <card set="SC" lang="EN" count="1"/>
         </item>
+        <item id="Timetwister">
+            <card set="WLD" lang="EN" ver="2004" opt="Oversized" count="4"/>
+        </item>
+        <item id="Twiddle">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Retract">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <group name="Mana"/>
         <item id="Mox Ruby">
             <card set="U" lang="EN" count="4"/>
         </item>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Aqueduct">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Guildgate">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Dismal Backwater">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Grixis Panorama">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Esper Panorama">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Ash Barrens">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Lonely Sandbar">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Remote Isle">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Barren Moor">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Desert of the Glorified">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Desert of the Mindful">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Polluted Mire">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="HOU" lang="EN" ver="1" count="12"/>
+        </item>
+        <item id="Swamp">
+            <card set="HOU" lang="EN" ver="1" count="9"/>
+        </item>
+        <group name="Other"/>
+        <item id="Crypt Incursion">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Mystical Teachings">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Ghostly Flicker">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Archaeomancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Mnemonic Wall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Sea Gate Oracle">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Thorn of the Black Rose">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana's Shade">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Skittering Crustacean">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Benthic Giant">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Striped Riverwinder">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Stealer of Secrets">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sphinx's Disciple">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Ninja of the Deep Hours">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Mulldrifter">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Rhystic Study">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <item id="Read the Bones">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Hieroglyphic Illumination">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Comparative Analysis">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Betrayal">
+            <card set="VI" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Impulse">
+            <card set="DDN" lang="EN" count="1"/>
+        </item>
+        <item id="Think Twice">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Forbidden Alchemy">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Deep Analysis">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Cruise">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <group name="Counter"/>
+        <item id="Negate">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Soul Manipulation">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Disdainful Stroke">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Logic Knot">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Frightful Delusion">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Dispel">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Disrupt">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Essence Scatter">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Mana Leak">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Miscalculation">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Prohibit">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <item id="Remove Soul">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Exclude">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Crypt Rats">
+            <card set="VI" lang="EN" count="1"/>
+        </item>
+        <item id="Pestilence">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Fade Away">
+            <card set="EX" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Doom Blade">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Hideous End">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Ghastly Demise">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Eyeblight's Ending">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Victim of Night">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Edict">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Chainer's Edict">
+            <card set="TO" lang="EN" count="1"/>
+        </item>
+        <item id="Murder">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Disembowel">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Rend Flesh">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Seal of Doom">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Snuff Out">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Terror">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Vendetta">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Cluestone">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Dimir Guildmage">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

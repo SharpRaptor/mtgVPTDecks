@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Spirebluff Canal">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Wandering Fumarole">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Desolate Lighthouse">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Tectonic Edge">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="FNM" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="HOU" lang="EN" ver="1" count="14"/>
+        </item>
+        <item id="Mountain">
+            <card set="HOU" lang="EN" ver="1" count="13"/>
+        </item>
+        <group name="Counter"/>
+        <item id="Disrupt">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Counterflux">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <item id="Disallow">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Summary Dismissal">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Mystic Confluence">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Charm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Rewind">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Mindswipe">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Disdainful Stroke">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Desertion">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Wild Ricochet">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Sol Ring">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Vessel">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Mizzium Mortars">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Chain Reaction">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Prophetic Bolt">
+            <card set="DDJ" lang="EN" count="1"/>
+        </item>
+        <item id="Imprisoned in the Moon">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Turn_Burn">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Bolt">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Fact or Fiction">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Interpret the Signs">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Ponder">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Preordain">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Serum Visions">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Dig Through Time">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Rhystic Study">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+        <group name="Creatures"/>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Curious Homunculus">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Desolation Twin">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, Butcher of Truth">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Kozilek, the Great Distortion">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Ulamog, the Ceaseless Hunger">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Aeon Chronicler">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Docent of Perfection">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Detritivore">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Fury Charm">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Rift Elemental">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Timecrafting">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Omniscience">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Time Stretch">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Mind's Desire">
+            <card set="DDS" lang="EN" count="1"/>
+        </item>
+        <item id="Mind's Dilation">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Clockspinning">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Paradox Haze">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Beacon of Tomorrows">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Swarm Intelligence">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Show and Tell">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Thought Reflection">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Spelltwine">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Expropriate">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Smoke">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Overburden">
+            <card set="PY" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Jhoira of the Ghitu">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

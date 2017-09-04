@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Removal"/>
+        <item id="Swords to Plowshares">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Vindicate">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Unlicensed Disintegration">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Dreadbore">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Spine of Ish Sah">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Executioner's Capsule">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Dispeller's Capsule">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Cyclonic Rift">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Izzet Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Azorius Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Mycosynth Wellspring">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Hour of Devastation">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Crux of Fate">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Nevinyrral's Disk">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Perilous Vault">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Scourglass">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Metamorph">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Daretti, Scrap Savant">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Faerie Artisans">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Nicol Bolas, Planeswalker">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Sorin, Grim Nemesis">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana Vess">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Baleful Strix">
+            <card set="E01" lang="EN" count="1"/>
+        </item>
+        <item id="Hex Parasite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Mirage Mirror">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Revelation">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C16" lang="EN" count="36"/>
+        </item>
+        <group name="Synergy"/>
+        <item id="Pia and Kiran Nalaar">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Trinket Mage">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Treasure Mage">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Fabricate">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Hangarback Walker">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Scrap Trawler">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Trading Post">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Mindslaver">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Thopter Foundry">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Thopter Assembly">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Time Sieve">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Thopter Spy Network">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Efficient Construction">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Sharding Sphinx">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Sword of the Meek">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Ichor Wellspring">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Courier's Capsule">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Breya, Etherium Shaper">
+            <card set="C16" lang="EN" opt="Foil" count="1"/>
+        </item>
+    </section>
+</deck>
