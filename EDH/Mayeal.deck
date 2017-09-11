@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Cinder Glade">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Mosswort Bridge">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Skarrg, the Rage Pits">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="HOU" lang="EN" ver="1" count="9"/>
+        </item>
+        <item id="Plains">
+            <card set="HOU" lang="EN" ver="1" count="6"/>
+        </item>
+        <item id="Command Tower">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="HOU" lang="EN" ver="1" count="5"/>
+        </item>
+        <item id="Jungle Shrine">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Spinerock Knoll">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Abandon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Thespian's Stage">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Naya Panorama">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Nature's Lore">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Search for Tomorrow">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Elvish Mystic">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Sylvan Caryatid">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Tempt with Discovery">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Knotvine Mystic">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Garruk Wildspeaker">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Birds of Paradise">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Somberwald Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Burgeoning">
+            <card set="SH" lang="EN" count="1"/>
+        </item>
+        <item id="Llanowar Elves">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Bloom Tender">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn's Pilgrim">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <group name="Utility"/>
+        <item id="Asceticism">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Domri Rade">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Wild Pair">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Lurking Predators">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Rings of Brighthearth">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Summoning Trap">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Elvish Piper">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Quicksilver Amulet">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Scroll Rack">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Defense of the Heart">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Selvala's Stampede">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Thousand-Year Elixir">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="See the Unwritten">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Congregation at Dawn">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Fires of Yavimaya">
+            <card set="IN" lang="EN" count="1"/>
+        </item>
+        <group name="Big Things"/>
+        <item id="Dragonlord Dromoka">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Angel of Serenity">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Baneslayer Angel">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Worldspine Wurm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Void Winnower">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Sigarda, Host of Herons">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Gruul Ragebeast">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Scourge of Kher Ridges">
+            <card set="FUT" lang="EN" count="1"/>
+        </item>
+        <item id="Blazing Archon">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Exquisite Archangel">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Iona, Shield of Emeria">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Endurance">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Akroma, Angel of Wrath">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Thunderfoot Baloth">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Xenagos, God of Revels">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Angelic Arbiter">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Greenwarden of Murasa">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Vorinclex, Voice of Hunger">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Blightsteel Colossus">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Ruric Thar, the Unbowed">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Avacyn, Angel of Hope">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Spearbreaker Behemoth">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Nylea, God of the Hunt">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Siege Behemoth">
+            <card set="CMA" lang="EN" count="1"/>
+        </item>
+        <item id="Woodfall Primus">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Terastodon">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Elderscale Wurm">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Gisela, Blade of Goldnight">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Avenger of Zendikar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Windbrisk Raptor">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Mayael the Anima">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

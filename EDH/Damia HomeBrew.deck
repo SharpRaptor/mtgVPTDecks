@@ -12,9 +12,6 @@
             <card set="MBS" lang="EN" count="1"/>
         </item>
         <group name="Enchantment"/>
-        <item id="Oath of Nissa">
-            <card set="OGW" lang="EN" count="1"/>
-        </item>
         <item id="Rhystic Study">
             <card set="CM1" lang="EN" opt="Foil" count="1"/>
         </item>
@@ -129,9 +126,6 @@
         <item id="Courser of Kruphix">
             <card set="BNG" lang="EN" count="1"/>
         </item>
-        <item id="Boundless Realms">
-            <card set="M13" lang="EN" count="1"/>
-        </item>
         <item id="Exploration">
             <card set="CNS" lang="EN" count="1"/>
         </item>
@@ -149,6 +143,15 @@
         </item>
         <item id="Crucible of Worlds">
             <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Hour of Promise">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Tempt with Discovery">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Ramunap Excavator">
+            <card set="HOU" lang="EN" count="1"/>
         </item>
         <group name="Wrath"/>
         <item id="Black Sun's Zenith">
@@ -178,9 +181,6 @@
         </item>
         <item id="Sidisi, Undead Vizier">
             <card set="DTK" lang="EN" count="1"/>
-        </item>
-        <item id="Diabolic Revelation">
-            <card set="M13" lang="EN" count="1"/>
         </item>
         <group name="Removal"/>
         <item id="Maelstrom Pulse">
@@ -223,9 +223,6 @@
         <item id="Command Tower">
             <card set="C15" lang="EN" count="1"/>
         </item>
-        <item id="Command Beacon">
-            <card set="C15" lang="EN" count="1"/>
-        </item>
         <item id="Temple of the False God">
             <card set="C15" lang="EN" count="1"/>
         </item>
@@ -260,13 +257,13 @@
             <card set="M11" lang="EN" count="1"/>
         </item>
         <item id="Forest">
-            <card set="SOI" lang="EN" ver="1" count="5"/>
+            <card set="HOU" lang="EN" ver="1" count="5"/>
         </item>
         <item id="Swamp">
-            <card set="SOI" lang="EN" ver="1" count="4"/>
+            <card set="HOU" lang="EN" ver="1" count="4"/>
         </item>
         <item id="Island">
-            <card set="SOI" lang="EN" ver="1" count="4"/>
+            <card set="HOU" lang="EN" ver="1" count="4"/>
         </item>
         <item id="Botanical Sanctum">
             <card set="KLD" lang="EN" count="1"/>
@@ -276,6 +273,9 @@
         </item>
         <item id="Darkslick Shores">
             <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="EXP" lang="EN" opt="Foil" count="1"/>
         </item>
     </section>
     <section id="sideboard">

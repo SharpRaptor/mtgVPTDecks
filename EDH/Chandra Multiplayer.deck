@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Valakut, the Molten Pinnacle">
+            <card set="REL" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Nykthos, Shrine to Nyx">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Throne of the High City">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Hanweir Battlements">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Mountain">
+            <card set="HOU" lang="EN" ver="1" count="30"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Pyrohemia">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Starstorm">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Rolling Earthquake">
+            <card set="V14" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Mizzium Mortars">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bonfire of the Damned">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Ruby Medallion">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Fire Diamond">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Caged Sun">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Gauntlet of Power">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Archive">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Extraplanar Lens">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Unstable Obelisk">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <group name="Other Artifact"/>
+        <item id="Pyromancer's Goggles">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Pyromancer's Gauntlet">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <group name="Draw"/>
+        <item id="Staff of Nin">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Mind's Eye">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Outpost Siege">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Pyromaster">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Torch of Defiance">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Oracle's Vault">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Seer's Sundial">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Wheel of Fortune">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Reforge the Soul">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Commune with Lava">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Cathartic Reunion">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Collective Defiance">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Act on Impulse">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Harsh Mentor">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Thunderbreak Regent">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Stormbreath Dragon">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra's Spitfire">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Neheb, the Eternal">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Obsidian Fireheart">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Sin Prodder">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Soul-Scar Mage">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Combustible Gearhulk">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Dark-Dwellers">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Embermaw Hellion">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Flametongue Kavu">
+            <card set="DD2" lang="EN" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Chandra Ablaze">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Chandra, Flamecaller">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Koth of the Hammer">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Sarkhan, the Dragonspeaker">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Wild Ricochet">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Vandalblast">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Insult_Injury">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <group name="Punisher"/>
+        <item id="Ruination">
+            <card set="CMD" lang="EN" count="1"/>
+        </item>
+        <item id="Sulfuric Vortex">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Burning Earth">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Price of Progress">
+            <card set="EMA" lang="EN" count="1"/>
+        </item>
+        <item id="Leyline of Punishment">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Volcanic Offering">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Abrade">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Oath of Chandra">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Roast">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Exquisite Firecraft">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Burn from Within">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Fall of the Titans">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Chandra, Fire of Kaladesh">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

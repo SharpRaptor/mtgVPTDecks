@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Barren Moor">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Tranquil Thicket">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Forgotten Cave">
+            <card set="ON" lang="EN" count="1"/>
+        </item>
+        <item id="Canyon Slough">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Sheltered Thicket">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malady">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Volrath's Stronghold">
+            <card set="SH" lang="EN" count="1"/>
+        </item>
+        <item id="Smoldering Marsh">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Cinder Glade">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Woodland Cemetery">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rootbound Crag">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Wooded Foothills">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Stomping Ground">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Savage Lands">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Maze of Ith">
+            <card set="DK" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Blighted Woodland">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Ghost Quarter">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Strip Mine">
+            <card set="4EF" lang="PT" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="HOU" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="HOU" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Mountain">
+            <card set="HOU" lang="EN" ver="1" count="2"/>
+        </item>
+        <group name="Other"/>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Traverse the Ulvenwald">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Green Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Crop Rotation">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Eldritch Evolution">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Scavenging Ooze">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="See the Unwritten">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Sensei's Divining Top">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Wheel of Fortune">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <group name="Graveyard"/>
+        <item id="Praetor's Counsel">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Grapple with the Past">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Satyr Wayfinder">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Buried Alive">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Victimize">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <item id="Strands of Night">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana, Death's Majesty">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Liliana, the Last Hope">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Nissa, Vital Force">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <group name="Value"/>
+        <item id="Vessel of Nascency">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Seasons Past">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Ramunap Excavator">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Survival of the Fittest">
+            <card set="EX" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Borborygmos Enraged">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Inferno Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Artisan of Kozilek">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Big Game Hunter">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Greenwarden of Murasa">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Acidic Slime">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Life from the Loam">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="The Gitrog Monster">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="The Scorpion God">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Meren of Clan Nel Toth">
+            <card set="C15" lang="EN" count="1"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Eternal Witness">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Sheoldred, Whispering One">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Vorinclex, Voice of Hunger">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Avenger of Zendikar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Ancient Grudge">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Putrefy">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Beast Within">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Grip">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Dreadbore">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Living Death">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Gaze of Granite">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Crux of Fate">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Rampant Growth">
+            <card set="MI" lang="EN" count="1"/>
+        </item>
+        <item id="Nature's Lore">
+            <card set="PT" lang="EN" count="1"/>
+        </item>
+        <item id="Farseek">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Search for Tomorrow">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Crucible of Worlds">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Adun Oakenshield">
+            <card set="LG" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
