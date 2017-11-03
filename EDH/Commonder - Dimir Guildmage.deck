@@ -54,11 +54,11 @@
             <card set="HOU" lang="EN" ver="1" count="9"/>
         </item>
         <group name="Other"/>
-        <item id="Crypt Incursion">
-            <card set="DGM" lang="EN" count="1"/>
-        </item>
         <item id="Mystical Teachings">
             <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Freed from the Real">
+            <card set="SOK" lang="EN" count="1"/>
         </item>
         <item id="Ghostly Flicker">
             <card set="AVR" lang="EN" count="1"/>
