@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Other"/>
+        <group name="Consistency"/>
+        <group name="Walkers"/>
+        <group name="Land"/>
+        <item id="Command Tower">
+            <card set="CMA" lang="EN" count="36"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Beast Within">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Putrefy">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Krosan Grip">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Farseek">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Rampant Growth">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Cultivate">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Kodama's Reach">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Sakura-Tribe Elder">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Golgari Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Dimir Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Simic Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Oracle of Mul Daya">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Exploration">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Azusa, Lost but Seeking">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Burgeoning">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Gilded Lotus">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Thran Dynamo">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Hour of Promise">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Tempt with Discovery">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Ramunap Excavator">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <group name="Wrath"/>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Black Sun's Zenith">
+            <card set="MBS" lang="EN" count="1"/>
+        </item>
+        <item id="Decree of Pain">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Pernicious Deed">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Gaze of Granite">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>

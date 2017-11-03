@@ -254,5 +254,8 @@
         <item id="Dimir Guildmage">
             <card set="RAV" lang="EN" count="1"/>
         </item>
+        <item id="Bane Alley Broker">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
     </section>
 </deck>
