@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Walking Ballista">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Coretapper">
+            <card set="DS" lang="EN" count="4"/>
+        </item>
+        <item id="Emrakul, the Aeons Torn">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Ancient Stirrings">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Tezzeret's Gambit">
+            <card set="NPH" lang="EN" count="3"/>
+        </item>
+        <item id="Astral Cornucopia">
+            <card set="BNG" lang="EN" count="4"/>
+        </item>
+        <item id="Everflowing Chalice">
+            <card set="WWK" lang="EN" count="4"/>
+        </item>
+        <item id="Mox Opal">
+            <card set="SOM" lang="EN" count="1"/>
+        </item>
+        <item id="Surge Node">
+            <card set="NPH" lang="EN" count="4"/>
+        </item>
+        <item id="Mind Stone">
+            <card set="10E" lang="EN" count="2"/>
+        </item>
+        <item id="Voltaic Key">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Temple Bell">
+            <card set="M11" lang="EN" count="2"/>
+        </item>
+        <item id="Aetherflux Reservoir">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Hedron Archive">
+            <card set="BFZ" lang="EN" count="3"/>
+        </item>
+        <item id="Batterskull">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Paradox Engine">
+            <card set="AER" lang="EN" count="4"/>
+        </item>
+        <item id="Planar Portal">
+            <card set="8E" lang="EN" count="1"/>
+        </item>
+        <item id="Academy Ruins">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Encroaching Wastes">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Forest">
+            <card set="HOU" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Inventors' Fair">
+            <card set="KLD" lang="EN" count="4"/>
+        </item>
+        <item id="Island">
+            <card set="HOU" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Yavimaya Coast">
+            <card set="ORI" lang="EN" count="4"/>
+        </item>
+        <item id="Tolaria West">
+            <card set="FUT" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Helix Pinnacle">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Natural State">
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Ensnaring Bridge">
+            <card set="8E" lang="EN" count="2"/>
+        </item>
+        <item id="Defense Grid">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Seal of Primordium">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+        <item id="Wurmcoil Engine">
+            <card set="SOM" lang="EN" count="3"/>
+        </item>
+        <item id="Ugin, the Spirit Dragon">
+            <card set="FRF" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

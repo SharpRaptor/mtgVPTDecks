@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Asylum Visitor">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Gifted Aetherborn">
+            <card set="AER" lang="EN" count="4"/>
+        </item>
+        <item id="Pack Rat">
+            <card set="RTR" lang="EN" count="4"/>
+        </item>
+        <item id="Vampire Nighthawk">
+            <card set="M13" lang="EN" count="4"/>
+        </item>
+        <item id="Ruin Raider">
+            <card set="XLN" lang="EN" count="3"/>
+        </item>
+        <item id="Kalitas, Traitor of Ghet">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+        <item id="Phyrexian Obliterator">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Gray Merchant of Asphodel">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Fatal Push">
+            <card set="AER" lang="EN" count="3"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="4"/>
+        </item>
+        <item id="Go for the Throat">
+            <card set="MBS" lang="EN" count="3"/>
+        </item>
+        <item id="Liliana, the Last Hope">
+            <card set="EMN" lang="EN" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="HOU" lang="EN" ver="1" count="23"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Duress">
+            <card set="XLN" lang="EN" count="3"/>
+        </item>
+        <item id="Collective Brutality">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Ob Nixilis Reignited">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Geth's Verdict">
+            <card set="NPH" lang="EN" count="2"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Death's Hold">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Flaying Tendrils">
+            <card set="OGW" lang="EN" count="3"/>
+        </item>
+        <item id="Pharika's Cure">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

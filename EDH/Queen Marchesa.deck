@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Ankle Shanker">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Archetype of Courage">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Brutal Hordechief">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Custodi Lich">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Elesh Norn, Grand Cenobite">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Gisela, Blade of Goldnight">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Harsh Mentor">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Iroas, God of Victory">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Kambal, Consul of Allocation">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Kazuul, Tyrant of the Cliffs">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Knights of the Black Rose">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Mathas, Fiend Seeker">
+            <card set="C17" lang="EN" opt="Foil" count="1"/>
+        </item>
+        <item id="Michiko Konda, Truth Seeker">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Advokist">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Protector of the Crown">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Royal Assassin">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Skyline Despot">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Sun Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Teysa, Envoy of Ghosts">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Thalia, Heretic Cathar">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Windborn Muse">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Anguished Unmaking">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Charm">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Crackling Doom">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Mortify">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="1"/>
+        </item>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="1"/>
+        </item>
+        <item id="Teferi's Protection">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Utter End">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Council's Judgment">
+            <card set="CNS" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Disrupt Decorum">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Merciless Eviction">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Vandalblast">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Vindicate">
+            <card set="AP" lang="EN" count="1"/>
+        </item>
+        <item id="Wrath of God">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Boros Signet">
+            <card set="RAV" lang="EN" count="1"/>
+        </item>
+        <item id="Chromatic Lantern">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Crawlspace">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Darksteel Ingot">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Norn's Annex">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Signet">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Skullclamp">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Anointed Procession">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Assemble the Legion">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Authority of the Consuls">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Blind Obedience">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Curse of Opulence"/>
+        <item id="Ghostly Prison">
+            <card set="CHK" lang="EN" count="1"/>
+        </item>
+        <item id="Karmic Justice">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+        <item id="Marchesa's Decree">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="No Mercy">
+            <card set="UL" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Sphere of Safety">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Kaya, Ghost Assassin">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+        <item id="Kismet">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Battlefield Forge">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodstained Mire">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Caves of Koilos">
+            <card set="ORI" lang="EN" count="1"/>
+        </item>
+        <item id="Clifftop Retreat">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="XLN" lang="EN" count="1"/>
+        </item>
+        <item id="Evolving Wilds">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Godless Shrine">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Nomad Outpost">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Orzhov Basilica">
+            <card set="GP" lang="EN" count="1"/>
+        </item>
+        <item id="Reliquary Tower">
+            <card set="M13" lang="EN" count="1"/>
+        </item>
+        <item id="Sacred Foundry">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Silence">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Terramorphic Expanse">
+            <card set="M11" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Plains">
+            <card set="XLN" lang="EN" ver="1" count="8"/>
+        </item>
+        <item id="Vault of the Archangel">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="XLN" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="XLN" lang="EN" ver="1" count="4"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Queen Marchesa">
+            <card set="CN2" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

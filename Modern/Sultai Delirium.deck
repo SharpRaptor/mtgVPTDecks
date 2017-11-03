@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Modern" name="">
+    <section id="main">
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Shriekmaw">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <item id="Maelstrom Pulse">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Glen Elendra Archmage">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Collective Brutality">
+            <card set="EMN" lang="EN" count="3"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="3"/>
+        </item>
+        <item id="Traverse the Ulvenwald">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Grim Flayer">
+            <card set="EMN" lang="EN" count="4"/>
+        </item>
+        <item id="Jace, Vryn's Prodigy">
+            <card set="ORI" lang="EN" count="3"/>
+        </item>
+        <item id="Courser of Kruphix">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Fatal Push">
+            <card set="AER" lang="EN" count="3"/>
+        </item>
+        <item id="Kalitas, Traitor of Ghet">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Tireless Tracker">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Bitterblossom">
+            <card set="MOR" lang="EN" count="3"/>
+        </item>
+        <item id="Liliana of the Veil">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Architects of Will">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Ishkanah, Grafwidow">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Emrakul, the Promised End">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Blooming Marsh">
+            <card set="KLD" lang="EN" count="4"/>
+        </item>
+        <item id="Overgrown Tomb">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Woodland Cemetery">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Breeding Pool">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Watery Grave">
+            <card set="GTC" lang="EN" count="1"/>
+        </item>
+        <item id="Hinterland Harbor">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Verdant Catacombs">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Misty Rainforest">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Forest">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="KLD" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Creeping Tar Pit">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Fatal Push">
+            <card set="AER" lang="EN" count="1"/>
+        </item>
+        <item id="Glen Elendra Archmage">
+            <card set="EVE" lang="EN" count="1"/>
+        </item>
+        <item id="Abrupt Decay">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Kalitas, Traitor of Ghet">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Inquisition of Kozilek">
+            <card set="ROE" lang="EN" count="1"/>
+        </item>
+        <item id="Thoughtseize">
+            <card set="THS" lang="EN" count="3"/>
+        </item>
+        <item id="Disdainful Stroke">
+            <card set="KTK" lang="EN" count="2"/>
+        </item>
+        <item id="Countersquall">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Big Game Hunter">
+            <card set="PLC" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>
