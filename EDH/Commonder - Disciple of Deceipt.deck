@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Holdout Settlement">
+            <card set="OGW" lang="EN" count="1"/>
+        </item>
+        <item id="Survivors' Encampment">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <group name="Ramp"/>
+        <item id="Springleaf Drum">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <group name="Protect / Untap Commander"/>
+        <item id="Crypsis">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Freed from the Real">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <item id="Galvanic Alchemist">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Hidden Strings">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Jolt">
+            <card set="MI" lang="EN" count="1"/>
+        </item>
+        <item id="Refocus">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Singing Bell Strike">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Twitch">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Elgaud Shieldmate">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Whispersilk Cloak">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Neurok Stealthsuit">
+            <card set="FD" lang="EN" count="1"/>
+        </item>
+        <item id="Protective Bubble">
+            <card set="LRW" lang="EN" count="1"/>
+        </item>
+        <group name="Engine Pieces"/>
+        <item id="Ghostly Flicker">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Archaeomancer">
+            <card set="M14" lang="EN" count="1"/>
+        </item>
+        <item id="Mnemonic Wall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Death Denied">
+            <card set="SOK" lang="EN" count="1"/>
+        </item>
+        <group name="Graveyard Return"/>
+        <item id="Scrivener">
+            <card set="OD" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Disciple of Deceit">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>
