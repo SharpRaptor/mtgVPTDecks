@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Island">
+            <card set="ISD" lang="ENG" ver="1" count="3"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="XLN" lang="EN" count="4"/>
+        </item>
+        <item id="Choked Estuary">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Nephalia Drownyard">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="ISD" lang="ENG" ver="1" count="5"/>
+            <card set="ISD" lang="ENG" ver="2" count="4"/>
+            <card set="ISD" lang="ENG" ver="3" count="2"/>
+        </item>
+        <group name="Nonland"/>
+        <item id="Dark Salvation">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Cryptbreaker">
+            <card set="EMN" lang="EN" count="4"/>
+        </item>
+        <item id="Gravecrawler">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Diregraf Captain">
+            <card set="DKA" lang="ENG" count="4"/>
+        </item>
+        <item id="Diregraf Colossus">
+            <card set="SOI" lang="EN" count="3"/>
+        </item>
+        <item id="Dread Slaver">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Gisa and Geralf">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Unbreathing Horde">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Endless Ranks of the Dead">
+            <card set="ISD" lang="ENG" count="4"/>
+        </item>
+        <item id="Relentless Dead">
+            <card set="SOI" lang="EN" count="2"/>
+        </item>
+        <item id="Victim of Night">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Forbidden Alchemy">
+            <card set="ISD" lang="ENG" count="2"/>
+        </item>
+        <item id="Negate">
+            <card set="M12" lang="ENG" count="2"/>
+        </item>
+        <item id="Army of the Damned">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Victim of Night">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Negate">
+            <card set="M12" lang="ENG" count="2"/>
+        </item>
+        <item id="Dark Salvation">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Zombie Apocalypse">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M14" lang="EN" count="2"/>
+        </item>
+    </section>
+</deck>

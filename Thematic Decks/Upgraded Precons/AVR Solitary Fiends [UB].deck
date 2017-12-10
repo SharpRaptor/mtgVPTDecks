@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <item id="Island">
+            <card set="AVR" lang="ENG" ver="1" count="6"/>
+            <card set="AVR" lang="ENG" ver="2" count="4"/>
+        </item>
+        <item id="Faerie Conclave">
+            <card set="10E" lang="EN" count="3"/>
+        </item>
+        <item id="Swamp">
+            <card set="AVR" lang="ENG" ver="1" count="6"/>
+            <card set="AVR" lang="ENG" ver="2" count="4"/>
+        </item>
+        <item id="Dimir Keyrune">
+            <card set="GTC" lang="EN" count="4"/>
+        </item>
+        <item id="Fettergeist">
+            <card set="AVR" lang="ENG" count="4"/>
+        </item>
+        <item id="Lone Revenant">
+            <card set="AVR" lang="ENG" count="4"/>
+        </item>
+        <item id="Crippling Chill">
+            <card set="AVR" lang="ENG" count="2"/>
+        </item>
+        <item id="Doom Blade">
+            <card set="M12" lang="ENG" count="3"/>
+        </item>
+        <item id="Victim of Night">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Tragic Slip">
+            <card set="DKA" lang="EN" count="4"/>
+        </item>
+        <item id="Think Twice">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Dissipate">
+            <card set="M15" lang="EN" count="3"/>
+        </item>
+        <item id="Homicidal Seclusion">
+            <card set="AVR" lang="ENG" count="2"/>
+        </item>
+        <item id="Consuming Vapors">
+            <card set="ROE" lang="EN" count="2"/>
+        </item>
+        <item id="Deadly Wanderings">
+            <card set="DTK" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>
