@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Island">
+            <card set="ISD" lang="ENG" ver="1" count="2"/>
+        </item>
+        <item id="Drowned Catacomb">
+            <card set="XLN" lang="EN" count="4"/>
+        </item>
+        <item id="Arcane Sanctum">
+            <card set="ALA" lang="EN" count="4"/>
+        </item>
+        <item id="Isolated Chapel">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Swamp">
+            <card set="ISD" lang="ENG" ver="1" count="7"/>
+            <card set="ISD" lang="ENG" ver="2" count="2"/>
+        </item>
+        <group name="Nonland"/>
+        <item id="Dark Salvation">
+            <card set="EMN" lang="EN" count="4"/>
+        </item>
+        <item id="Cryptbreaker">
+            <card set="EMN" lang="EN" count="4"/>
+        </item>
+        <item id="Relentless Dead">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Wayward Servant">
+            <card set="AKH" lang="EN" count="2"/>
+        </item>
+        <item id="Diregraf Captain">
+            <card set="DKA" lang="ENG" count="4"/>
+        </item>
+        <item id="Lord of the Accursed">
+            <card set="AKH" lang="EN" count="2"/>
+        </item>
+        <item id="Diregraf Colossus">
+            <card set="SOI" lang="EN" count="4"/>
+        </item>
+        <item id="Gisa and Geralf">
+            <card set="EMN" lang="EN" count="2"/>
+        </item>
+        <item id="Endless Ranks of the Dead">
+            <card set="ISD" lang="ENG" count="4"/>
+        </item>
+        <item id="Liliana's Mastery">
+            <card set="AKH" lang="EN" count="4"/>
+        </item>
+        <item id="Necromancer's Covenant">
+            <card set="ARB" lang="EN" count="2"/>
+        </item>
+        <item id="Zombie Apocalypse">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Binding Mummy">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Cemetery Reaper">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Ghoulcaller Gisa">
+            <card set="C14" lang="EN" count="1"/>
+        </item>
+        <item id="Zombie Apocalypse">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Necromancer's Stockpile">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="" name="">
+    <section id="main">
+        <item id="Sphinx's Revelation">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Jace's Ingenuity">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Terminus">
+            <card set="AVR" lang="EN" count="2"/>
+        </item>
+        <item id="Warleader's Helix">
+            <card set="DGM" lang="EN" count="3"/>
+        </item>
+        <item id="Turn_Burn">
+            <card set="DGM" lang="EN" count="2"/>
+        </item>
+        <item id="Azorius Charm">
+            <card set="RTR" lang="EN" count="3"/>
+        </item>
+        <item id="Reprisal">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Prophetic Bolt">
+            <card set="DDJ" lang="EN" count="2"/>
+        </item>
+        <item id="Tamiyo, the Moon Sage">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Elspeth, Sun's Champion">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Assemble the Legion">
+            <card set="GTC" lang="EN" count="2"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Complicate">
+            <card set="ON" lang="EN" count="4"/>
+        </item>
+        <item id="Dismiss">
+            <card set="C14" lang="EN" count="2"/>
+        </item>
+        <group name="Land"/>
+        <item id="Temple of Enlightenment">
+            <card set="BNG" lang="EN" count="3"/>
+        </item>
+        <item id="Temple of Epiphany">
+            <card set="JOU" lang="EN" count="2"/>
+        </item>
+        <item id="Temple of Triumph">
+            <card set="THS" lang="EN" count="2"/>
+        </item>
+        <item id="Glacial Fortress">
+            <card set="M13" lang="EN" count="3"/>
+        </item>
+        <item id="Sulfur Falls">
+            <card set="ISD" lang="EN" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Plains">
+            <card set="KLD" lang="EN" ver="1" count="4"/>
+        </item>
+        <item id="Mountain">
+            <card set="KLD" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Desolate Lighthouse">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Wandering Fumarole">
+            <card set="OGW" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard"/>
+</deck>
