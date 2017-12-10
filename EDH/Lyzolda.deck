@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Standard" name="">
+    <section id="main">
+        <group name="Creature"/>
+        <item id="Siege-Gang Commander">
+            <card set="M10" lang="EN" count="1"/>
+        </item>
+        <item id="Ophiomancer">
+            <card set="C13" lang="EN" count="1"/>
+        </item>
+        <item id="Nether Traitor">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Murderous Redcap">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Reassembling Skeleton">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Blood Artist">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodghast">
+            <card set="ZEN" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodsoaked Champion">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Endrek Sahr, Master Breeder">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Titan">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Burnished Hart">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Butcher of Malakir">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Deathbringer Thoctar">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Grim Haruspex">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Harvester of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Mikaeus, the Unhallowed">
+            <card set="DKA" lang="EN" count="1"/>
+        </item>
+        <item id="Mogis, God of Slaughter">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Neheb, the Eternal">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <item id="Puppeteer Clique">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos, Lord of Riots"/>
+        <item id="Sheoldred, Whispering One">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Sidisi, Undead Vizier">
+            <card set="DTK" lang="EN" count="1"/>
+        </item>
+        <item id="Solemn Simulacrum">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Stalking Vengeance">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Tymaret, the Murder King">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Zealous Conscripts">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Zulaport Cutthroat">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Anger">
+            <card set="JU" lang="EN" count="1"/>
+        </item>
+        <item id="Olivia Voldaren">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <group name="Instant"/>
+        <item id="Chaos Warp">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Hero's Downfall">
+            <card set="THS" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Charm">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Terminate">
+            <card set="ARB" lang="EN" count="1"/>
+        </item>
+        <item id="Vampiric Tutor">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <group name="Sorcery"/>
+        <item id="Beacon of Unrest">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Blasphemous Act">
+            <card set="ISD" lang="EN" count="1"/>
+        </item>
+        <item id="Damnation">
+            <card set="PLC" lang="EN" count="1"/>
+        </item>
+        <item id="Demonic Tutor">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Diabolic Tutor">
+            <card set="KLD" lang="EN" count="1"/>
+        </item>
+        <item id="Dreadbore">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Ever After">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Upheaval">
+            <card set="C16" lang="EN" count="1"/>
+        </item>
+        <item id="Torrent of Souls">
+            <card set="SHM" lang="EN" count="1"/>
+        </item>
+        <item id="Vandalblast">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Victimize">
+            <card set="US" lang="EN" count="1"/>
+        </item>
+        <group name="Artifact"/>
+        <item id="Basilisk Collar">
+            <card set="WWK" lang="EN" count="1"/>
+        </item>
+        <item id="Ashnod's Altar">
+            <card set="6E" lang="EN" count="1"/>
+        </item>
+        <item id="Commander's Sphere">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Lightning Greaves">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Keyrune">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Signet">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Skullclamp">
+            <card set="DS" lang="EN" count="1"/>
+        </item>
+        <item id="Sol Ring">
+            <card set="RS" lang="EN" count="1"/>
+        </item>
+        <item id="Swiftfoot Boots">
+            <card set="M12" lang="EN" count="1"/>
+        </item>
+        <item id="Talisman of Indulgence">
+            <card set="MR" lang="EN" count="1"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Animate Dead">
+            <card set="5E" lang="EN" count="1"/>
+        </item>
+        <item id="Black Market">
+            <card set="MM" lang="EN" count="1"/>
+        </item>
+        <item id="Dictate of Erebos">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Goblin Assault">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <item id="Grave Pact">
+            <card set="10E" lang="EN" count="1"/>
+        </item>
+        <item id="Phyrexian Arena">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Vicious Shadows">
+            <card set="ALA" lang="EN" count="1"/>
+        </item>
+        <group name="Walker"/>
+        <item id="Liliana Vess">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Blood Crypt">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Bloodfell Caves">
+            <card set="FRF" lang="EN" count="1"/>
+        </item>
+        <item id="Canyon Slough">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Command Tower">
+            <card set="C17" lang="EN" count="1"/>
+        </item>
+        <item id="Dragonskull Summit">
+            <card set="XLN" lang="EN" count="1"/>
+        </item>
+        <item id="Foreboding Ruins">
+            <card set="SOI" lang="EN" count="1"/>
+        </item>
+        <item id="Kher Keep">
+            <card set="TSP" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Carnarium">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Rakdos Guildgate">
+            <card set="DGM" lang="EN" count="1"/>
+        </item>
+        <item id="Smoldering Marsh">
+            <card set="BFZ" lang="EN" count="1"/>
+        </item>
+        <item id="Tainted Peak">
+            <card set="TO" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of Malice">
+            <card set="BNG" lang="EN" count="1"/>
+        </item>
+        <item id="Temple of the False God">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Urborg, Tomb of Yawgmoth">
+            <card set="M15" lang="EN" count="1"/>
+        </item>
+        <item id="Swamp">
+            <card set="XLN" lang="EN" ver="1" count="16"/>
+        </item>
+        <item id="Mountain">
+            <card set="XLN" lang="EN" ver="1" count="7"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Lyzolda, the Blood Witch">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

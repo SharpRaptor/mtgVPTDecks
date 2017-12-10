@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <item id="Fatal Push"/>
+        <item id="Swords to Plowshares">
+            <card set="IA" lang="EN" count="4"/>
+        </item>
+        <item id="Diabolic Edict"/>
+        <item id="Murderous Cut"/>
+        <item id="Path to Exile">
+            <card set="CFX" lang="EN" count="2"/>
+        </item>
+        <item id="Blessed Alliance">
+            <card set="EMN" lang="EN" count="1"/>
+        </item>
+        <item id="Toxic Deluge"/>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Thoughtseize"/>
+        <item id="Liliana, the Last Hope"/>
+        <item id="Decree of Justice">
+            <card set="SC" lang="EN" count="1"/>
+        </item>
+        <item id="Gideon of the Trials">
+            <card set="AKH" lang="EN" count="1"/>
+        </item>
+        <item id="Brainstorm">
+            <card set="MM" lang="EN" count="4"/>
+        </item>
+        <item id="Force of Will">
+            <card set="AL" lang="EN" count="4"/>
+        </item>
+        <item id="Counterspell">
+            <card set="7E" lang="EN" count="2"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="XLN" lang="EN" count="2"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="4"/>
+        </item>
+        <item id="Stifle">
+            <card set="SC" lang="EN" count="2"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Standstill">
+            <card set="OD" lang="EN" count="3"/>
+        </item>
+        <item id="Vendilion Clique">
+            <card set="MOR" lang="EN" count="1"/>
+        </item>
+        <group name="Land"/>
+        <item id="Wasteland">
+            <card set="TE" lang="EN" count="3"/>
+        </item>
+        <item id="Mishra's Factory">
+            <card set="4EF" lang="PT" count="4"/>
+        </item>
+        <item id="Polluted Delta">
+            <card set="KTK" lang="EN" count="3"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Bloodstained Mire"/>
+        <item id="Windswept Heath">
+            <card set="KTK" lang="EN" count="1"/>
+        </item>
+        <item id="Underground Sea">
+            <card set="RF" lang="DE" count="1"/>
+        </item>
+        <item id="Tundra">
+            <card set="RF" lang="DE" count="2"/>
+        </item>
+        <item id="Swamp"/>
+        <item id="Plains">
+            <card set="XLN" lang="EN" ver="1" count="2"/>
+        </item>
+        <item id="Island">
+            <card set="XLN" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Hallowed Fountain">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Creeping Tar Pit"/>
+    </section>
+    <section id="sideboard">
+        <item id="Leyline of the Void"/>
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Pithing Needle">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Batterskull">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Helm of Obedience">
+            <card set="AL" lang="EN" count="2"/>
+        </item>
+        <item id="Chill"/>
+        <item id="Circle of Protection Red">
+            <card set="9E" lang="EN" count="1"/>
+        </item>
+        <item id="Hydroblast">
+            <card set="5E" lang="EN" count="2"/>
+        </item>
+        <item id="Skeletal Scrying"/>
+        <item id="Arcane Laboratory">
+            <card set="7E" lang="EN" count="1"/>
+        </item>
+        <item id="Dread of Night"/>
+        <item id="Engineered Plague"/>
+        <item id="Humility">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Disenchant">
+            <card set="TSB" lang="EN" count="1"/>
+        </item>
+        <item id="Enlightened Tutor">
+            <card set="6E" lang="EN" count="2"/>
+        </item>
+        <item id="Null Rod">
+            <card set="WL" lang="EN" count="1"/>
+        </item>
+        <item id="Snuff Out"/>
+    </section>
+</deck>

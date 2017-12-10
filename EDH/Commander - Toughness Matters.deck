@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Commander" name="">
+    <section id="main"/>
+    <section id="sideboard">
+        <item id="Belligerent Brontodon">
+            <card set="XLN" lang="EN" count="1"/>
+        </item>
+    </section>
+</deck>

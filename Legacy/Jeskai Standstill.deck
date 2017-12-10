@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="mtg" mode="Constructed" format="Legacy" name="">
+    <section id="main">
+        <group name="Land"/>
+        <item id="Island">
+            <card set="RTR" lang="EN" ver="1" count="3"/>
+        </item>
+        <item id="Cavern of Souls">
+            <card set="AVR" lang="EN" count="1"/>
+        </item>
+        <item id="Tundra">
+            <card set="WLD" lang="EN" opt="Oversized" count="2"/>
+        </item>
+        <item id="Flooded Strand">
+            <card set="KTK" lang="EN" count="4"/>
+        </item>
+        <item id="Scalding Tarn">
+            <card set="ZEN" lang="EN" count="4"/>
+        </item>
+        <item id="Mutavault">
+            <card set="M14" lang="EN" count="4"/>
+        </item>
+        <item id="Volcanic Island">
+            <card set="CED" lang="EN" opt="Oversized" count="2"/>
+        </item>
+        <item id="Wasteland">
+            <card set="EMA" lang="EN" count="2"/>
+        </item>
+        <item id="Plains">
+            <card set="RTR" lang="EN" ver="5" count="1"/>
+        </item>
+        <group name="Other"/>
+        <item id="Ponder"/>
+        <item id="Brainstorm">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Jace, the Mind Sculptor">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <group name="Enchantment"/>
+        <item id="Standstill">
+            <card set="CIN" lang="EN" count="4"/>
+        </item>
+        <group name="Creature"/>
+        <item id="Spellstutter Sprite">
+            <card set="LRW" lang="EN" count="4"/>
+        </item>
+        <item id="Stoneforge Mystic">
+            <card set="WWK" lang="EN" count="2"/>
+        </item>
+        <item id="Batterskull">
+            <card set="NPH" lang="EN" count="1"/>
+        </item>
+        <item id="Umezawa's Jitte">
+            <card set="BOK" lang="EN" count="1"/>
+        </item>
+        <item id="Snapcaster Mage">
+            <card set="ISD" lang="EN" count="3"/>
+        </item>
+        <item id="Nimble Obstructionist">
+            <card set="HOU" lang="EN" count="1"/>
+        </item>
+        <group name="Removal"/>
+        <item id="Swords to Plowshares">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <group name="Counters"/>
+        <item id="Force of Will">
+            <card set="EMA" lang="EN" count="4"/>
+        </item>
+        <item id="Counterspell">
+            <card set="DD2" lang="EN" count="2"/>
+        </item>
+        <item id="Spell Pierce">
+            <card set="XLN" lang="EN" count="2"/>
+        </item>
+        <item id="Spell Snare">
+            <card set="DIS" lang="EN" count="1"/>
+        </item>
+        <item id="Izzet Charm">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+    </section>
+    <section id="sideboard">
+        <item id="Rest in Peace">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Detention Sphere">
+            <card set="RTR" lang="EN" count="2"/>
+        </item>
+        <item id="Circle of Protection Red">
+            <card set="9E" lang="EN" count="2"/>
+        </item>
+        <item id="Enlightened Tutor">
+            <card set="EMA" lang="EN" count="2"/>
+        </item>
+        <item id="Humility">
+            <card set="TE" lang="EN" count="1"/>
+        </item>
+        <item id="Keranos, God of Storms">
+            <card set="JOU" lang="EN" count="1"/>
+        </item>
+        <item id="Supreme Verdict">
+            <card set="RTR" lang="EN" count="1"/>
+        </item>
+        <item id="Sweltering Suns">
+            <card set="AKH" lang="EN" count="2"/>
+        </item>
+        <item id="Arcane Laboratory">
+            <card set="7E" lang="EN" count="2"/>
+        </item>
+        <item id="Stifle"/>
+        <item id="Spell Queller"/>
+    </section>
+</deck>
